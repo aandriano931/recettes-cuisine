@@ -44,6 +44,28 @@ Une recette = **un fichier dans `recipes/`**. Pas de sous-dossiers par catégori
    PYTHONPATH=. .venv/bin/python scripts/admin/import_recipes.py --path ~/workspace/recettes-cuisine/recipes/ --apply
    ```
 
+## Peupler le repo depuis une base existante
+
+Si tu as déjà des recettes en base Maison (imports Cookmate, recettes ajoutées par l'agent via `add_recipe`…) et que tu veux les matérialiser ici comme point de départ :
+
+```bash
+cd ~/workspace/projectx/agent
+
+# Dry-run — affiche les fichiers qui seraient créés
+PYTHONPATH=. .venv/bin/python scripts/admin/export_recipes.py \
+    --out ~/workspace/recettes-cuisine/recipes/
+
+# Écrire (ne touche pas aux fichiers déjà présents par défaut)
+PYTHONPATH=. .venv/bin/python scripts/admin/export_recipes.py \
+    --out ~/workspace/recettes-cuisine/recipes/ --apply
+
+# Écraser les fichiers existants (perte des éditions manuelles — à éviter)
+PYTHONPATH=. .venv/bin/python scripts/admin/export_recipes.py \
+    --out ~/workspace/recettes-cuisine/recipes/ --apply --overwrite
+```
+
+Après export, relire, éditer si besoin, puis commit + push. Le cycle complet est alors : édition markdown ici → `git commit` → `import_recipes.py --apply` côté Maison pour resynchroniser la base.
+
 ## Format
 
 Chaque recette est un fichier `.md` avec deux zones :
