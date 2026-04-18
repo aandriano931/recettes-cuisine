@@ -4,7 +4,11 @@ servings: 4
 duration_minutes: 90
 source: manual
 source_url: null
-tags: [famille, hiver, maghreb, plat-principal]
+tags:
+- famille
+- hiver
+- maghreb
+- plat-principal
 ---
 
 # Tajine de poulet maison
@@ -31,12 +35,3 @@ tags: [famille, hiver, maghreb, plat-principal]
 4. Mouiller avec un grand verre d'eau chaude, saler, poivrer. Couvrir et laisser mijoter 45 min à feu doux.
 5. Trancher le citron confit en quartiers, l'ajouter avec les olives. Poursuivre la cuisson 15 min à découvert.
 6. Avant de servir, parsemer de coriandre fraîche ciselée.
-
-## Notes
-
-Encore meilleur réchauffé le lendemain. Servir avec de la semoule ou du pain maison.
-
-## Variantes
-
-- **Version agneau** : remplacer le poulet par 1 kg d'épaule d'agneau en morceaux, augmenter le temps de mijotage à 1h30.
-- **Version légumes** : ajouter des carottes et des courgettes en rondelles après 30 min de cuisson.

@@ -53,15 +53,15 @@ cd ~/workspace/projectx/agent
 
 # Dry-run — affiche les fichiers qui seraient créés
 PYTHONPATH=. .venv/bin/python scripts/admin/export_recipes.py \
-    --out ~/workspace/recettes-cuisine/recipes/
+    --output ~/workspace/recettes-cuisine/recipes/
 
 # Écrire (ne touche pas aux fichiers déjà présents par défaut)
 PYTHONPATH=. .venv/bin/python scripts/admin/export_recipes.py \
-    --out ~/workspace/recettes-cuisine/recipes/ --apply
+    --output ~/workspace/recettes-cuisine/recipes/ --apply
 
 # Écraser les fichiers existants (perte des éditions manuelles — à éviter)
 PYTHONPATH=. .venv/bin/python scripts/admin/export_recipes.py \
-    --out ~/workspace/recettes-cuisine/recipes/ --apply --overwrite
+    --output ~/workspace/recettes-cuisine/recipes/ --apply --overwrite
 ```
 
 Après export, relire, éditer si besoin, puis commit + push. Le cycle complet est alors : édition markdown ici → `git commit` → `import_recipes.py --apply` côté Maison pour resynchroniser la base.
