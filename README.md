@@ -44,27 +44,15 @@ Une recette = **un fichier dans `recipes/`**. Pas de sous-dossiers par catégori
    PYTHONPATH=. .venv/bin/python scripts/admin/import_recipes.py --path ~/workspace/recettes-cuisine/recipes/ --apply
    ```
 
-## Peupler le repo depuis une base existante
+## Peupler le repo depuis la base Maison
 
-Si tu as déjà des recettes en base Maison (imports Cookmate, recettes ajoutées par l'agent via `add_recipe`…) et que tu veux les matérialiser ici comme point de départ :
+Si tu as déjà des recettes en base Maison (imports Cookmate, recettes ajoutées par Alfred via `add_recipe`…) et que tu veux les matérialiser ici, le script `scripts/admin/export_recipes.py` côté projet Maison fait le travail.
 
-```bash
-cd ~/workspace/projectx/agent
+**Le pas-à-pas complet (snapshot prod via SSH → scp en local → export filtré → commit ici → cleanup) est documenté dans le runbook du projet Maison** : section [_Exporter des recettes vers le repo markdown_](https://github.com/aandriano931/home-ia/blob/main/docs/runbook.md#exporter-des-recettes-vers-le-repo-markdown).
 
-# Dry-run — affiche les fichiers qui seraient créés
-PYTHONPATH=. .venv/bin/python scripts/admin/export_recipes.py \
-    --output ~/workspace/recettes-cuisine/recipes/
+⚠ **Round-trip cassé pour les recettes Cookmate et Alfred** : leur `source_id` en base n'est pas slug-conforme (UUID Cookmate ou `NULL` pour Alfred). Le `.md` exporté a donc un slug ≠ ID DB → le ré-importer créerait un **doublon**. Le runbook décrit le "bootstrap dance" (delete en base + re-import) pour rendre une recette éditable depuis ce repo.
 
-# Écrire (ne touche pas aux fichiers déjà présents par défaut)
-PYTHONPATH=. .venv/bin/python scripts/admin/export_recipes.py \
-    --output ~/workspace/recettes-cuisine/recipes/ --apply
-
-# Écraser les fichiers existants (perte des éditions manuelles — à éviter)
-PYTHONPATH=. .venv/bin/python scripts/admin/export_recipes.py \
-    --output ~/workspace/recettes-cuisine/recipes/ --apply --overwrite
-```
-
-Après export, relire, éditer si besoin, puis commit + push. Le cycle complet est alors : édition markdown ici → `git commit` → `import_recipes.py --apply` côté Maison pour resynchroniser la base.
+Tant que tu fais juste un export pour archiver, aucune danse n'est nécessaire — le `.md` reste une copie statique.
 
 ## Format
 
