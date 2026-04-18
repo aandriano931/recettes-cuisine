@@ -1,0 +1,13 @@
+# Éditeurs / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*~
+
+# Obsidian (si jamais on ouvre ce repo comme un vault)
+.obsidian/
+
+# Fichiers temporaires
+*.bak
+*.tmp
