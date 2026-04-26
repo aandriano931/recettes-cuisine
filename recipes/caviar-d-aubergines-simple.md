@@ -5,7 +5,9 @@ duration_minutes: 20
 source: cookmate
 source_url: null
 tags:
-- Végétarien
+- vegetarien
+- aperitif
+- facile
 ---
 
 # Caviar d'aubergines simple

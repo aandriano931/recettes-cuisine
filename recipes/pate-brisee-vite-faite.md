@@ -5,8 +5,9 @@ duration_minutes: 30
 source: cookmate
 source_url: null
 tags:
-- bon marché
-- très facile
+- patisserie
+- pate
+- facile
 ---
 
 # Pâte brisée vite faite
@@ -15,8 +16,8 @@ tags:
 
 - 300 g de farine
 - 150 g de beurre en dés et en pommade
-- 1/2 cuillère à café de sel
-- 3 cuillères à soupe de sucre (si pâte sucrée)
+- 1/2 c. à c. de sel
+- 3 c. à s. de sucre (si pâte sucrée)
 - 8 cl d'eau ou de lait tiède
 
 ## Préparation

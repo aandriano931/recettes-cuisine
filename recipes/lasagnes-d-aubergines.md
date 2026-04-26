@@ -5,7 +5,9 @@ duration_minutes: 60
 source: cookmate
 source_url: null
 tags:
-- Végétarien
+- vegetarien
+- plat-principal
+- gratin
 ---
 
 # Lasagnes d'aubergines
@@ -33,6 +35,3 @@ tags:
 4. Dans un plat à gratin, couvrir le fond de quelques cuillerées de sauce. Recouvrir de feuilles de lasagnes (sans les faire se chevaucher) puis placer les tranches d'aubergines parallèles. Saler, poivrer, parsemer de parmesan et d'une petite poignée de Comté. Placer à nouveau feuilles de lasagne, sauce, aubergines, Comté, Parmesan. Faire 3 couches. Recouvrir le dessus du gratin de Comté.
 5. Cuire 50 min au four préchauffé à thermostat 7 (210°C) et déguster.
 
-## Notes
-
-Une de mes recettes favorites. Dégusté entre amis, le plat revient toujours vide en cuisine!

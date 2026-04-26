@@ -1,10 +1,13 @@
 ---
 title: La Vraie Moussaka Grecque
-servings: 4
+servings: 8
 duration_minutes: 155
 source: cookmate
 source_url: null
-tags: []
+tags:
+- convivial
+- grec
+- plat-principal
 ---
 
 # La Vraie Moussaka Grecque
@@ -12,19 +15,19 @@ tags: []
 ## Ingrédients
 
 - 20 g de beurre
-- 3 c.à.s de farine
+- 3 c. à s. de farine
 - 35 cl de lait
 - 2 aubergines
 - 5 tomates (+/- une demie brique de coulis de tomate)
 - 1 oignon
 - huile d'olive (je la prends au basilic)
 - 30 g de beurre
-- 1 c.à.s de miel
+- 1 c. à c. de miel
 - poivre
 - sel
 - 6 pommes de terre
 - 500 g de boeuf haché
-- 1 petite cuillère de cannelle
+- 1 c. à c. de cannelle
 - muscade
 
 ## Préparation
@@ -39,7 +42,7 @@ tags: []
 8. Préparation des pommes de terre.
 9. Eplucher et découper les pommes de terres en fines rondelles.
 10. Disposer les rondelles de pommes de terre au fond d'un plat à gratin assez haut, huilé.
-11. Arroser les pommes de terres d'un peu (3 cuillères à soupe) du jus rendu par les tomates qui mijotent.
+11. Arroser les pommes de terres d'un peu (3 c. à s.) du jus rendu par les tomates qui mijotent.
 12. Passer le plat de pommes de terre sous le grill 5 à 15 min selon votre four, pour qu'elles dorent.
 13. Maintenant qu'elles ont dégorgé, passer les rondelles d'aubergine à la poêle à feu fort pour les faire griller un peu de chaque côté, réserver.
 14. Préparation de la viande.
@@ -54,6 +57,4 @@ tags: []
 23. Par dessus la couche de pommes de terre, étaler la moitié de la viande hachée avec la tomate, puis la moitié des aubergines, puis l'autre moitié de viande, puis l'autre moitié des aubergines, un filet d'huile d'olive et terminer par la béchamel.
 24. Enfourner le tout dans le four à 200°C (thermostat 6-7) et laisser cuire 1h (la béchamel doit croustiller et être dorée).
 
-## Notes
 
-beurre, farine, lait, aubergine, tomate, oignon, huile d'olive, beurre, miel, poivre, sel, pomme de terre, boeuf haché, cannelle, muscade

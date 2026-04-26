@@ -4,7 +4,7 @@ servings: 8
 duration_minutes: 40
 source: cookmate
 source_url: null
-tags: []
+tags: [gateau, dessert, antillais]
 ---
 
 # Gâteau de patates douces et ananas

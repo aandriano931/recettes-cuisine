@@ -4,26 +4,26 @@ servings: 4
 duration_minutes: 30
 source: cookmate
 source_url: null
-tags: []
+tags: [vegetarien, indien, epice]
 ---
 
 # Dhal de lentilles au lait de coco et aubergines
 
 ## Ingrédients
 
-- Huile de coconut ou huile d’olive: 1 c. à soupe
+- Huile de coconut ou huile d’olive: 1 c. à s.
 - Oignon: 1 oignon jaune coupé en dés
-- Poudre de curcuma: 2 c. à thé
-- Poudre de curry: 2 c. à thé
-- Poudre de cumin: 1 c. à thé
+- Poudre de curcuma: 2 c. à c.
+- Poudre de curry: 2 c. à c.
+- Poudre de cumin: 1 c. à c.
 - Ail: 3 gousses d’ail, émincées
-- Gingembre : 1 c. à soupe de gingembre frais râpé
+- Gingembre : 1 c. à s. de gingembre frais râpé
 - Lentilles corail: 1 ½ tasse de lentilles sèches
 - Lait de coconut: 1 canne de 400ml (full fat)
 - Bouillon de légumes: 2 ½ tasses (on peut remplacer par de l’eau)
-- Sirop d’érable: 1 c. à thé
+- Sirop d’érable: 1 c. à c.
 - 1 petite aubergine
-- 3 c. à soupe d’huile d’olive
+- 3 c. à s. d’huile d’olive
 
 ## Préparation
 

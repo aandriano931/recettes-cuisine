@@ -4,7 +4,10 @@ servings: 8
 duration_minutes: 35
 source: cookmate
 source_url: null
-tags: []
+tags:
+- convivial
+- mediterraneen
+- riz
 ---
 
 # Paëlla fruits de mer, chorizo et poulet de Patou
@@ -19,7 +22,7 @@ tags: []
 - 3 gousses d'ail
 - 3 doses de safran
 - 1 l de bouillon de volaille
-- 5 c.à.s d'huile d'olive
+- 5 c. à s. d'huile d'olive
 - poivre
 - sel
 - 1 kg de filet de poulet
@@ -33,6 +36,4 @@ tags: []
 2. Mettre l'huile dans le plat et faire dorer les morceaux de poulet. Ajouter les calamars, les oignons tout en remuant puis mettre les tomates, les poivrons, l'ail, le safran, le sel et le poivre. Laisser cuire 5 minutes en remuant avant d'incorporer le riz, le chorizo et le bouillon.
 3. Y plonger les crevettes et les moules, porter à ébullition puis laisser cuire environ 30-35 minutes.
 
-## Notes
 
-riz, chorizo, poivron, tomate, oignon, ail, safran, bouillon de volaille, huile d'olive, poivre, sel, filet de poulet, calamar, moules, crevettes

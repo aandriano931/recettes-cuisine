@@ -1,11 +1,13 @@
 ---
 title: Cake feta-figues et romarin
-servings: null
+servings: 6
 duration_minutes: 45
 source: cookmate
 source_url: null
 tags:
-- Végétarien
+- vegetarien
+- aperitif
+- sale
 ---
 
 # Cake feta-figues et romarin
@@ -20,7 +22,7 @@ tags:
 - 50 gr de fromage râpé
 - 100 ml d'huile d'olive
 - 125 ml de lait ou lait végétal (ici boisson de riz)
-- 3 cuillères à soupe de sirop d'érable
+- 3 c. à s. de sirop d'érable
 - Romarin, sel, poivre
 
 ## Préparation
@@ -37,4 +39,4 @@ tags:
 
 ## Notes
 
-Avec la chaleur qu&#x27;il fait en ce moment, on a tous envie de prendre le grand air et de se ressourcer loin de la chaleur et du bruit infernal de …
+Valeur sûre pour amener à l'apéritif 

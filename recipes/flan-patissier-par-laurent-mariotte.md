@@ -4,7 +4,7 @@ servings: 8
 duration_minutes: 60
 source: cookmate
 source_url: null
-tags: []
+tags: [patisserie, gateau, dessert]
 ---
 
 # Flan pâtissier par Laurent Mariotte
@@ -17,7 +17,7 @@ tags: []
 - 100 g de fécule de maïs
 - 20 cl de crème liquide entière
 - 1 gousse de vanille
-- 250 g de farine + 1 cuil. à soupe
+- 250 g de farine + 1 c. à s.
 - 180 g de beurre + 5 g pour le moule
 - 1 oeuf (gros)
 - 30 g de sucre
@@ -34,9 +34,8 @@ tags: []
 7. Reversez le tout dans la casserole sur feu doux et fouettez sans cesse jusqu’à ce que la crème épaississe et commence à bouillir. Laissez refroidir hors du feu.
 8. Pendant ce temps, étalez la pâte sur un plan de travail fariné et foncez-la dans le moule beurré.
 9. Versez la préparation à flan et lissez la surface.
-10. Enfournez pour 50 minutes de cuisson : le flan doit être bien
-11. coloré.
-12. Laissez refroidir et placez dans le réfrigérateur au moins 6 heures/une nuit.
+10. Enfournez pour 50 minutes de cuisson : le flan doit être bien coloré.
+11. Laissez refroidir et placez dans le réfrigérateur au moins 6 heures/une nuit.
 
 ## Notes
 

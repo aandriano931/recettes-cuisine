@@ -5,7 +5,8 @@ duration_minutes: 25
 source: cookmate
 source_url: null
 tags:
-- bon marché
+- americain
+- dessert
 - facile
 ---
 
@@ -15,7 +16,7 @@ tags:
 
 - 110 g de beurre non salé
 - 110 g de golden syrup (ou de sirop d’érable, le goût de la tarte sera alors un peu plus prononcé)
-- 1 cuillère à café d'extrait de vanille
+- 1 c. à c. d'extrait de vanille
 - 225 g de sucre roux
 - 3 oeufs
 - 1 pâte brisée

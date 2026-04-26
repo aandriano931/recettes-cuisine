@@ -5,7 +5,9 @@ duration_minutes: 30
 source: cookmate
 source_url: null
 tags:
-- Français
+- francais
+- poulet
+- plat-principal
 ---
 
 # Poulet caramélisé à l'ail et cassonade
@@ -26,17 +28,16 @@ tags:
 
 ## Préparation
 
-1. Étape 1 :
-2. Préchauffez le four à 200°C ou Th. 6/7. Salez et poivrez les cuisses de poulet. Étape 2 :
-3. Faites fondre 2 cuillères à soupe de beurre dans une grande poêle. Ajoutez le poulet, coté peau vers le bas. Étape 3 :
-4. Saisissez des deux côtés jusqu'à coloration, environ 2-3 minutes de chaque côté. Étape 4 :
-5. Retirez les cuisses de la poêle et réservez-les. Étape 5 :
-6. Faites fondre le reste du beurre dans la poêle. Ajoutez l'ail et laissez cuire 1 à 2 minutes en remuant régilièrement. Étape 6 :
-7. Eteignez le feu. Incorporez la cassonade. Étape 7 :
-8. Incorporez le miel. Étape 8 :
-9. Ajoutez l'origan, le thym et le basilic et mélangez bien. Étape 9 :
-10. Mettez le poulet dans un plat allant au four. Arrosez avec la sauce à la cassonade.Placez dans le four et faites cuire 25 à 30 minutes, jusqu'à ce que le poulet soit caramelisé. Étape 10 :
-11. Servez le poulet immédiatement parsemé de persil frais. Étape 11 :
+1. Préchauffez le four à 200°C ou Th. 6/7. Salez et poivrez les cuisses de poulet.
+2. Faites fondre 2 c. à s. de beurre dans une grande poêle. Ajoutez le poulet, coté peau vers le bas.
+3. Saisissez des deux côtés jusqu'à coloration, environ 2-3 minutes de chaque côté.
+4. Retirez les cuisses de la poêle et réservez-les.
+5. Faites fondre le reste du beurre dans la poêle. Ajoutez l'ail et laissez cuire 1 à 2 minutes en remuant régulièrement.
+6. Eteignez le feu. Incorporez la cassonade.
+7. Incorporez le miel.
+8. Ajoutez l'origan, le thym et le basilic et mélangez bien.
+9. Mettez le poulet dans un plat allant au four. Arrosez avec la sauce à la cassonade. Placez dans le four et faites cuire 25 à 30 minutes, jusqu'à ce que le poulet soit caramélisé.
+10. Servez le poulet immédiatement parsemé de persil frais.
 
 ## Notes
 

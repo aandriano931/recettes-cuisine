@@ -5,7 +5,9 @@ duration_minutes: 10
 source: cookmate
 source_url: null
 tags:
-- Asiatique
+- asiatique
+- poisson
+- epice
 ---
 
 # Curry vert de lotte
@@ -17,15 +19,15 @@ tags:
 - 2 gousses d'ail
 - 2 tiges de citronelle écrasées
 - 2 grosses échalotes ciselées
-- une cuillère à café de curry vert en pâte
+- 1 c. à c. de curry vert en pâte
 - 20 cl de lait ou de crème de coco
 - le zeste d'un demi citron vert
 - 12 oignons grelots ou 8 oignons nouveaux
-- 1/2 litre de fumet de poisson (réalisé avec les parures de lotte)
+- 1/2 litre de fumet de poisson
 - 2 tranches de gingembre
 - sauce soja non sucrée
 - feuilles de basilic ou de coriandre
-- facultatif : nuoc-mâm
+- nuoc-mâm
 - huile de sésame
 - 200 g de garniture (haricots plats, haricots verts, pois...).
 
@@ -44,6 +46,3 @@ tags:
 11. En fin de cuisson, ôter les aromates.
 12. Server en assiettes creuses en ajoutant les haricots coco plats et un peu de basilic ciselé (ou quelques feuilles de coriandre). Verser quelques gouttes d'huile de sésame, juste avant de servir... mais ça c'est ma petite touche personnelle !
 
-## Notes
-
-Un curry de poisson à la noix de coco et au citron vert.

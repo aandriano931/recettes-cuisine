@@ -4,7 +4,10 @@ servings: 7
 duration_minutes: 10
 source: cookmate
 source_url: null
-tags: []
+tags:
+- gateau
+- dessert
+- citron
 ---
 
 # Cheesecake au citron sans cuisson
@@ -15,11 +18,12 @@ tags: []
 - 70g de beurre
 - 300g de Philadelphia ou autre fromage frais
 - 200g de sucre
-- 220g de jus de citron + Zestes de 2,5 citrons
-- 280g de crème liquide 30% (environ 30cl)
+- 220g de jus de citron
+- Zestes de 2,5 citrons
+- 280g de crème liquide 30% 
 - 2 feuilles de gélatine
 - 3 oeufs
-- 1 cuillère à café de maizena
+- 1 c. à c. de maïzena
 
 ## Préparation
 
@@ -42,6 +46,3 @@ tags: []
 17. Une fois votre lemon curd épaissi, ajoutez le beurre hors du feu et mélangez avec un fouet.
 18. Attendez que le mélange refroidisse puis étalez le sur votre cheesecake.
 
-## Notes
-
-Recette de cheesecake au citron sans cuisson

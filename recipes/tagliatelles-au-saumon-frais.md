@@ -4,7 +4,7 @@ servings: null
 duration_minutes: null
 source: cookmate
 source_url: null
-tags: []
+tags: [poisson, pates, plat-principal]
 ---
 
 # Tagliatelles au saumon frais
@@ -39,6 +39,4 @@ tags: []
 7. Étape 3 : Finition et présentation
 8. Rincer, sécher la ciboulette et le persil. Effeuiller celui-ci et ciseler le tout. Déposer les cubes de saumon dans le sautoir. Les mélanger délicatement et sortir le sautoir du feu. Le couvrir et laisser les dés de saumon cuire pendant 2 à 3 minutes afin qu’ils restent rosés à cœur. Égoutter les pâtes et les verser dans le sautoir. Remuer délicatement jusqu’à ce que tout soit bien mélangé, les pâtes bien imprégnées de sauce. Les servir dans un plat ou les dresser sur les assiettes. Parsemer le persil et la ciboulette dessus.
 
-## Notes
 
-Les tagliatelles... Ces longues pâtes typiquement italiennes, sont cuites "al dente" dans une recette savoureuse aux dés de saumons frais. Une fois dressées dans l'assiette, il suffit d'ajouter du persil et de la ciboulette fraîchement ciselée pour sublimer votre plat.

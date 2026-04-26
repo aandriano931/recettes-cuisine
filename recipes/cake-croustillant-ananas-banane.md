@@ -5,8 +5,9 @@ duration_minutes: 60
 source: cookmate
 source_url: null
 tags:
-- bon marché
+- bon-marche
 - facile
+- gateau
 ---
 
 # Cake croustillant ananas-banane
@@ -14,7 +15,7 @@ tags:
 ## Ingrédients
 
 - 2 oeufs
-- 100 g de sucre roux (non raffiné de préférence)
+- 100 g de sucre roux
 - 100 g de beurre doux
 - 100 g de farine
 - 1 sachet de levure

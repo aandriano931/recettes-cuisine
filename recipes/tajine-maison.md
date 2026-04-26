@@ -5,10 +5,9 @@ duration_minutes: 90
 source: manual
 source_url: null
 tags:
-- famille
-- hiver
 - maghreb
 - plat-principal
+- famille
 ---
 
 # Tajine de poulet maison

@@ -5,7 +5,9 @@ duration_minutes: null
 source: cookmate
 source_url: null
 tags:
-- Asiatique
+- asiatique
+- thai
+- pates
 ---
 
 # Pad Thaï ou nouilles sautées à la thaïlandaise
@@ -13,10 +15,10 @@ tags:
 ## Ingrédients
 
 - Ciboules ou oignons nouveaux
-- 2 c. à soupe de cacahuètes grillées mixées
-- 2 c. à soupe de cassonade
-- 1 c. à soupe de crevettes séchées
-- 2 c. à soupe d'huile de tournesol
+- 2 c. à s. de cacahuètes grillées mixées
+- 2 c. à s. de cassonade
+- 1 c. à s. de crevettes séchées
+- 2 c. à s. d'huile de tournesol
 - Pâte de tamarin acide
 - Tofu ferme
 - Pousses de soja

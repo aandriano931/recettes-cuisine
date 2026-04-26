@@ -4,7 +4,7 @@ servings: 4
 duration_minutes: null
 source: cookmate
 source_url: null
-tags: []
+tags: [aperitif, mexicain, vegetarien]
 ---
 
 # Guacamole très facile

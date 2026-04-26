@@ -4,7 +4,10 @@ servings: 1
 duration_minutes: 15
 source: cookmate
 source_url: null
-tags: []
+tags:
+- patisserie
+- pate
+- facile
 ---
 
 # Pâte sablée
@@ -25,6 +28,3 @@ tags: []
 3. Malaxez le tout jusqu'à obtenir une pâte homogène. Etalez la au rouleau.
 4. Faites cuire à four chaud 12 à 15 min. Possibilité de mettre du papier sulfurisé dessus, pour être sûr que ça ne brûle pas.
 
-## Notes
-
-farine, sucre semoule, beurre, sel, oeuf, citron

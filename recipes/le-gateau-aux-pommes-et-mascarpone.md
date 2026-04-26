@@ -4,7 +4,10 @@ servings: 11
 duration_minutes: null
 source: cookmate
 source_url: null
-tags: []
+tags:
+- gateau
+- dessert
+- automne
 ---
 
 # Le Gâteau aux Pommes et Mascarpone
@@ -19,10 +22,10 @@ tags: []
 - 250 g de mascarpone
 - 200 g de farine
 - 1,5 sachets de levure (ou 16 g)
-- 1/2 cuillère à café de cannelle
+- 1/2 c. à c. de cannelle
 - 1 pincée de fleur de sel
-- 2 cuillères à soupe de cassonade
-- 2 cuillères à café de sucre glace
+- 2 c. à s. de cassonade
+- 2 c. à c. de sucre glace
 - Du beurre pour le moule
 
 ## Préparation

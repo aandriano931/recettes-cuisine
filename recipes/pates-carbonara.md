@@ -4,7 +4,7 @@ servings: 2
 duration_minutes: 20
 source: manual
 source_url: null
-tags: [rapide, italien, plat-principal, pates]
+tags: [italien, pates, plat-principal]
 ---
 
 # Pâtes à la carbonara (vraie recette italienne)
@@ -36,6 +36,3 @@ tags: [rapide, italien, plat-principal, pates]
 
 **La règle d'or** : pas de crème, pas d'oignon, pas d'ail. La recette traditionnelle romaine utilise exclusivement les ingrédients ci-dessus. Le crémeux vient de l'émulsion œufs + eau de cuisson + fromage, jamais de la crème fraîche.
 
-## Origine
-
-Recette romaine classique, adaptée après un voyage à Trastevere.
