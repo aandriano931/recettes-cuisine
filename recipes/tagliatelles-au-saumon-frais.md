@@ -4,7 +4,10 @@ servings: null
 duration_minutes: null
 source: cookmate
 source_url: null
-tags: [poisson, pates, plat-principal]
+tags: 
+- poisson
+- pates
+- plat-principal
 ---
 
 # Tagliatelles au saumon frais

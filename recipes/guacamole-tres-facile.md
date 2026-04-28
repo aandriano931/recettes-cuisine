@@ -1,10 +1,13 @@
 ---
 title: Guacamole très facile
 servings: 4
-duration_minutes: null
+duration_minutes: 10
 source: cookmate
-source_url: null
-tags: [aperitif, mexicain, vegetarien]
+source_url: https://www.marmiton.org/recettes/recette_guacamole-tres-facile_13111.aspx
+tags: 
+- aperitif
+- mexicain
+- vegetarien
 ---
 
 # Guacamole très facile

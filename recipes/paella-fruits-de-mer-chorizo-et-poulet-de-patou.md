@@ -1,9 +1,9 @@
 ---
 title: Paëlla fruits de mer, chorizo et poulet de Patou
 servings: 8
-duration_minutes: 35
+duration_minutes: 70
 source: cookmate
-source_url: null
+source_url: https://www.marmiton.org/recettes/recette_paella-fruits-de-mer-chorizo-et-poulet-de-patou_50730.aspx
 tags:
 - convivial
 - mediterraneen

@@ -1,9 +1,9 @@
 ---
 title: Curry vert de lotte
 servings: 4
-duration_minutes: 10
+duration_minutes: 55
 source: cookmate
-source_url: null
+source_url: https://chefsimon.com/gourmets/chef-simon/recettes/curry-vert-de-lotte
 tags:
 - asiatique
 - poisson

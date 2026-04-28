@@ -1,9 +1,9 @@
 ---
 title: Le Gâteau aux Pommes et Mascarpone
 servings: 11
-duration_minutes: null
+duration_minutes: 70
 source: cookmate
-source_url: null
+source_url: https://www.casseroleetchocolat.fr/gateau-pommes-mascarpone/
 tags:
 - gateau
 - dessert

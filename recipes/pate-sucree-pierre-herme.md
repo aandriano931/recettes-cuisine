@@ -4,7 +4,9 @@ servings: 2
 duration_minutes: 20
 source: url
 source_url: https://lacuisinedethomas.fr/recettes/pate-sucree-pierre-herme/
-tags: [patisserie, pate, sucre]
+tags: 
+- patisserie
+- pate
 ---
 
 # Pate sucree pierre herme

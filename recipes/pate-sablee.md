@@ -3,7 +3,7 @@ title: Pâte sablée
 servings: 1
 duration_minutes: 15
 source: cookmate
-source_url: null
+source_url: https://www.marmiton.org/recettes/recette_pate-sablee_14540.aspx
 tags:
 - patisserie
 - pate

@@ -1,9 +1,9 @@
 ---
 title: Cheesecake au citron sans cuisson
-servings: 7
-duration_minutes: 10
+servings: 6
+duration_minutes: 40
 source: cookmate
-source_url: null
+source_url: https://www.maspatule.com/blog/2020/06/10/recette-cheesecake-au-citron-sans-cuisson/
 tags:
 - gateau
 - dessert

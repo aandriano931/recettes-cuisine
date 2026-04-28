@@ -1,9 +1,9 @@
 ---
 title: Poulet caramélisé à l'ail et cassonade
 servings: 4
-duration_minutes: 30
+duration_minutes: 50
 source: cookmate
-source_url: null
+source_url: https://www.750g.com/poulet-caramelise-a-l-ail-et-cassonade-r200870.htm
 tags:
 - francais
 - poulet

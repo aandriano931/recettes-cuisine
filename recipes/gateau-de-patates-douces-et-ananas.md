@@ -1,10 +1,13 @@
 ---
 title: Gâteau de patates douces et ananas
 servings: 8
-duration_minutes: 40
+duration_minutes: 70
 source: cookmate
-source_url: null
-tags: [gateau, dessert, antillais]
+source_url: https://www.750g.com/gateau-de-patates-douces-et-ananas-r65821.htm
+tags:
+- gateau
+- dessert
+- antillais
 ---
 
 # Gâteau de patates douces et ananas
@@ -29,7 +32,3 @@ tags: [gateau, dessert, antillais]
 3. Mélangez la préparation avec la purée de patate douces et l'ananas.
 4. Beurrez un moule à cake et faites cuire à four préchauffé Th 190°C pendant 35 à 40 min. Laissez refroidir, et mettez au réfrigérateur.
 5. Ce gâteau gonfle en cuisant et redescend en refroidissant c'est normal.
-
-## Notes
-
-L'association patates douces et ananas une petite merveille pour notre plus grand plaisir gustatif, un gâteau très léger et d'un fondant. Regadez la photo elle en dit long.
