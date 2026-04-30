@@ -1,5 +1,6 @@
 ---
 title: Tarte aux noix de pécan (american pie)
+role: dessert
 servings: 8
 duration_minutes: 25
 source: cookmate

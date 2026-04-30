@@ -1,5 +1,6 @@
 ---
 title: Pesto génois
+role: preparation
 servings: 4
 duration_minutes: 20
 source: manual

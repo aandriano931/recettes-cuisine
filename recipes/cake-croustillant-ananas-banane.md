@@ -1,5 +1,6 @@
 ---
 title: Cake croustillant ananas-banane
+role: dessert
 servings: 6
 duration_minutes: 60
 source: cookmate

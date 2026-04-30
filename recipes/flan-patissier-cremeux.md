@@ -1,5 +1,6 @@
 ---
 title: Flan patissier cremeux
+role: dessert
 servings: 8
 duration_minutes: 60
 source: url

@@ -1,5 +1,6 @@
 ---
 title: Cheesecake au citron sans cuisson
+role: dessert
 servings: 6
 duration_minutes: 40
 source: cookmate

@@ -1,5 +1,6 @@
 ---
 title: Amandine à l'ananas
+role: dessert
 servings: 6
 duration_minutes: 60
 source: cookmate

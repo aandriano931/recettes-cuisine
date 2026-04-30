@@ -1,5 +1,6 @@
 ---
 title: Pâte sablée
+role: preparation
 servings: 1
 duration_minutes: 15
 source: cookmate
