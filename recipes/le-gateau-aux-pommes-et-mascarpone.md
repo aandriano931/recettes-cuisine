@@ -1,5 +1,6 @@
 ---
 title: Le Gâteau aux Pommes et Mascarpone
+role: dessert
 servings: 11
 duration_minutes: 70
 source: cookmate

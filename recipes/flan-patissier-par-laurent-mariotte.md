@@ -1,5 +1,6 @@
 ---
 title: Flan pâtissier par Laurent Mariotte
+role: dessert
 servings: 8
 duration_minutes: 60
 source: cookmate

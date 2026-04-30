@@ -1,5 +1,6 @@
 ---
 title: Gâteau de patates douces et ananas
+role: dessert
 servings: 8
 duration_minutes: 70
 source: cookmate

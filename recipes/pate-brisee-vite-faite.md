@@ -1,5 +1,6 @@
 ---
 title: Pâte brisée vite faite
+role: preparation
 servings: 1
 duration_minutes: 30
 source: cookmate
