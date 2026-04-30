@@ -1,5 +1,6 @@
 ---
 title: Guacamole très facile
+role: preparation
 servings: 4
 duration_minutes: 10
 source: cookmate
