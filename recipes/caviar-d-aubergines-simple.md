@@ -9,16 +9,31 @@ tags:
 - vegetarien
 - aperitif
 - facile
+ingredients:
+- name: aubergines
+  qty: 3
+- name: ail
+  qty: 2
+  unit: gousse
+- name: demi jus de citron
+  qty: 1
+- name: huile d'olive
+  qty: 20
+  unit: g
+- name: sel, poivre du moulin
+- name: pain de mie
+  qty: 4
+  unit: tranche
 ---
-
 # Caviar d'aubergines simple
 
 ## Ingrédients
 
+
 - 3 aubergines
 - 2 gousses d'ail
 - 1 demi jus de citron
-- 20g d'huile d'olive
+- 20 g d'huile d'olive
 - sel, poivre du moulin
 - 4 tranches de pain de mie
 

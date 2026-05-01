@@ -8,23 +8,52 @@ tags:
 - francais
 - poulet
 - plat-principal
+ingredients:
+- name: hauts de cuisses de poulet ou 8 cuisses de poulet
+  qty: 8
+- name: sucre de canne roux ou cassonade
+  qty: 50
+  unit: g
+- name: ail hachées
+  qty: 4
+  unit: gousse
+- name: beurre doux
+  qty: 3
+  unit: cs
+- name: persil haché
+  qty: 2
+  unit: cs
+- name: miel
+  qty: 1
+  unit: cs
+- name: origan séché
+  qty: 0.5
+  unit: cc
+- name: thym séché
+  qty: 0.25
+  unit: cc
+- name: basilic séché
+  qty: 0.25
+  unit: cc
+- name: sel ou sel fin
+- name: poivre
 ---
-
 # Poulet caramélisé à l'ail et cassonade
 
 ## Ingrédients
 
-- 8 hauts de cuisses de poulet ou 8 cuisses de poulet
+
+- 8 hauts de cuisses de poulet ou 8 cuisses de poulets
 - 50 g de sucre de canne roux ou cassonade
 - 4 gousses d'ail hachées
-- 3 c. à s. de beurre doux
-- 2 c. à s. de persil haché
-- 1 c. à s. de miel
-- 0,5 c. à c. d'origan séché
-- 0,25 c. à c. de thym séché
-- 0,25 c. à c. de basilic séché
-- Sel ou sel fin
-- Poivre
+- 3 cs de beurre doux
+- 2 cs de persil haché
+- 1 cs de miel
+- 0.5 cc d'origan séché
+- 0.25 cc de thym séché
+- 0.25 cc de basilic séché
+- sel ou sel fin
+- poivre
 
 ## Préparation
 

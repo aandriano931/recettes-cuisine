@@ -8,11 +8,41 @@ tags:
 - vegetarien
 - plat-principal
 - gratin
+ingredients:
+- name: aubergines fraîches ou surgelées
+  qty: 4
+- name: lasagnes
+  qty: 8
+  unit: feuille
+- name: coulis de tomate
+  qty: 500
+  unit: g
+- name: carotte
+  qty: 1
+- name: oignon
+  qty: 1
+- name: beurre
+  qty: 25
+  unit: g
+- name: farine
+  qty: 25
+  unit: g
+- name: bouillon
+  qty: 50
+  unit: cl
+- name: parmesan
+  qty: 50
+  unit: g
+- name: comté
+  qty: 150
+  unit: g
+- name: herbes de provence
+- name: huile d'olive
 ---
-
 # Lasagnes d'aubergines
 
 ## Ingrédients
+
 
 - 4 aubergines fraîches ou surgelées
 - 8 feuilles de lasagnes
@@ -21,11 +51,11 @@ tags:
 - 1 oignon
 - 25 g de beurre
 - 25 g de farine
-- 50 cl de bouillon (boeuf ou volaille)
+- 50 cl de bouillon
 - 50 g de parmesan
 - 150 g de comté
-- Herbes de Provence
-- Huile d'olive
+- herbes de provence
+- huile d'olive
 
 ## Préparation
 

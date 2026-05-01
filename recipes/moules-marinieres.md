@@ -4,21 +4,40 @@ servings: 2
 duration_minutes: 25
 source: manual
 source_url: https://www.maspatule.com/blog/2022/08/23/recette-moules-marinieres/
-tags: 
+tags:
 - fruits de mer
+ingredients:
+- name: moules
+  qty: 1.5
+  unit: kg
+- name: échalotes
+  qty: 2
+- name: ail
+  qty: 2
+  unit: gousse
+- name: persil de 20 g
+  qty: 0.5
+  unit: botte
+- name: beurre salé
+  qty: 30
+  unit: g
+- name: vin blanc sec
+  qty: 30
+  unit: cl
+- name: thym
 ---
-
 # Moules marinières
 
 ## Ingrédients
 
-- 1,5 kg de moules (750 g par personne)
+
+- 1.5 kg de moules
 - 2 échalotes
-- 2 gousses d’ail
-- 1/2 botte de persil de 20 g
+- 2 gousses d'ail
+- 0.5 botte de persil de 20 g
 - 30 g de beurre salé
 - 30 cl de vin blanc sec
-- Thym
+- thym
 
 ## Préparation
 

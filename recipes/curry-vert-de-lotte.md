@@ -8,28 +8,62 @@ tags:
 - asiatique
 - poisson
 - epice
+ingredients:
+- name: une très belle queue de lotte parée et nettoyée
+- name: à 3 cl huile d'olive ou d'arachide
+  qty: 2
+- name: ail
+  qty: 2
+  unit: gousse
+- name: citronelle écrasées
+  qty: 2
+  unit: tige
+- name: grosses échalotes ciselées
+  qty: 2
+- name: curry vert en pâte
+  qty: 1
+  unit: cc
+- name: lait ou de crème de coco
+  qty: 20
+  unit: cl
+- name: le zeste d'un demi citron vert
+- name: oignons grelots ou 8 oignons nouveaux
+  qty: 12
+- name: fumet de poisson
+  qty: 0.5
+  unit: l
+- name: gingembre
+  qty: 2
+  unit: tranche
+- name: sauce soja non sucrée
+- name: feuilles de basilic ou de coriandre
+- name: nuoc-mâm
+- name: huile de sésame
+- name: garniture .
+  qty: 200
+  unit: g
 ---
-
 # Curry vert de lotte
 
 ## Ingrédients
 
-- Une très belle queue de lotte parée et nettoyée (compter en moyenne 200 g brut ou 150 g minimum net par personne)
-- 2 à 3 cl huile d'olive ou d'arachide
+
+- une très belle queue de lotte parée et nettoyée
+- 2 à 3 cl huile d'olive ou d'arachides
 - 2 gousses d'ail
 - 2 tiges de citronelle écrasées
 - 2 grosses échalotes ciselées
-- 1 c. à c. de curry vert en pâte
+- 1 cc de curry vert en pâte
 - 20 cl de lait ou de crème de coco
 - le zeste d'un demi citron vert
 - 12 oignons grelots ou 8 oignons nouveaux
-- 1/2 litre de fumet de poisson
+- 0.5 l de fumet de poisson
 - 2 tranches de gingembre
 - sauce soja non sucrée
 - feuilles de basilic ou de coriandre
 - nuoc-mâm
 - huile de sésame
-- 200 g de garniture (haricots plats, haricots verts, pois...).
+- 200 g de garniture .
 
 ## Préparation
 

@@ -8,16 +8,28 @@ tags:
 - francais
 - poulet
 - plat-principal
+ingredients:
+- name: poulet
+  qty: 1
+- name: beurre
+  qty: 100
+  unit: g
+- name: quelques branches d'estragon
+- name: huile d'olive
+- name: sel, poivre
+- name: viandox et eau
+- name: pommes de terre moyennes
+  qty: 6
 ---
-
 # Poulet rôti farci au beurre d'estragon et pommes de terre accordéon
 
 ## Ingrédients
 
+
 - 1 poulet
 - 100 g de beurre
 - quelques branches d'estragon
-- de l'huile d'olive
+- huile d'olive
 - sel, poivre
 - viandox et eau
 - 6 pommes de terre moyennes

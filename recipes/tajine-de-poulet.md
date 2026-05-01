@@ -8,20 +8,39 @@ tags:
 - maghreb
 - plat-principal
 - famille
+ingredients:
+- name: courgettes
+  qty: 2
+- name: carottes
+  qty: 2
+- name: tomates
+  qty: 2
+- name: oignon
+  qty: 1
+- name: cumin
+- name: huile d'olive
+  qty: 1
+  unit: cs
+- name: cuisses de poulet
+  qty: 4
+- name: pommes de terre
+  qty: 3
+- name: épices pour tajine
+- name: eau
 ---
-
 # Tajine de poulet
 
 ## Ingrédients
+
 
 - 2 courgettes
 - 2 carottes
 - 2 tomates
 - 1 oignon
 - cumin
-- 1 c. à s. huile d'olive
-- 4 cuisses de poulet
-- 3 pommes de terre
+- 1 cs d'huile d'olive
+- 4 cuisses de poulets
+- 3 pommes de terres
 - épices pour tajine
 - eau
 

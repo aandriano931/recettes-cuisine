@@ -9,13 +9,36 @@ tags:
 - tarte
 - facile
 - gateau
+ingredients:
+- name: ananas au sirop
+  qty: 1
+  unit: boite
+- name: pâte feuilletée
+  qty: 1
+- name: amandes en poudre
+  qty: 100
+  unit: g
+- name: beurre
+  qty: 100
+  unit: g
+- name: sucre
+  qty: 100
+  unit: g
+- name: farine
+  qty: 25
+  unit: g
+- name: oeufs
+  qty: 2
+- name: sirop d'ananas
+  qty: 50
+  unit: ml
 ---
-
 # Amandine à l'ananas
 
 ## Ingrédients
 
-- 1 boîte d'ananas au sirop
+
+- 1 boite d'ananas au sirop
 - 1 pâte feuilletée
 - 100 g d'amandes en poudre
 - 100 g de beurre

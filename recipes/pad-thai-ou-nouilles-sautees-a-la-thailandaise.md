@@ -8,26 +8,52 @@ tags:
 - asiatique
 - thai
 - pates
+ingredients:
+- name: ciboules ou oignons nouveaux
+- name: cacahuètes grillées mixées
+  qty: 2
+  unit: cs
+- name: cassonade
+  qty: 2
+  unit: cs
+- name: crevettes séchées
+  qty: 1
+  unit: cs
+- name: huile de tournesol
+  qty: 2
+  unit: cs
+- name: pâte de tamarin acide
+- name: tofu ferme
+- name: pousses de soja
+- name: échalotes
+  qty: 2
+- name: oeufs
+  qty: 2
+- name: citron
+  qty: 1
+- name: nouilles de riz
+- name: sauce poisson
+- name: optionnel
 ---
-
 # Pad Thaï ou nouilles sautées à la thaïlandaise
 
 ## Ingrédients
 
-- Ciboules ou oignons nouveaux
-- 2 c. à s. de cacahuètes grillées mixées
-- 2 c. à s. de cassonade
-- 1 c. à s. de crevettes séchées
-- 2 c. à s. d'huile de tournesol
-- Pâte de tamarin acide
-- Tofu ferme
-- Pousses de soja
+
+- ciboules ou oignons nouveaux
+- 2 cs de cacahuètes grillées mixées
+- 2 cs de cassonade
+- 1 cs de crevettes séchées
+- 2 cs d'huile de tournesol
+- pâte de tamarin acide
+- tofu ferme
+- pousses de soja
 - 2 échalotes
 - 2 oeufs
 - 1 citron
-- Nouilles de riz
-- Sauce poisson (nuoc nam)
-- Optionnel : crevettes ou poulet émincé
+- nouilles de riz
+- sauce poisson
+- optionnel (crevettes ou poulet émincé)
 
 ## Préparation
 

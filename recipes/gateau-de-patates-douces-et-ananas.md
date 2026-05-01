@@ -9,18 +9,48 @@ tags:
 - gateau
 - dessert
 - antillais
+ingredients:
+- name: sucre vanillé
+  qty: 1
+  unit: sachet
+- name: jaunes d'oeuf
+  qty: 3
+- name: huile
+  qty: 30
+  unit: cl
+- name: rhum
+  qty: 20
+  unit: cl
+- name: sucre en poudre ou sucre semoule
+  qty: 110
+  unit: g
+- name: levure chimique
+  qty: 0.5
+  unit: sachet
+- name: ananas en tranches
+  qty: 300
+  unit: g
+- name: mascarpone
+  qty: 125
+  unit: g
+- name: farine
+  qty: 100
+  unit: g
+- name: patates douces
+  qty: 1
+  unit: kg
 ---
-
 # Gâteau de patates douces et ananas
 
 ## Ingrédients
 
+
 - 1 sachet de sucre vanillé
-- 3 jaunes d'oeuf
+- 3 jaunes d'oeufs
 - 30 cl d'huile
 - 20 cl de rhum
 - 110 g de sucre en poudre ou sucre semoule
-- ½ sachet de levure chimique
+- 0.5 sachet de levure chimique
 - 300 g d'ananas en tranches
 - 125 g de mascarpone
 - 100 g de farine

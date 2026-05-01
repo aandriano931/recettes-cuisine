@@ -9,11 +9,46 @@ tags:
 - gateau
 - dessert
 - automne
+ingredients:
+- name: pommes
+  qty: 4
+- name: beurre
+  qty: 20
+  unit: g
+- name: sucre
+  qty: 30
+  unit: g
+- name: 4 œufs
+- name: sucre
+  qty: 150
+  unit: g
+- name: mascarpone
+  qty: 250
+  unit: g
+- name: farine
+  qty: 200
+  unit: g
+- name: levure
+  qty: 1.5
+  unit: sachet
+- name: cannelle
+  qty: 0.5
+  unit: cc
+- name: fleur de sel
+  qty: 1
+  unit: pincee
+- name: cassonade
+  qty: 2
+  unit: cs
+- name: sucre glace
+  qty: 2
+  unit: cc
+- name: beurre pour le moule
 ---
-
 # Le Gâteau aux Pommes et Mascarpone
 
 ## Ingrédients
+
 
 - 4 pommes
 - 20 g de beurre
@@ -22,12 +57,12 @@ tags:
 - 150 g de sucre
 - 250 g de mascarpone
 - 200 g de farine
-- 1,5 sachets de levure (ou 16 g)
-- 1/2 c. à c. de cannelle
-- 1 pincée de fleur de sel
-- 2 c. à s. de cassonade
-- 2 c. à c. de sucre glace
-- Du beurre pour le moule
+- 1.5 sachets de levure
+- 0.5 cc de cannelle
+- 1 pincee de fleur de sel
+- 2 cs de cassonade
+- 2 cc de sucre glace
+- beurre pour le moule
 
 ## Préparation
 

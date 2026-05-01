@@ -4,32 +4,63 @@ servings: null
 duration_minutes: null
 source: cookmate
 source_url: null
-tags: 
+tags:
 - poisson
 - pates
 - plat-principal
+ingredients:
+- name: filet épais de saumon frais de 500 g
+  qty: 1
+- name: échalote
+  qty: 1
+- name: les parures de saumon
+- name: vin blanc
+  qty: 20
+  unit: cl
+- name: fumet de poisson
+  qty: 20
+  unit: cl
+- name: petite boîte de tomates pelées
+  qty: 1
+- name: crème liquide
+  qty: 40
+  unit: cl
+- name: huile d'olive
+- name: poivre du moulin
+- name: sel
+- name: tagliatelles
+  qty: 200
+  unit: g
+- name: ciboulette
+  qty: 0.5
+  unit: botte
+- name: branches de persil plat
+  qty: 4
+- name: les cubes de saumon
+- name: le sautoir de la sauce au saumon
+- name: les tagliatelles
 ---
-
 # Tagliatelles au saumon frais
 
 ## Ingrédients
 
+
 - 1 filet épais de saumon frais de 500 g
 - 1 échalote
-- Les parures de saumon
+- les parures de saumon
 - 20 cl de vin blanc
 - 20 cl de fumet de poisson
 - 1 petite boîte de tomates pelées
 - 40 cl de crème liquide
-- Huile d’olive
-- Poivre du moulin
-- Sel
+- huile d'olive
+- poivre du moulin
+- sel
 - 200 g de tagliatelles
-- ½ botte de ciboulette
-- 4 branches de persil plat
-- Les cubes de saumon
-- Le sautoir de la sauce au saumon
-- Les tagliatelles
+- 0.5 botte de ciboulette
+- 4 branches de persil plats
+- les cubes de saumon
+- le sautoir de la sauce au saumon
+- les tagliatelles
 
 ## Préparation
 

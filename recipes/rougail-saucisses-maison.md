@@ -3,28 +3,54 @@ title: Rougail saucisses maison
 servings: 5
 duration_minutes: 60
 source: manual
-source_url: 
+source_url: null
 tags:
 - antillaise
 - maison
 - saucisses
+ingredients:
+- name: ail
+  qty: 50
+  unit: g
+- name: gros oignons rouges
+  qty: 4
+- name: gingembre frais
+  qty: 10
+  unit: g
+- name: saucisses fumées
+  qty: 5
+- name: curcuma
+  qty: 4
+  unit: cc
+- name: paprika doux fumé
+  qty: 1
+  unit: cc
+- name: belles branches de thym frais
+  qty: 2
+- name: ou 5 feuilles de laurier
+  qty: 4
+- name: poivre, sel
+- name: piment vert thai
+  qty: 1
+- name: brisure de riz
+- name: la moitié d'une petite briquette de coulis de tomates
 ---
-
 # Rougail saucisses maison
 
 ## Ingrédients
+
 
 - 50 g d'ail
 - 4 gros oignons rouges
 - 10 g de gingembre frais
 - 5 saucisses fumées
-- 4 c. à c. de curcuma
-- 1 c. à c. de paprika doux fumé
+- 4 cc de curcuma
+- 1 cc de paprika doux fumé
 - 2 belles branches de thym frais
-- 4 ou 5 feuilles de laurier
+- 4 ou 5 feuilles de lauriers
 - poivre, sel
 - 1 piment vert thai
-- de la brisure de riz (ou du riz thaï)
+- brisure de riz
 - la moitié d'une petite briquette de coulis de tomates
 
 ## Préparation

@@ -4,24 +4,37 @@ servings: 4
 duration_minutes: 40
 source: manual
 source_url: https://www.marmiton.org/recettes/recette_carbonara-traditionnelle_340808.aspx
-tags: 
+tags:
 - italien
 - pates
 - plat-principal
+ingredients:
+- name: pâtes longues
+  qty: 300
+  unit: g
+- name: gros sel
+  qty: 1
+  unit: cc
+- name: guanciale
+  qty: 400
+  unit: g
+- name: jaunes d'oeufs
+  qty: 6
+- name: pecorino romano râpé
+  qty: 50
+  unit: g
+- name: poivre noir du moulin
 ---
-
 # Carbonara traditionnelle
 
 ## Ingrédients
 
-### Pour les pâtes
-- 300 g de pâtes longues
-- 1 c. à c. gros sel (pour l'eau de cuisson)
 
-### Pour la sauce
-- 400 g de guanciale (ou à défaut, pancetta)
+- 300 g de pâtes longues
+- 1 cc de gros sel
+- 400 g de guanciale
 - 6 jaunes d'oeufs
-- 50 g pecorino romano râpé (ou parmesan)
+- 50 g de pecorino romano râpé
 - poivre noir du moulin
 
 ## Préparation

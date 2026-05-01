@@ -5,24 +5,59 @@ servings: 8
 duration_minutes: 60
 source: cookmate
 source_url: https://www.marmiton.org/recettes/recette_flan-patissier-par-laurent-mariotte_530756.aspx
-tags: [patisserie, gateau, dessert]
+tags:
+- patisserie
+- gateau
+- dessert
+ingredients:
+- name: lait entier bio
+  qty: 1
+  unit: l
+- name: jaunes d'oeuf bio + 2 œufs entiers bio
+  qty: 4
+- name: sucre en poudre
+  qty: 200
+  unit: g
+- name: fécule de maïs
+  qty: 100
+  unit: g
+- name: crème liquide entière
+  qty: 20
+  unit: cl
+- name: vanille
+  qty: 1
+  unit: gousse
+- name: farine + 1 c. à s.
+  qty: 250
+  unit: g
+- name: beurre + 5 g pour le moule
+  qty: 180
+  unit: g
+- name: oeuf
+  qty: 1
+- name: sucre
+  qty: 30
+  unit: g
+- name: sel
+  qty: 1
+  unit: pincee
 ---
-
 # Flan pâtissier par Laurent Mariotte
 
 ## Ingrédients
 
+
 - 1 l de lait entier bio
-- 4 jaunes d'oeuf bio + 2 œufs entiers bio
+- 4 jaunes d'oeuf bio + 2 œufs entiers bios
 - 200 g de sucre en poudre
 - 100 g de fécule de maïs
 - 20 cl de crème liquide entière
 - 1 gousse de vanille
 - 250 g de farine + 1 c. à s.
 - 180 g de beurre + 5 g pour le moule
-- 1 oeuf (gros)
+- 1 oeuf
 - 30 g de sucre
-- 1 pincée de sel
+- 1 pincee de sel
 
 ## Préparation
 

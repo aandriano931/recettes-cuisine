@@ -8,11 +8,48 @@ tags:
 - convivial
 - mediterraneen
 - riz
+ingredients:
+- name: riz
+  qty: 500
+  unit: g
+- name: chorizo
+  qty: 1
+- name: poivrons
+  qty: 2
+- name: tomate
+  qty: 1
+  unit: kg
+- name: oignons
+  qty: 2
+- name: ail
+  qty: 3
+  unit: gousse
+- name: doses de safran
+  qty: 3
+- name: bouillon de volaille
+  qty: 1
+  unit: l
+- name: huile d'olive
+  qty: 5
+  unit: cs
+- name: poivre
+- name: sel
+- name: filet de poulet
+  qty: 1
+  unit: kg
+- name: calamar
+  qty: 500
+  unit: g
+- name: moules
+  qty: 1
+  unit: l
+- name: crevettes
+  qty: 15
 ---
-
 # Paëlla fruits de mer, chorizo et poulet de Patou
 
 ## Ingrédients
+
 
 - 500 g de riz
 - 1 chorizo
@@ -20,9 +57,9 @@ tags:
 - 1 kg de tomate
 - 2 oignons
 - 3 gousses d'ail
-- 3 doses de safran
+- 3 doses de safrans
 - 1 l de bouillon de volaille
-- 5 c. à s. d'huile d'olive
+- 5 cs d'huile d'olive
 - poivre
 - sel
 - 1 kg de filet de poulet
