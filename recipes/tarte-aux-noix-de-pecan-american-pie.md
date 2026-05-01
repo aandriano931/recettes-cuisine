@@ -9,15 +9,35 @@ tags:
 - americain
 - dessert
 - gateau
+ingredients:
+- name: beurre non salé
+  qty: 110
+  unit: g
+- name: golden syrup
+  qty: 110
+  unit: g
+- name: extrait de vanille
+  qty: 1
+  unit: cc
+- name: sucre roux
+  qty: 225
+  unit: g
+- name: oeufs
+  qty: 3
+- name: pâte brisée
+  qty: 1
+- name: noix de pécan
+  qty: 300
+  unit: g
 ---
-
 # Tarte aux noix de pécan (american pie)
 
 ## Ingrédients
 
+
 - 110 g de beurre non salé
-- 110 g de golden syrup (ou de sirop d’érable, le goût de la tarte sera alors un peu plus prononcé)
-- 1 c. à c. d'extrait de vanille
+- 110 g de golden syrup
+- 1 cc d'extrait de vanille
 - 225 g de sucre roux
 - 3 oeufs
 - 1 pâte brisée

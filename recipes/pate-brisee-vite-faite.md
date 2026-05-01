@@ -9,16 +9,32 @@ tags:
 - patisserie
 - pate
 - facile
+ingredients:
+- name: farine
+  qty: 300
+  unit: g
+- name: beurre en dés et en pommade
+  qty: 150
+  unit: g
+- name: sel
+  qty: 0.5
+  unit: cc
+- name: sucre
+  qty: 3
+  unit: cs
+- name: eau ou de lait tiède
+  qty: 8
+  unit: cl
 ---
-
 # Pâte brisée vite faite
 
 ## Ingrédients
 
+
 - 300 g de farine
 - 150 g de beurre en dés et en pommade
-- 1/2 c. à c. de sel
-- 3 c. à s. de sucre (si pâte sucrée)
+- 0.5 cc de sel
+- 3 cs de sucre
 - 8 cl d'eau ou de lait tiède
 
 ## Préparation

@@ -7,11 +7,22 @@ source_url: https://macuisineenthousiaste.com/tarte-tatin-de-poireaux/
 tags:
 - tarte
 - plat principal
+ingredients:
+- name: poireaux
+  qty: 3
+- name: pâte feuilletée
+  qty: 1
+- name: sucre
+  qty: 50
+  unit: g
+- name: beurre
+  qty: 20
+  unit: g
 ---
-
 # Tarte tatin de poireaux
 
 ## Ingrédients
+
 
 - 3 poireaux
 - 1 pâte feuilletée

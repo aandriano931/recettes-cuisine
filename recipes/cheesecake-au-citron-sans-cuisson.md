@@ -9,22 +9,50 @@ tags:
 - gateau
 - dessert
 - citron
+ingredients:
+- name: biscuits
+  qty: 160
+  unit: g
+- name: beurre
+  qty: 70
+  unit: g
+- name: philadelphia ou autre fromage frais
+  qty: 300
+  unit: g
+- name: sucre
+  qty: 200
+  unit: g
+- name: jus de citron
+  qty: 220
+  unit: g
+- name: zestes de 2,5 citrons
+- name: crème liquide 30%
+  qty: 280
+  unit: g
+- name: gélatine
+  qty: 2
+  unit: feuille
+- name: oeufs
+  qty: 3
+- name: maïzena
+  qty: 1
+  unit: cc
 ---
-
 # Cheesecake au citron sans cuisson
 
 ## Ingrédients
 
-- 160g de biscuits (speculoos, petits Lu, pavés bretons)
-- 70g de beurre
-- 300g de Philadelphia ou autre fromage frais
-- 200g de sucre
-- 220g de jus de citron
-- Zestes de 2,5 citrons
-- 280g de crème liquide 30% 
+
+- 160 g de biscuits
+- 70 g de beurre
+- 300 g de philadelphia ou autre fromage frais
+- 200 g de sucre
+- 220 g de jus de citron
+- zestes de 2,5 citrons
+- 280 g de crème liquide 30%
 - 2 feuilles de gélatine
 - 3 oeufs
-- 1 c. à c. de maïzena
+- 1 cc de maïzena
 
 ## Préparation
 

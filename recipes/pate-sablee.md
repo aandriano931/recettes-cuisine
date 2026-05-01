@@ -9,16 +9,33 @@ tags:
 - patisserie
 - pate
 - facile
+ingredients:
+- name: farine
+  qty: 250
+  unit: g
+- name: sucre semoule
+  qty: 125
+  unit: g
+- name: beurre
+  qty: 100
+  unit: g
+- name: sel
+  qty: 1
+  unit: pincee
+- name: oeuf
+  qty: 1
+- name: zeste de citron
+  qty: 1
 ---
-
 # Pâte sablée
 
 ## Ingrédients
 
+
 - 250 g de farine
 - 125 g de sucre semoule
 - 100 g de beurre
-- 1 pincée de sel
+- 1 pincee de sel
 - 1 oeuf
 - 1 zeste de citron
 

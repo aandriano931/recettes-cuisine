@@ -8,20 +8,43 @@ tags:
 - asiatique
 - riz
 - saucisses
+ingredients:
+- name: riz long grain
+  qty: 250
+  unit: g
+- name: saucisses chinoises à la citronnelle
+  qty: 500
+  unit: g
+- name: oignon doux émincé en demi-rondelles
+  qty: 1
+- name: petits pois surgelés
+  qty: 175
+  unit: g
+- name: lamelles de poivron jaune
+  qty: 200
+  unit: g
+- name: coriandre
+  qty: 1
+  unit: bouquet
+- name: cuil. à soupe de sauce soja douce
+  qty: 2
+- name: cuil. à soupe d'huile de tournesol
+  qty: 2
+- name: sel, poivre
 ---
-
 # Riz sauté aux saucisses chinoises
 
 ## Ingrédients
 
+
 - 250 g de riz long grain
 - 500 g de saucisses chinoises à la citronnelle
 - 1 oignon doux émincé en demi-rondelles
-- 175 gr de petits pois surgelés
-- 200 gr de lamelles de poivron jaune
+- 175 g de petits pois surgelés
+- 200 g de lamelles de poivron jaune
 - 1 bouquet de coriandre
-- 2 cuil. à soupe de sauce soja douce
-- 2 cuil. à soupe d’huile de tournesol
+- 2 cuil. à soupe de sauce soja douces
+- 2 cuil. à soupe d'huile de tournesols
 - sel, poivre
 
 ## Préparation

@@ -5,13 +5,35 @@ servings: 4
 duration_minutes: 20
 source: manual
 source_url: https://www.lacuisineitalienne.fr/recette-italienne-pesto-genois/
-tags: 
+tags:
 - italien
+ingredients:
+- name: ail
+  qty: 2
+  unit: gousse
+- name: basilic frais
+  qty: 50
+  unit: g
+- name: pecorino rapé
+  qty: 30
+  unit: g
+- name: parmesan rapé
+  qty: 70
+  unit: g
+- name: huile d'olive vierge extra
+  qty: 100
+  unit: ml
+- name: pignons de pin
+  qty: 15
+  unit: g
+- name: gros sel
+  qty: 1
+  unit: pincee
 ---
-
 # Pesto génois
 
 ## Ingrédients
+
 
 - 2 gousses d'ail
 - 50 g de basilic frais
@@ -19,7 +41,7 @@ tags:
 - 70 g de parmesan rapé
 - 100 ml d'huile d'olive vierge extra
 - 15 g de pignons de pin
-- 1 pincée de gros sel 
+- 1 pincee de gros sel
 
 ## Préparation
 

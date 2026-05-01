@@ -9,18 +9,38 @@ tags:
 - patisserie
 - gateau
 - dessert
+ingredients:
+- name: oeufs
+  qty: 3
+- name: lait
+  qty: 1
+  unit: l
+- name: maïzena
+  qty: 75
+  unit: g
+- name: sucre
+  qty: 110
+  unit: g
+- name: vanille
+  qty: 1
+  unit: gousse
+- name: crème légère
+  qty: 90
+  unit: g
+- name: pâte feuilletée ou brisée ou sucrée
+  qty: 1
 ---
-
 # Flan patissier cremeux
 
 ## Ingrédients
 
+
 - 3 oeufs
-- 1L de lait
-- 75g de maïzena
-- 110g de sucre
+- 1 l de lait
+- 75 g de maïzena
+- 110 g de sucre
 - 1 gousse de vanille
-- 90g de crème légère
+- 90 g de crème légère
 - 1 pâte feuilletée ou brisée ou sucrée
 
 ## Préparation

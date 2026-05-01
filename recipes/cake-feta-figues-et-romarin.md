@@ -9,22 +9,50 @@ tags:
 - vegetarien
 - aperitif
 - sale
+ingredients:
+- name: oeufs
+  qty: 3
+- name: farine
+  qty: 150
+  unit: g
+- name: poudre à pâte
+  qty: 7
+  unit: g
+- name: feta
+  qty: 150
+  unit: g
+- name: figues séchées
+  qty: 200
+  unit: g
+- name: fromage râpé
+  qty: 50
+  unit: g
+- name: huile d'olive
+  qty: 100
+  unit: ml
+- name: lait ou lait végétal
+  qty: 125
+  unit: ml
+- name: sirop d'érable
+  qty: 3
+  unit: cs
+- name: romarin, sel, poivre
 ---
-
 # Cake feta-figues et romarin
 
 ## Ingrédients
 
+
 - 3 oeufs
-- 150 gr de farine
-- 7 gr de poudre à pâte (levure chimique)
-- 150 gr de feta
-- 200 gr de figues séchées
-- 50 gr de fromage râpé
+- 150 g de farine
+- 7 g de poudre à pâte
+- 150 g de feta
+- 200 g de figues séchées
+- 50 g de fromage râpé
 - 100 ml d'huile d'olive
-- 125 ml de lait ou lait végétal (ici boisson de riz)
-- 3 c. à s. de sirop d'érable
-- Romarin, sel, poivre
+- 125 ml de lait ou lait végétal
+- 3 cs de sirop d'érable
+- romarin, sel, poivre
 
 ## Préparation
 

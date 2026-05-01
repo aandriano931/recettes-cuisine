@@ -9,22 +9,50 @@ tags:
 - bon-marche
 - facile
 - gateau
+ingredients:
+- name: oeufs
+  qty: 2
+- name: sucre roux
+  qty: 100
+  unit: g
+- name: beurre doux
+  qty: 100
+  unit: g
+- name: farine
+  qty: 100
+  unit: g
+- name: levure
+  qty: 1
+  unit: sachet
+- name: vanille en poudre
+  qty: 1
+  unit: pincee
+- name: citron vert
+  qty: 1
+- name: ananas
+  qty: 100
+  unit: g
+- name: banane très mûre
+  qty: 1
+- name: rhum
+  qty: 1
+  optional: true
 ---
-
 # Cake croustillant ananas-banane
 
 ## Ingrédients
+
 
 - 2 oeufs
 - 100 g de sucre roux
 - 100 g de beurre doux
 - 100 g de farine
 - 1 sachet de levure
-- 1 pincée de vanille en poudre
+- 1 pincee de vanille en poudre
 - 1 citron vert
 - 100 g d'ananas
 - 1 banane très mûre
-- 1 rhum (facultatif)
+- 1 rhum
 
 ## Préparation
 

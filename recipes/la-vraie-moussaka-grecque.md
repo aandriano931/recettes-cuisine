@@ -8,26 +8,59 @@ tags:
 - convivial
 - grec
 - plat-principal
+ingredients:
+- name: beurre
+  qty: 20
+  unit: g
+- name: farine
+  qty: 3
+  unit: cs
+- name: lait
+  qty: 35
+  unit: cl
+- name: aubergines
+  qty: 2
+- name: tomates
+  qty: 5
+- name: oignon
+  qty: 1
+- name: huile d'olive
+- name: beurre
+  qty: 30
+  unit: g
+- name: miel
+  qty: 1
+  unit: cc
+- name: poivre
+- name: sel
+- name: pommes de terre
+  qty: 6
+- name: boeuf haché
+  qty: 500
+  unit: g
+- name: cannelle
+  qty: 1
+  unit: cc
 ---
-
 # La Vraie Moussaka Grecque
 
 ## Ingrédients
 
+
 - 20 g de beurre
-- 3 c. à s. de farine
+- 3 cs de farine
 - 35 cl de lait
 - 2 aubergines
-- 5 tomates (+/- une demie brique de coulis de tomate)
+- 5 tomates
 - 1 oignon
-- huile d'olive (je la prends au basilic)
+- huile d'olive
 - 30 g de beurre
-- 1 c. à c. de miel
+- 1 cc de miel
 - poivre
 - sel
-- 6 pommes de terre
+- 6 pommes de terres
 - 500 g de boeuf haché
-- 1 c. à c. de cannelle
+- 1 cc de cannelle
 
 ## Préparation
 

@@ -5,21 +5,39 @@ servings: 2
 duration_minutes: 20
 source: url
 source_url: https://lacuisinedethomas.fr/recettes/pate-sucree-pierre-herme/
-tags: 
+tags:
 - patisserie
 - pate
+ingredients:
+- name: beurre
+  qty: 140
+  unit: g
+- name: sucre glace
+  qty: 75
+  unit: g
+- name: farine t55
+  qty: 250
+  unit: g
+- name: poudre d'amande
+  qty: 25
+  unit: g
+- name: oeuf
+  qty: 1
+- name: sel
+  qty: 1
+  unit: pincee
 ---
-
 # Pate sucree pierre herme
 
 ## Ingrédients
 
-- 140 g beurre
-- 75 g sucre glace
-- 250 g farine T55
-- 25 g poudre d’amande
+
+- 140 g de beurre
+- 75 g de sucre glace
+- 250 g de farine t55
+- 25 g de poudre d'amande
 - 1 oeuf
-- 1 pincée sel
+- 1 pincee de sel
 
 ## Préparation
 
