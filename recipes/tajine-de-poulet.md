@@ -9,11 +9,11 @@ tags:
 - plat-principal
 - famille
 ingredients:
-- name: courgettes
+- name: courgette
   qty: 2
-- name: carottes
+- name: carotte
   qty: 2
-- name: tomates
+- name: tomate
   qty: 2
 - name: oignon
   qty: 1
@@ -21,9 +21,9 @@ ingredients:
 - name: huile d'olive
   qty: 1
   unit: cs
-- name: cuisses de poulet
+- name: cuisse de poulet
   qty: 4
-- name: pommes de terre
+- name: pomme de terre
   qty: 3
 - name: épices pour tajine
 - name: eau
@@ -31,7 +31,6 @@ ingredients:
 # Tajine de poulet
 
 ## Ingrédients
-
 
 - 2 courgettes
 - 2 carottes

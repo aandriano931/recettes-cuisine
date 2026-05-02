@@ -31,7 +31,6 @@ ingredients:
 
 ## Ingrédients
 
-
 - 250 g de farine
 - 125 g de sucre semoule
 - 100 g de beurre

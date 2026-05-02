@@ -11,28 +11,28 @@ tags:
 ingredients:
 - name: hauts de cuisses de poulet ou 8 cuisses de poulet
   qty: 8
-- name: sucre de canne roux ou cassonade
+- name: sucre de canne
   qty: 50
   unit: g
-- name: ail hachées
+- name: ail
   qty: 4
   unit: gousse
 - name: beurre doux
   qty: 3
   unit: cs
-- name: persil haché
+- name: persil
   qty: 2
   unit: cs
 - name: miel
   qty: 1
   unit: cs
-- name: origan séché
+- name: origan
   qty: 0.5
   unit: cc
-- name: thym séché
+- name: thym
   qty: 0.25
   unit: cc
-- name: basilic séché
+- name: basilic
   qty: 0.25
   unit: cc
 - name: sel ou sel fin
@@ -41,7 +41,6 @@ ingredients:
 # Poulet caramélisé à l'ail et cassonade
 
 ## Ingrédients
-
 
 - 8 hauts de cuisses de poulet ou 8 cuisses de poulets
 - 50 g de sucre de canne roux ou cassonade

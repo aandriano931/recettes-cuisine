@@ -10,12 +10,12 @@ tags:
 - aperitif
 - sale
 ingredients:
-- name: oeufs
+- name: oeuf
   qty: 3
 - name: farine
   qty: 150
   unit: g
-- name: poudre à pâte
+- name: levure
   qty: 7
   unit: g
 - name: feta
@@ -30,29 +30,32 @@ ingredients:
 - name: huile d'olive
   qty: 100
   unit: ml
-- name: lait ou lait végétal
+- name: lait
   qty: 125
   unit: ml
 - name: sirop d'érable
   qty: 3
   unit: cs
-- name: romarin, sel, poivre
+- name: romarin
+- name: sel
+- name: poivre
 ---
 # Cake feta-figues et romarin
 
 ## Ingrédients
 
-
 - 3 oeufs
 - 150 g de farine
-- 7 g de poudre à pâte
+- 7 g de levure
 - 150 g de feta
 - 200 g de figues séchées
 - 50 g de fromage râpé
 - 100 ml d'huile d'olive
 - 125 ml de lait ou lait végétal
 - 3 cs de sirop d'érable
-- romarin, sel, poivre
+- romarin
+- sel
+- poivre
 
 ## Préparation
 

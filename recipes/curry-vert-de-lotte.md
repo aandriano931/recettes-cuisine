@@ -9,44 +9,43 @@ tags:
 - poisson
 - epice
 ingredients:
-- name: une très belle queue de lotte parée et nettoyée
-- name: à 3 cl huile d'olive ou d'arachide
-  qty: 2
+- name: queue de lotte
+  qty: 1
+- name: huile d'olive
+  qty: 3
+  unit: cl
 - name: ail
   qty: 2
   unit: gousse
-- name: citronelle écrasées
+- name: citronelle
   qty: 2
   unit: tige
-- name: grosses échalotes ciselées
+- name: échalote
   qty: 2
 - name: curry vert en pâte
   qty: 1
   unit: cc
-- name: lait ou de crème de coco
+- name: lait de coco
   qty: 20
   unit: cl
-- name: le zeste d'un demi citron vert
-- name: oignons grelots ou 8 oignons nouveaux
-  qty: 12
+- name: citron vert
+  qty: 0.5
+- name: oignon nouveau
+  qty: 8
 - name: fumet de poisson
   qty: 0.5
   unit: l
 - name: gingembre
   qty: 2
   unit: tranche
-- name: sauce soja non sucrée
-- name: feuilles de basilic ou de coriandre
+- name: sauce soja
+- name: basilic ou coriandre
 - name: nuoc-mâm
 - name: huile de sésame
-- name: garniture .
-  qty: 200
-  unit: g
 ---
 # Curry vert de lotte
 
 ## Ingrédients
-
 
 - une très belle queue de lotte parée et nettoyée
 - 2 à 3 cl huile d'olive ou d'arachides

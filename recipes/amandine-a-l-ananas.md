@@ -27,7 +27,7 @@ ingredients:
 - name: farine
   qty: 25
   unit: g
-- name: oeufs
+- name: oeuf
   qty: 2
 - name: sirop d'ananas
   qty: 50
@@ -36,7 +36,6 @@ ingredients:
 # Amandine à l'ananas
 
 ## Ingrédients
-
 
 - 1 boite d'ananas au sirop
 - 1 pâte feuilletée

@@ -8,7 +8,7 @@ tags:
 - tarte
 - plat principal
 ingredients:
-- name: poireaux
+- name: poireau
   qty: 3
 - name: pâte feuilletée
   qty: 1
@@ -22,7 +22,6 @@ ingredients:
 # Tarte tatin de poireaux
 
 ## Ingrédients
-
 
 - 3 poireaux
 - 1 pâte feuilletée

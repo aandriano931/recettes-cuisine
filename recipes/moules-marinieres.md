@@ -10,7 +10,7 @@ ingredients:
 - name: moules
   qty: 1.5
   unit: kg
-- name: échalotes
+- name: échalote
   qty: 2
 - name: ail
   qty: 2
@@ -29,7 +29,6 @@ ingredients:
 # Moules marinières
 
 ## Ingrédients
-
 
 - 1.5 kg de moules
 - 2 échalotes

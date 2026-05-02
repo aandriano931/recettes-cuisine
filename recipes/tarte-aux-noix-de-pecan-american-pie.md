@@ -10,7 +10,7 @@ tags:
 - dessert
 - gateau
 ingredients:
-- name: beurre non salé
+- name: beurre doux
   qty: 110
   unit: g
 - name: golden syrup
@@ -22,7 +22,7 @@ ingredients:
 - name: sucre roux
   qty: 225
   unit: g
-- name: oeufs
+- name: oeuf
   qty: 3
 - name: pâte brisée
   qty: 1
@@ -33,7 +33,6 @@ ingredients:
 # Tarte aux noix de pécan (american pie)
 
 ## Ingrédients
-
 
 - 110 g de beurre non salé
 - 110 g de golden syrup

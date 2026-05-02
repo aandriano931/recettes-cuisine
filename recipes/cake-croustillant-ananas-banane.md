@@ -10,7 +10,7 @@ tags:
 - facile
 - gateau
 ingredients:
-- name: oeufs
+- name: oeuf
   qty: 2
 - name: sucre roux
   qty: 100
@@ -32,7 +32,7 @@ ingredients:
 - name: ananas
   qty: 100
   unit: g
-- name: banane très mûre
+- name: banane
   qty: 1
 - name: rhum
   qty: 1
@@ -41,7 +41,6 @@ ingredients:
 # Cake croustillant ananas-banane
 
 ## Ingrédients
-
 
 - 2 oeufs
 - 100 g de sucre roux

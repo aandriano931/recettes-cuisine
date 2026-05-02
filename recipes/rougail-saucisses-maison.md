@@ -12,8 +12,8 @@ ingredients:
 - name: ail
   qty: 50
   unit: g
-- name: gros oignons rouges
-  qty: 4
+- name: oignon rouge
+  qty: 5
 - name: gingembre frais
   qty: 10
   unit: g
@@ -22,23 +22,27 @@ ingredients:
 - name: curcuma
   qty: 4
   unit: cc
-- name: paprika doux fumé
+- name: paprika fumé
   qty: 1
   unit: cc
-- name: belles branches de thym frais
+- name: thym
   qty: 2
-- name: ou 5 feuilles de laurier
+  unit: branche
+- name: laurier
   qty: 4
-- name: poivre, sel
+  unit: feuille
+- name: poivre
+- name: sel
 - name: piment vert thai
   qty: 1
 - name: brisure de riz
-- name: la moitié d'une petite briquette de coulis de tomates
+- name: coulis de tomates
+  qty: 250
+  unit: g
 ---
 # Rougail saucisses maison
 
 ## Ingrédients
-
 
 - 50 g d'ail
 - 4 gros oignons rouges

@@ -18,17 +18,16 @@ ingredients:
 - name: guanciale
   qty: 400
   unit: g
-- name: jaunes d'oeufs
+- name: oeuf
   qty: 6
-- name: pecorino romano râpé
+- name: pecorino romano
   qty: 50
   unit: g
-- name: poivre noir du moulin
+- name: poivre
 ---
 # Carbonara traditionnelle
 
 ## Ingrédients
-
 
 - 300 g de pâtes longues
 - 1 cc de gros sel
