@@ -14,7 +14,9 @@ Source de vérité des recettes familiales. Chaque recette est **un fichier mark
 ```
 recettes-cuisine/
 ├── README.md              # ce fichier
+├── CONVENTIONS.md         # règles d'écriture et schéma des ingrédients (source de vérité)
 ├── .gitignore
+├── drafts/                # brouillons générés par l'agent (non importés)
 └── recipes/
     ├── _template.md       # squelette à copier pour une nouvelle recette
     ├── tajine-maison.md
@@ -71,6 +73,18 @@ duration_minutes: 90
 source: manual
 source_url: null
 tags: [famille, hiver, maghreb]
+role: main
+ingredients:
+  - name: poulet
+    qty: 800
+    unit: g
+    note: cuisses désossées
+  - name: oignon
+    qty: 2
+  - name: ras el hanout
+    qty: 1
+    unit: cs
+  - name: sel
 ---
 ```
 
@@ -79,9 +93,34 @@ tags: [famille, hiver, maghreb]
 | `title` | oui | string | Titre de la recette. Peut avoir accents et espaces. |
 | `servings` | oui | int | Nombre de portions. |
 | `duration_minutes` | oui | int | Temps total (prépa + cuisson) en minutes. |
-| `source` | oui | enum | `manual` (recette écrite par toi), `url` (recette trouvée sur le web), `cookmate` (importée depuis un export Cookmate). |
+| `source` | oui | enum | `manual` (recette écrite par toi), `url` (recette trouvée sur le web), `cookmate` (importée depuis un export Cookmate), `agent_draft` (brouillon généré par l'agent). |
 | `source_url` | non | string ou `null` | URL d'origine si `source: url`. Sinon `null`. |
 | `tags` | non | list[string] | Liste plate `[tag1, tag2]`. Libre, minuscules conseillées. |
+| `role` | non | enum | `main` (défaut), `dessert`, `preparation`. Catégorisation de la recette. |
+| `ingredients` | oui | list | Liste structurée d'ingrédients. Voir **Schéma ingredients** ci-dessous et `CONVENTIONS.md` pour les règles d'arbitrage détaillées. |
+
+### Schéma `ingredients`
+
+Chaque entrée de la liste :
+
+| Champ | Type | Obligatoire | Description |
+|---|---|---|---|
+| `name` | string | oui | Nom canonique en minuscules, sans article partitif, singulier sauf si invariable. |
+| `qty` | number | non | Quantité numérique (entier ou décimal). |
+| `unit` | string | non | Vocabulaire fermé — voir ci-dessous. |
+| `note` | string | non | Texte descriptif libre (`émincé`, `pour la cuisson`). Pas utilisé pour la liste de courses. |
+| `optional` | bool | non | `true` exclut l'ingrédient de la liste de courses. |
+
+**Vocabulaire fermé d'unités** (25 unités — toute autre valeur est rejetée par le linter) :
+
+- **Poids** : `mg`, `g`, `kg`
+- **Volume** : `ml`, `cl`, `dl`, `l`
+- **Cuisine** : `cs`, `cc`, `tasse`, `verre`
+- **Pack** : `sachet`, `boite`, `pot`, `canette`, `bouteille`
+- **Bouquet** : `bouquet`, `botte`, `branche`, `brin`, `tige`, `feuille`
+- **Discret** : `pincee`, `gousse`, `tranche`
+
+Voir `CONVENTIONS.md` pour les règles d'arbitrage (fourchettes, fractions, achat vs usage, etc.).
 
 ### Corps — sections obligatoires
 
@@ -90,10 +129,7 @@ tags: [famille, hiver, maghreb]
 
 ## Ingrédients
 
-- 800 g poulet (cuisses désossées)
-- 2 oignons
-- 1 c. à s. ras el hanout
-- sel, poivre
+(Auto-généré depuis le YAML — ne pas éditer à la main.)
 
 ## Préparation
 
@@ -103,7 +139,7 @@ tags: [famille, hiver, maghreb]
 ````
 
 - **Titre H1** : reprend `title` du frontmatter (redondance volontaire — garde-fou si l'un des deux est modifié sans l'autre).
-- **`## Ingrédients`** : liste markdown (`- ...`). Format libre, mais le parseur extrait mieux les lignes du type `<quantité> <unité> <nom>` (`800 g poulet`, `2 c. à s. huile d'olive`). Les formulations floues (`1 pincée de sel`, `quelques feuilles de basilic`) sont acceptées et stockées en texte brut.
+- **`## Ingrédients`** : rendu lisible généré automatiquement depuis la clé `ingredients:` du frontmatter. **Ne pas éditer cette section à la main** — les modifications seraient écrasées au prochain passage du script. Pour changer un ingrédient, éditer le YAML dans le frontmatter.
 - **`## Préparation`** : texte libre. Liste numérotée conseillée, mais pas obligatoire.
 
 ### Corps — sections optionnelles
@@ -126,21 +162,27 @@ Recette transmise par Mamie Hawa, ajustée au fil des années.
 
 ### Recettes complexes (composants multiples)
 
-Pour une recette avec marinade + plat + sauce, utiliser des sous-sections markdown :
+Pour une recette avec marinade + plat + sauce, tous les ingrédients restent dans la liste `ingredients:` du frontmatter. Utiliser le champ `note` pour préciser le composant :
 
-```markdown
-## Ingrédients
-
-### Pour la marinade
-- 2 c. à s. huile d'olive
-- 1 citron
-
-### Pour le plat
-- 800 g poulet
-- 2 oignons
+```yaml
+ingredients:
+  - name: huile d'olive
+    qty: 2
+    unit: cs
+    note: pour la marinade
+  - name: citron
+    qty: 1
+    note: pour la marinade
+  - name: poulet
+    qty: 800
+    unit: g
+    note: pour le plat
+  - name: oignon
+    qty: 2
+    note: pour le plat
 ```
 
-Le parseur regroupe tous les ingrédients sous la recette parente.
+Le script d'import regroupe tous les ingrédients sous la recette parente.
 
 ## Règles de nommage
 
