@@ -10,22 +10,21 @@ tags:
 - mexicain
 - vegetarien
 ingredients:
-- name: tomates coupées en morceaux
+- name: tomate
   qty: 2
-- name: oignon coupée en cubes
+- name: oignon
   qty: 0.5
 - name: sel
 - name: citron
   qty: 0.5
 - name: coriandre
 - name: sauce piquante
-- name: avocats
+- name: avocat
   qty: 2
 ---
 # Guacamole très facile
 
 ## Ingrédients
-
 
 - 2 tomates coupées en morceaux
 - 0.5 oignon coupée en cubes
@@ -42,7 +41,3 @@ ingredients:
 3. Dans un plat, mélangez l'avocat avec l'oignon et en dernier les tomates.
 4. Ajoutez le sel ainsi que du citron (et la sauce piquante).
 5. Le guacamole accompagne parfaitement chips, nachos ou biscuits salés.
-
-## Notes
-
-tomate, oignon, sel, citron, coriandre, sauce piquante, avocat

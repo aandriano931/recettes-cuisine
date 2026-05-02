@@ -13,8 +13,8 @@ ingredients:
 - name: lait entier bio
   qty: 1
   unit: l
-- name: jaunes d'oeuf bio + 2 œufs entiers bio
-  qty: 4
+- name: oeuf
+  qty: 6
 - name: sucre en poudre
   qty: 200
   unit: g
@@ -27,10 +27,10 @@ ingredients:
 - name: vanille
   qty: 1
   unit: gousse
-- name: farine + 1 c. à s.
+- name: farine
   qty: 250
   unit: g
-- name: beurre + 5 g pour le moule
+- name: beurre
   qty: 180
   unit: g
 - name: oeuf
@@ -45,7 +45,6 @@ ingredients:
 # Flan pâtissier par Laurent Mariotte
 
 ## Ingrédients
-
 
 - 1 l de lait entier bio
 - 4 jaunes d'oeuf bio + 2 œufs entiers bios
@@ -72,7 +71,3 @@ ingredients:
 9. Versez la préparation à flan et lissez la surface.
 10. Enfournez pour 50 minutes de cuisson : le flan doit être bien coloré.
 11. Laissez refroidir et placez dans le réfrigérateur au moins 6 heures/une nuit.
-
-## Notes
-
-lait entier, jaune d'oeuf, sucre en poudre, fécule de maïs, crème liquide, vanille, farine, beurre, oeuf, sucre, sel

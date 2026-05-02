@@ -9,9 +9,6 @@ tags:
 - indien
 - epice
 ingredients:
-- name: huile de coconut ou huile d'olive
-  qty: 1
-  unit: cs
 - name: oignon
   qty: 1
 - name: poudre de curcuma
@@ -32,7 +29,7 @@ ingredients:
 - name: lentilles corail
   qty: 1.5
   unit: tasse
-- name: lait de coconut
+- name: lait de coco
   qty: 1
 - name: bouillon de légumes
   qty: 2.5
@@ -40,16 +37,15 @@ ingredients:
 - name: sirop d'érable
   qty: 1
   unit: cc
-- name: petite aubergine
+- name: aubergine
   qty: 1
 - name: huile d'olive
-  qty: 3
+  qty: 4
   unit: cs
 ---
 # Dhal de lentilles au lait de coco et aubergines
 
 ## Ingrédients
-
 
 - 1 cs d'huile de coconut ou huile d'olive
 - 1 oignon (jaune coupé en dés)

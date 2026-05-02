@@ -27,13 +27,13 @@ Chaque entrée a les champs :
 
 ## Vocabulaire fermé d'unités
 
-Toute unité hors de cette liste est rejetée par le linter (24 unités) :
+Toute unité hors de cette liste est rejetée par le linter (25 unités) :
 
 - **Poids** : `mg`, `g`, `kg`
 - **Volume** : `ml`, `cl`, `dl`, `l`
 - **Cuisine** : `cs`, `cc`, `tasse`, `verre`
 - **Pack** : `sachet`, `boite`, `pot`, `canette`, `bouteille`
-- **Bouquet** : `bouquet`, `botte`, `brin`, `tige`, `feuille`
+- **Bouquet** : `bouquet`, `botte`, `branche`, `brin`, `tige`, `feuille`
 - **Discret** : `pincee`, `gousse`, `tranche`
 
 Quand le source utilise une unité absente (`tbsp`, `cup`, `cuillerée à soupe`) :

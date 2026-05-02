@@ -14,18 +14,19 @@ ingredients:
   unit: g
 - name: chorizo
   qty: 1
-- name: poivrons
+- name: poivron
   qty: 2
 - name: tomate
   qty: 1
   unit: kg
-- name: oignons
+- name: oignon
   qty: 2
 - name: ail
   qty: 3
   unit: gousse
-- name: doses de safran
+- name: safran
   qty: 3
+  unit: brin
 - name: bouillon de volaille
   qty: 1
   unit: l
@@ -43,13 +44,12 @@ ingredients:
 - name: moules
   qty: 1
   unit: l
-- name: crevettes
+- name: crevette
   qty: 15
 ---
 # Paëlla fruits de mer, chorizo et poulet de Patou
 
 ## Ingrédients
-
 
 - 500 g de riz
 - 1 chorizo

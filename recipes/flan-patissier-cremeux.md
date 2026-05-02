@@ -10,7 +10,7 @@ tags:
 - gateau
 - dessert
 ingredients:
-- name: oeufs
+- name: oeuf
   qty: 3
 - name: lait
   qty: 1
@@ -27,13 +27,12 @@ ingredients:
 - name: crème légère
   qty: 90
   unit: g
-- name: pâte feuilletée ou brisée ou sucrée
+- name: pâte feuilletée
   qty: 1
 ---
 # Flan patissier cremeux
 
 ## Ingrédients
-
 
 - 3 oeufs
 - 1 l de lait

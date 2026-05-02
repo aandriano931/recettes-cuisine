@@ -13,7 +13,7 @@ ingredients:
 - name: sucre vanillé
   qty: 1
   unit: sachet
-- name: jaunes d'oeuf
+- name: oeuf
   qty: 3
 - name: huile
   qty: 30
@@ -21,7 +21,7 @@ ingredients:
 - name: rhum
   qty: 20
   unit: cl
-- name: sucre en poudre ou sucre semoule
+- name: sucre en poudre
   qty: 110
   unit: g
 - name: levure chimique
@@ -43,7 +43,6 @@ ingredients:
 # Gâteau de patates douces et ananas
 
 ## Ingrédients
-
 
 - 1 sachet de sucre vanillé
 - 3 jaunes d'oeufs

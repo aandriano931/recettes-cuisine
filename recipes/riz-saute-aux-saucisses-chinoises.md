@@ -9,34 +9,36 @@ tags:
 - riz
 - saucisses
 ingredients:
-- name: riz long grain
+- name: riz
   qty: 250
   unit: g
 - name: saucisses chinoises à la citronnelle
   qty: 500
   unit: g
-- name: oignon doux émincé en demi-rondelles
+- name: oignon doux
   qty: 1
 - name: petits pois surgelés
   qty: 175
   unit: g
-- name: lamelles de poivron jaune
+- name: poivron jaune
   qty: 200
   unit: g
 - name: coriandre
   qty: 1
   unit: bouquet
-- name: cuil. à soupe de sauce soja douce
+- name: sauce soja
   qty: 2
-- name: cuil. à soupe d'huile de tournesol
+  unit: cs
+- name: huile de tournesol
   qty: 2
-- name: sel, poivre
+  unit: cs
+- name: sel
+- name: poivre
 ---
 # Riz sauté aux saucisses chinoises
 
 ## Ingrédients
-
-
+  
 - 250 g de riz long grain
 - 500 g de saucisses chinoises à la citronnelle
 - 1 oignon doux émincé en demi-rondelles

@@ -15,7 +15,7 @@ ingredients:
 - name: sucre glace
   qty: 75
   unit: g
-- name: farine t55
+- name: farine
   qty: 250
   unit: g
 - name: poudre d'amande
@@ -30,7 +30,6 @@ ingredients:
 # Pate sucree pierre herme
 
 ## Ingrédients
-
 
 - 140 g de beurre
 - 75 g de sucre glace

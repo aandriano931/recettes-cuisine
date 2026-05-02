@@ -9,7 +9,7 @@ tags:
 - thai
 - pates
 ingredients:
-- name: ciboules ou oignons nouveaux
+- name: ciboule
 - name: cacahuètes grillées mixées
   qty: 2
   unit: cs
@@ -22,23 +22,21 @@ ingredients:
 - name: huile de tournesol
   qty: 2
   unit: cs
-- name: pâte de tamarin acide
+- name: pâte de tamarin
 - name: tofu ferme
 - name: pousses de soja
-- name: échalotes
+- name: échalote
   qty: 2
-- name: oeufs
+- name: oeuf
   qty: 2
 - name: citron
   qty: 1
 - name: nouilles de riz
 - name: sauce poisson
-- name: optionnel
 ---
 # Pad Thaï ou nouilles sautées à la thaïlandaise
 
 ## Ingrédients
-
 
 - ciboules ou oignons nouveaux
 - 2 cs de cacahuètes grillées mixées

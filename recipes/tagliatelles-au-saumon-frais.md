@@ -9,24 +9,25 @@ tags:
 - pates
 - plat-principal
 ingredients:
-- name: filet épais de saumon frais de 500 g
-  qty: 1
+- name: saumon
+  qty: 500
+  unit: g
 - name: échalote
   qty: 1
-- name: les parures de saumon
 - name: vin blanc
   qty: 20
   unit: cl
 - name: fumet de poisson
   qty: 20
   unit: cl
-- name: petite boîte de tomates pelées
+- name: tomates pelées
   qty: 1
+  unit: boite
 - name: crème liquide
   qty: 40
   unit: cl
 - name: huile d'olive
-- name: poivre du moulin
+- name: poivre
 - name: sel
 - name: tagliatelles
   qty: 200
@@ -34,16 +35,14 @@ ingredients:
 - name: ciboulette
   qty: 0.5
   unit: botte
-- name: branches de persil plat
+- name: persil plat
   qty: 4
-- name: les cubes de saumon
-- name: le sautoir de la sauce au saumon
-- name: les tagliatelles
+  unit: branche
+- name: tagilatelles
 ---
 # Tagliatelles au saumon frais
 
 ## Ingrédients
-
 
 - 1 filet épais de saumon frais de 500 g
 - 1 échalote

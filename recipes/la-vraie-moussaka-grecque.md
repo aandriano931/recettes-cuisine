@@ -18,9 +18,9 @@ ingredients:
 - name: lait
   qty: 35
   unit: cl
-- name: aubergines
+- name: aubergine
   qty: 2
-- name: tomates
+- name: tomate
   qty: 5
 - name: oignon
   qty: 1
@@ -33,7 +33,7 @@ ingredients:
   unit: cc
 - name: poivre
 - name: sel
-- name: pommes de terre
+- name: pomme de terre
   qty: 6
 - name: boeuf haché
   qty: 500
@@ -45,7 +45,6 @@ ingredients:
 # La Vraie Moussaka Grecque
 
 ## Ingrédients
-
 
 - 20 g de beurre
 - 3 cs de farine

@@ -16,7 +16,7 @@ ingredients:
 - name: beurre
   qty: 70
   unit: g
-- name: philadelphia ou autre fromage frais
+- name: philadelphia
   qty: 300
   unit: g
 - name: sucre
@@ -25,14 +25,15 @@ ingredients:
 - name: jus de citron
   qty: 220
   unit: g
-- name: zestes de 2,5 citrons
+- name: citron
+  qty: 2.5
 - name: crème liquide 30%
   qty: 280
   unit: g
 - name: gélatine
   qty: 2
   unit: feuille
-- name: oeufs
+- name: oeuf
   qty: 3
 - name: maïzena
   qty: 1
@@ -41,7 +42,6 @@ ingredients:
 # Cheesecake au citron sans cuisson
 
 ## Ingrédients
-
 
 - 160 g de biscuits
 - 70 g de beurre

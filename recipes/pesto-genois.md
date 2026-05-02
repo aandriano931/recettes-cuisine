@@ -14,13 +14,13 @@ ingredients:
 - name: basilic frais
   qty: 50
   unit: g
-- name: pecorino rapé
+- name: pecorino
   qty: 30
   unit: g
-- name: parmesan rapé
+- name: parmesan
   qty: 70
   unit: g
-- name: huile d'olive vierge extra
+- name: huile d'olive
   qty: 100
   unit: ml
 - name: pignons de pin
@@ -33,7 +33,6 @@ ingredients:
 # Pesto génois
 
 ## Ingrédients
-
 
 - 2 gousses d'ail
 - 50 g de basilic frais

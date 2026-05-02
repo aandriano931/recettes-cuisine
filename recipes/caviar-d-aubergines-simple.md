@@ -10,17 +10,18 @@ tags:
 - aperitif
 - facile
 ingredients:
-- name: aubergines
+- name: aubergine
   qty: 3
 - name: ail
   qty: 2
   unit: gousse
-- name: demi jus de citron
+- name: citron
   qty: 1
 - name: huile d'olive
   qty: 20
   unit: g
-- name: sel, poivre du moulin
+- name: sel
+- name: poivre du moulin
 - name: pain de mie
   qty: 4
   unit: tranche
@@ -28,7 +29,6 @@ ingredients:
 # Caviar d'aubergines simple
 
 ## Ingrédients
-
 
 - 3 aubergines
 - 2 gousses d'ail

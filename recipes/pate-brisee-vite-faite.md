@@ -13,7 +13,7 @@ ingredients:
 - name: farine
   qty: 300
   unit: g
-- name: beurre en dés et en pommade
+- name: beurre
   qty: 150
   unit: g
 - name: sel
@@ -22,14 +22,13 @@ ingredients:
 - name: sucre
   qty: 3
   unit: cs
-- name: eau ou de lait tiède
+- name: eau
   qty: 8
   unit: cl
 ---
 # Pâte brisée vite faite
 
 ## Ingrédients
-
 
 - 300 g de farine
 - 150 g de beurre en dés et en pommade

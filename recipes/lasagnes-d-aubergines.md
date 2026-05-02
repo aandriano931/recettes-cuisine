@@ -9,7 +9,7 @@ tags:
 - plat-principal
 - gratin
 ingredients:
-- name: aubergines fraîches ou surgelées
+- name: aubergine
   qty: 4
 - name: lasagnes
   qty: 8
@@ -42,7 +42,6 @@ ingredients:
 # Lasagnes d'aubergines
 
 ## Ingrédients
-
 
 - 4 aubergines fraîches ou surgelées
 - 8 feuilles de lasagnes
