@@ -5,25 +5,10 @@ duration_minutes: 30
 source: agent_draft
 source_url: https://www.marmiton.org/recettes/recette_cassoulet-a-ma-facon_16749.aspx
 tags: []
+ingredients: []
 ---
 
 # Recette cassoulet a ma facon 16749.aspx
-
-## Ingrédients
-
-- 750 g de haricots coco ou mojette de Vendée
-- 16 tranches de saucisson à l'ail
-- 8 saucisses de Toulouse non fumées
-- 4 tranches de poitrine de porc fraîche
-- 4 tranches de poitrine de porc fumée
-- 2 boîtes de confit de canard (4 cuisses)
-- 70 g de concentré de tomates en boîte
-- chapelure
-- ail
-- thym
-- laurier
-- poivre
-- sel
 
 ## Préparation
 
@@ -34,9 +19,9 @@ tags: []
 5. Sortir les cuisses de canard des boîtes, bien les nettoyer de toute la graisse, et séparer les haut et les bas de cuisses.
 6. Ajouter dans la cocotte, vérifier l’assaisonnement, et laisser encore mijoter 1/2 heure. Mettre le four à préchauffer, chaleur tournante (on mettra deux plats sur deux niveau), à 110°C (thermostat 3 ou 4).
 7. Prendre deux grands plat à gratin en terre cuite à bord assez haut, les frotter avec de l’ail, puis, délicatement, répartir le contenu de la cocotte dans les deux plats (attention au confit qui se détachent très facilement). Il faut que la sauce recouvre juste a niveau les haricots. saupoudrer alors de chapelure, et mettre au four.
-Vérifier régulièrement que la préparation cuit tout doucement, et qu’il y a suffisamment de sauce, il faut toujours que le jus soit au niveau des haricots. De temps en temps, appuyer sur les morceaux de viande ou de saucisse pour les remettre un peu dans la sauce.
-8. On peut laisser mijoter encore 1/2 heure, deux heures, ou mieux laisser refroidir au bout d’une heure et remettre à cuire encore une heure ( par exemple si on prépare la veille) 
-C’est encore meilleur réchauffé.
+8. Vérifier régulièrement que la préparation cuit tout doucement, et qu’il y a suffisamment de sauce, il faut toujours que le jus soit au niveau des haricots. De temps en temps, appuyer sur les morceaux de viande ou de saucisse pour les remettre un peu dans la sauce.
+9. On peut laisser mijoter encore 1/2 heure, deux heures, ou mieux laisser refroidir au bout d’une heure et remettre à cuire encore une heure ( par exemple si on prépare la veille)
+10. C’est encore meilleur réchauffé.
 
 ## Notes
 
