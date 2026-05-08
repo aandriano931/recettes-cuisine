@@ -3,8 +3,6 @@ title: Pommes de terre et œufs braisés au gochujang
 servings: 4
 duration_minutes: 40
 source: agent_draft
-source_url: null
-role: main
 tags: []
 ingredients:
 - name: pomme de terre
@@ -61,23 +59,6 @@ ingredients:
 ---
 
 # Pommes de terre et œufs braisés au gochujang
-
-## Ingrédients
-
-- 380 g de pomme de terre (à chair ferme, pelées et coupées en bâtonnets de 0,5 x 4 cm)
-- 160 g de chou-rave (petit, pelé et coupé en bâtonnets de 0,5 x 4 cm)
-- 1 cs de pâte de piment gochujang (quantité à ajuster selon la marque, voir p. 18)
-- 2 cc de pâte de miso (blanche)
-- 2 gousses d'ail (petites, écrasées)
-- 3 cs d'huile d'olive (plus un peu pour graisser le moule)
-- 8 œufs
-- 1 citron vert (coupé en quartiers, pour servir)
-- sel (¼ cuil. à café pour le mélange de légumes, et pour saler les œufs)
-- 1 cs de jus de citron vert (pour la salsa)
-- 1 cc de pâte de piment gochujang (pour la salsa, à ajuster en fonction de la marque utilisée, voir p. 18)
-- 2 cs d'huile d'olive (pour la salsa)
-- 2 cc de ciboulette (finement hachée, pour la salsa)
-- 2 cc de graines de sésame (blanches ou noires, de préférence un mélange des deux, grillées, pour la salsa)
 
 ## Préparation
 
