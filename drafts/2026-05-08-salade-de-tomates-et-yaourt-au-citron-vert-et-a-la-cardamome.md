@@ -3,8 +3,6 @@ title: Salade de tomates et yaourt au citron vert et à la cardamome
 servings: 4
 duration_minutes: 30
 source: agent_draft
-source_url: null
-role: main
 tags: []
 ingredients:
 - name: yaourt à la grecque
@@ -51,21 +49,6 @@ ingredients:
 ---
 
 # Salade de tomates et yaourt au citron vert et à la cardamome
-
-## Ingrédients
-
-- 70 g de yaourt à la grecque
-- 50 g de fromage de chèvre frais (sans croûte)
-- 0.5 gousse d'ail (petite, écrasée)
-- 1 cc de zeste de citron vert (finement râpé)
-- 1.5 cs de jus de citron vert
-- 0.75 cc de cardamome (graines finement broyées)
-- 1 piment vert (gros, finement haché, épépiné si vous n'aimez pas le feu)
-- 500 g de tomates cerise (sucrées bien mûres, coupées en deux)
-- 60 g d'échalote banane (grosse, en fines tranches)
-- 6 cl d'huile d'olive
-- 10 g de feuilles de menthe (grossièrement déchirées)
-- sel
 
 ## Préparation
 
