@@ -3,8 +3,6 @@ title: Patates douces à la sauce tomate, citron vert et cardamome
 servings: 4
 duration_minutes: 30
 source: agent_draft
-source_url: null
-role: main
 tags: []
 ingredients:
 - name: patate douce
@@ -69,27 +67,6 @@ ingredients:
 ---
 
 # Patates douces à la sauce tomate, citron vert et cardamome
-
-## Ingrédients
-
-- 1 kg de patate douce (grosses, avec la peau, coupées en tranches de 2,5 cm d'épaisseur)
-- 2 cs d'huile d'olive
-- 1.5 cs de sirop d'érable
-- 0.5 cc de cardamome (moulue)
-- 0.5 cc de cumin (moulu)
-- sel
-- poivre noir
-- 7.5 cl d'huile d'olive
-- 6 gousses d'ail (finement hachées (pas écrasées))
-- 2 piment verts (finement hachés (épépinés si vous n'aimez pas le feu des piments))
-- 100 g d'échalote banane (petites, finement hachées)
-- 400 g de tomate (en conserve, mixées en coulis lisse)
-- 1 cs de concentré de tomate
-- 1.5 cc de sucre semoule
-- 1 cc de cardamome (moulue)
-- 1.5 cc de cumin (moulu)
-- 2 citron vert bios (1 cc de zeste finement râpé, 1 cs de jus, le reste en quartiers pour servir)
-- 2 cc d'aneth (finement haché, pour servir)
 
 ## Préparation
 
