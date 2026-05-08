@@ -3,7 +3,6 @@ title: Shiitaké farcis
 servings: 4
 duration_minutes: 23
 source: agent_draft
-source_url: null
 tags: []
 ingredients:
 - name: champignon shiitake
@@ -31,17 +30,6 @@ ingredients:
 ---
 
 # Shiitaké farcis
-
-## Ingrédients
-
-- 8 champignon shiitakes
-- 125 g de blanc de poulet
-- 1 oignon nouveau
-- 1 cs de gingembre frais (râpé)
-- 0.5 jus de citron
-- 1 cs de sake
-- 1 cs de sauce soja
-- 2 cs d'huile d'olive
 
 ## Préparation
 
