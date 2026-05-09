@@ -3,7 +3,9 @@ title: Tofu au citron noir séché, par noor
 servings: 4
 duration_minutes: 30
 source: agent_draft
-tags: []
+tags:
+  - oriental
+  - vegetarien
 ingredients:
 - name: vinaigre de cidre
   qty: 1.0

@@ -3,7 +3,10 @@ title: Pommes de terre et œufs braisés au gochujang
 servings: 4
 duration_minutes: 40
 source: agent_draft
-tags: []
+tags:
+  - asiatique
+  - oeufs
+  - vegetarien
 ingredients:
 - name: pomme de terre
   qty: 380.0

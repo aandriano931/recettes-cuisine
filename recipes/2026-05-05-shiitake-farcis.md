@@ -3,7 +3,10 @@ title: Shiitaké farcis
 servings: 4
 duration_minutes: 23
 source: agent_draft
-tags: []
+tags:
+  - japonais
+  - poulet
+  - aperitif
 ingredients:
 - name: champignon shiitake
   qty: 8.0
