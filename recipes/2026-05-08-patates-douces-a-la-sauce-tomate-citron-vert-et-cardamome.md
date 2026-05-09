@@ -3,7 +3,9 @@ title: Patates douces à la sauce tomate, citron vert et cardamome
 servings: 4
 duration_minutes: 30
 source: agent_draft
-tags: []
+tags:
+  - oriental
+  - vegetarien
 ingredients:
 - name: patate douce
   qty: 1.0

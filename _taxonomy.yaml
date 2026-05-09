@@ -13,17 +13,20 @@
 #
 # Format : chaque axe est une liste d'entrées { canonical, aliases? }.
 # Les aliases sont normalisés vers leur canonical au moment du lint /
-# de l'import. La forme canonical est en kebab-case minuscule sans accent.
+# de l'import.
+#
+# Règle de forme canonique (sans exception) : kebab-case minuscule, ASCII
+# pur — pas d'accent, pas de cédille, pas de diacritique. Les formes
+# accentuées (français, coréen, méditerranéen, …) sont systématiquement
+# en `aliases` et normalisées vers leur canonical ASCII au lint/import.
+# Cette règle garantit que les tags sont URL-safe, slug-safe, et
+# tapables sans clavier français.
 
 cuisine:
   - canonical: italien
     aliases: [italienne, italie]
-  - canonical: français
-    # `francais` (sans cédille) est conservé en alias pour récupérer
-    # l'orthographe sans diacritique des vieilles recettes / des
-    # claviers sans touche cédille — mais le canonical (et donc
-    # l'écriture attendue dans les nouveaux fichiers) est `français`.
-    aliases: [francais, française, france]
+  - canonical: francais
+    aliases: [français, française, france]
   - canonical: asiatique
     # Parapluie : pour les recettes asiatiques sans cuisine spécifique
     # (stir-fry générique, fusion). thai/indien/chinois/vietnamien/japonais
@@ -39,6 +42,8 @@ cuisine:
     aliases: [vietnam]
   - canonical: japonais
     aliases: [japon]
+  - canonical: coreen
+    aliases: [coréen, coréenne, coreenne, corée, coree, korean]
   - canonical: antillais
     aliases: [antillaise, créole]
   - canonical: oriental

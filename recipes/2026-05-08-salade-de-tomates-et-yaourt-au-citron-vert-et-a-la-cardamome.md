@@ -5,7 +5,9 @@ duration_minutes: 30
 source: agent_draft
 source_url: null
 role: main
-tags: []
+tags:
+  - oriental
+  - vegetarien
 ingredients:
 - name: yaourt à la grecque
   qty: 70.0
