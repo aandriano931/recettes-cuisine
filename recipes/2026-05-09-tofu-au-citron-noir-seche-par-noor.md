@@ -4,8 +4,8 @@ servings: 4
 duration_minutes: 30
 source: agent_draft
 tags:
-  - oriental
-  - vegetarien
+- oriental
+- vegetarien
 ingredients:
 - name: vinaigre de cidre
   qty: 1.0
@@ -66,5 +66,4 @@ ingredients:
 
 ## Notes
 
-(brouillon généré par Alfred — à relire et corriger)
 Ottolenghi page a76
