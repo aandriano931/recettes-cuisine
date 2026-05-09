@@ -5,7 +5,7 @@ duration_minutes: 30
 source: agent_draft
 source_url: https://www.marmiton.org/recettes/recette_tarte-aux-groseilles_17551.aspx
 tags:
-  - français
+  - francais
 ingredients:
 - name: groseilles
   qty: 500.0
