@@ -5,10 +5,7 @@ servings: 11
 duration_minutes: 70
 source: cookmate
 source_url: https://www.casseroleetchocolat.fr/gateau-pommes-mascarpone/
-tags:
-- gateau
-- dessert
-- automne
+tags: []
 ingredients:
 - name: pomme
   qty: 4

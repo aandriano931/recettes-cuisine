@@ -5,9 +5,8 @@ duration_minutes: 55
 source: cookmate
 source_url: https://chefsimon.com/gourmets/chef-simon/recettes/curry-vert-de-lotte
 tags:
-- asiatique
-- poisson
-- epice
+  - asiatique
+  - poisson
 ingredients:
 - name: queue de lotte
   qty: 1

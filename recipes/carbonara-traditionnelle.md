@@ -5,9 +5,8 @@ duration_minutes: 40
 source: manual
 source_url: https://www.marmiton.org/recettes/recette_carbonara-traditionnelle_340808.aspx
 tags:
-- italien
-- pates
-- plat-principal
+  - italien
+  - pates
 ingredients:
 - name: pâtes longues
   qty: 300

@@ -6,9 +6,7 @@ duration_minutes: 40
 source: cookmate
 source_url: https://www.maspatule.com/blog/2020/06/10/recette-cheesecake-au-citron-sans-cuisson/
 tags:
-- gateau
-- dessert
-- citron
+  - citron
 ingredients:
 - name: biscuits
   qty: 160

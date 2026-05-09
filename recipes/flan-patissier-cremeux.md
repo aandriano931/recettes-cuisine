@@ -5,10 +5,7 @@ servings: 8
 duration_minutes: 60
 source: url
 source_url: https://aufilduthym.fr/flan-patissier-cremeux/?amp=1
-tags:
-- patisserie
-- gateau
-- dessert
+tags: []
 ingredients:
 - name: oeuf
   qty: 3

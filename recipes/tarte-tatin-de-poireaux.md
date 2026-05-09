@@ -5,8 +5,7 @@ duration_minutes: 55
 source: manual
 source_url: https://macuisineenthousiaste.com/tarte-tatin-de-poireaux/
 tags:
-- tarte
-- plat principal
+  - vegetarien
 ingredients:
 - name: poireau
   qty: 3

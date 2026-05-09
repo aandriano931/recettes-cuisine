@@ -5,9 +5,7 @@ servings: 2
 duration_minutes: 20
 source: url
 source_url: https://lacuisinedethomas.fr/recettes/pate-sucree-pierre-herme/
-tags:
-- patisserie
-- pate
+tags: []
 ingredients:
 - name: beurre
   qty: 140

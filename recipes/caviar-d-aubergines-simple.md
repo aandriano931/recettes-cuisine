@@ -6,9 +6,8 @@ duration_minutes: 20
 source: cookmate
 source_url: https://www.cuisineaz.com/recettes/caviar-d-aubergines-simple-65420.aspx
 tags:
-- vegetarien
-- aperitif
-- facile
+  - vegetarien
+  - aperitif
 ingredients:
 - name: aubergine
   qty: 3

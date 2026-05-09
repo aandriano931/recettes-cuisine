@@ -1,0 +1,105 @@
+# Vocabulaire de tags des recettes — source de vérité.
+#
+# Spécifié par projectx/docs/decisions/0029-recipe-tag-taxonomy.md.
+# Toute modification (ajout d'un canonical, ajout d'un alias, suppression)
+# passe par PR. Le YAML est versionné avec les recettes parce que c'est
+# de la donnée éditoriale, pas de la config agent (cf. ADR §2).
+#
+# 4 axes :
+#   - cuisine    : origine géographique / culturelle
+#   - ingredient : ingrédient principal / signature
+#   - regime     : contrainte alimentaire
+#   - occasion   : contexte d'usage social / temporel
+#
+# Format : chaque axe est une liste d'entrées { canonical, aliases? }.
+# Les aliases sont normalisés vers leur canonical au moment du lint /
+# de l'import. La forme canonical est en kebab-case minuscule sans accent.
+
+cuisine:
+  - canonical: italien
+    aliases: [italienne, italie]
+  - canonical: francais
+    aliases: [française, france]
+  - canonical: asiatique
+    # Parapluie : pour les recettes asiatiques sans cuisine spécifique
+    # (stir-fry générique, fusion). thai/indien/chinois/vietnamien/japonais
+    # ont leur propre canonical et ne portent pas `asiatique` en plus.
+    aliases: [asia, asie]
+  - canonical: thai
+    aliases: [thaï, thaïlandais]
+  - canonical: indien
+    aliases: [inde]
+  - canonical: chinois
+    aliases: [chinoise, chine]
+  - canonical: vietnamien
+    aliases: [vietnam]
+  - canonical: japonais
+    aliases: [japon]
+  - canonical: antillais
+    aliases: [antillaise, créole]
+  - canonical: oriental
+    # Parapluie pour Maghreb + Mashreq + cuisines arabes/levantines.
+    # Mêmes règles qu'`asiatique` : marocain/tunisien/libanais/turc/...
+    # sont distincts et ne portent pas `oriental` en plus.
+    aliases: [maghreb, maghrebin]
+  - canonical: marocain
+  - canonical: tunisien
+  - canonical: algerien
+    aliases: [algérien]
+  - canonical: libanais
+    aliases: [liban]
+  - canonical: turc
+    aliases: [turque, turquie]
+  - canonical: mediterraneen
+    # Parapluie pour les recettes méditerranéennes sans pays spécifique.
+    aliases: [méditerranéen]
+  - canonical: grec
+    aliases: [grèce, grecque]
+  - canonical: mexicain
+    aliases: [mexique]
+  - canonical: americain
+    aliases: [américain, usa]
+
+ingredient:
+  - canonical: pates
+    # Inclut nouilles asiatiques (pad-thaï, ramen). gnocchi/ravioli/
+    # lasagnes sont distincts (cf. ci-dessous).
+    aliases: [nouilles, pasta]
+  - canonical: gnocchi
+  - canonical: ravioli
+  - canonical: lasagnes
+  - canonical: riz
+  - canonical: poulet
+    aliases: [volaille]
+  - canonical: poisson
+    aliases: [poissons]
+  - canonical: saucisses
+    aliases: [saucisse, charcuterie]
+  - canonical: fruits-de-mer
+    aliases: [fruits de mer, crustaces, coquillages]
+  - canonical: citron
+    aliases: [citrons]
+  - canonical: boeuf
+  - canonical: agneau
+  - canonical: porc
+  - canonical: oeufs
+    aliases: [oeuf]
+  - canonical: chocolat
+  - canonical: fromage
+    aliases: [fromages]
+
+regime:
+  - canonical: vegetarien
+    aliases: [végétarien, vege, végé]
+
+occasion:
+  - canonical: aperitif
+    aliases: [apero, apéro, apéritif]
+  - canonical: convivial
+    # Englobe `famille` (alias) — repas partagés en famille ou avec invités.
+    aliases: [famille, familial]
+  - canonical: rapide
+    # Marqueur subjectif au-delà du minutage : la recette est *vraiment*
+    # exécutable rapidement quand on rentre crevé du boulot. Vient en
+    # complément du filtre `duration_minutes` (qui reste la mesure objective).
+    aliases: [express]

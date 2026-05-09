@@ -5,10 +5,7 @@ servings: 8
 duration_minutes: 60
 source: cookmate
 source_url: https://www.marmiton.org/recettes/recette_flan-patissier-par-laurent-mariotte_530756.aspx
-tags:
-- patisserie
-- gateau
-- dessert
+tags: []
 ingredients:
 - name: lait entier bio
   qty: 1

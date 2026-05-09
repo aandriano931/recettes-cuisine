@@ -6,9 +6,7 @@ duration_minutes: 70
 source: cookmate
 source_url: https://www.750g.com/gateau-de-patates-douces-et-ananas-r65821.htm
 tags:
-- gateau
-- dessert
-- antillais
+  - antillais
 ingredients:
 - name: sucre vanillé
   qty: 1

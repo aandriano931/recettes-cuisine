@@ -6,9 +6,7 @@ duration_minutes: 25
 source: cookmate
 source_url: https://www.marmiton.org/recettes/recette_tarte-aux-noix-de-pecan-americaine_232228.aspx
 tags:
-- americain
-- dessert
-- gateau
+  - americain
 ingredients:
 - name: beurre doux
   qty: 110
