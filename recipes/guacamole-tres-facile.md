@@ -3,7 +3,7 @@ title: Guacamole très facile
 role: preparation
 servings: 4
 duration_minutes: 10
-source: url
+source: manual
 source_url: https://www.marmiton.org/recettes/recette_guacamole-tres-facile_13111.aspx
 tags:
 - aperitif

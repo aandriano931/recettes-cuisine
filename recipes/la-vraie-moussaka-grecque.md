@@ -2,7 +2,7 @@
 title: La Vraie Moussaka Grecque
 servings: 8
 duration_minutes: 175
-source: url
+source: manual
 source_url: https://www.marmiton.org/recettes/recette_la-vraie-moussaka-grecque_72593.aspx
 tags:
   - convivial

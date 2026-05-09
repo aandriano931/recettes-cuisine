@@ -2,7 +2,7 @@
 title: Pad Thaï ou nouilles sautées à la thaïlandaise
 servings: 2
 duration_minutes: 25
-source: url
+source: manual
 source_url: https://www.hervecuisine.com/recette/pad-thai-facile/
 tags:
 - asiatique

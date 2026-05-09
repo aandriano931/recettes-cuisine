@@ -2,7 +2,7 @@
 title: Lasagnes d'aubergines
 servings: 6
 duration_minutes: 100
-source: url
+source: manual
 source_url: https://www.marmiton.org/recettes/recette_lasagnes-d-aubergines_21651.aspx
 tags:
   - vegetarien
