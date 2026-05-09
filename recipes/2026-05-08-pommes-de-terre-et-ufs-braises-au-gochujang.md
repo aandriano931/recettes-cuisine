@@ -4,7 +4,7 @@ servings: 4
 duration_minutes: 40
 source: agent_draft
 tags:
-  - asiatique
+  - coréen
   - oeufs
   - vegetarien
 ingredients:

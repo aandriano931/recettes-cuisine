@@ -39,6 +39,12 @@ cuisine:
     aliases: [vietnam]
   - canonical: japonais
     aliases: [japon]
+  - canonical: coréen
+    # Même dispensation que `français` : on garde la diacritique dans
+    # le canonical pour respecter l'orthographe française du gentilé,
+    # avec `coreen` (sans accent) en alias pour les claviers qui n'ont
+    # pas la touche accent ou les vieilles recettes.
+    aliases: [coreen, coréenne, coreenne, corée, coree, korean]
   - canonical: antillais
     aliases: [antillaise, créole]
   - canonical: oriental
