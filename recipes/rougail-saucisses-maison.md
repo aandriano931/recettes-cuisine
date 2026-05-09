@@ -5,9 +5,8 @@ duration_minutes: 60
 source: manual
 source_url: null
 tags:
-- antillaise
-- maison
-- saucisses
+  - antillais
+  - saucisses
 ingredients:
 - name: ail
   qty: 50

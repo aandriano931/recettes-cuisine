@@ -5,10 +5,7 @@ servings: 6
 duration_minutes: 60
 source: cookmate
 source_url: https://www.lesrecettesdezazaetdesescops.com/2015/10/amandine-a-l-ananas.html
-tags:
-- tarte
-- facile
-- gateau
+tags: []
 ingredients:
 - name: ananas au sirop
   qty: 1

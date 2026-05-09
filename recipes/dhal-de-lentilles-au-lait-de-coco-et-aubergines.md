@@ -5,9 +5,8 @@ duration_minutes: 45
 source: cookmate
 source_url: https://dashofhoney.ca/fr/dhal-de-lentilles-au-lait-de-coco-et-aubergines/
 tags:
-- vegetarien
-- indien
-- epice
+  - vegetarien
+  - indien
 ingredients:
 - name: oignon
   qty: 1

@@ -6,9 +6,8 @@ duration_minutes: 45
 source: cookmate
 source_url: https://notabanane.com/cake-feta-figues-et-romarin/
 tags:
-- vegetarien
-- aperitif
-- sale
+  - vegetarien
+  - aperitif
 ingredients:
 - name: oeuf
   qty: 3

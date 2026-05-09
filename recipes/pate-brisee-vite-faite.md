@@ -5,10 +5,7 @@ servings: 1
 duration_minutes: 30
 source: cookmate
 source_url: https://www.marmiton.org/recettes/recette_pate-brisee-vite-faite_31639.aspx
-tags:
-- patisserie
-- pate
-- facile
+tags: []
 ingredients:
 - name: farine
   qty: 300

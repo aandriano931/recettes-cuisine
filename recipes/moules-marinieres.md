@@ -5,7 +5,7 @@ duration_minutes: 25
 source: manual
 source_url: https://www.maspatule.com/blog/2022/08/23/recette-moules-marinieres/
 tags:
-- fruits de mer
+  - fruits-de-mer
 ingredients:
 - name: moules
   qty: 1.5

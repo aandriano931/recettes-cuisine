@@ -5,9 +5,8 @@ duration_minutes: 90
 source: manual
 source_url: https://www.marmiton.org/recettes/recette_tajine-de-poulet_32866.aspx
 tags:
-- maghreb
-- plat-principal
-- famille
+  - oriental
+  - convivial
 ingredients:
 - name: courgette
   qty: 2

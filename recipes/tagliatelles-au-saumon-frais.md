@@ -5,9 +5,8 @@ duration_minutes: null
 source: cookmate
 source_url: null
 tags:
-- poisson
-- pates
-- plat-principal
+  - poisson
+  - pates
 ingredients:
 - name: saumon
   qty: 500
