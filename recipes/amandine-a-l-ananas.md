@@ -3,7 +3,7 @@ title: Amandine à l'ananas
 role: dessert
 servings: 6
 duration_minutes: 60
-source: cookmate
+source: url
 source_url: https://www.lesrecettesdezazaetdesescops.com/2015/10/amandine-a-l-ananas.html
 tags: []
 ingredients:

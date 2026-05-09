@@ -2,7 +2,7 @@
 title: Tagliatelles au saumon frais
 servings: null
 duration_minutes: null
-source: cookmate
+source: url
 source_url: null
 tags:
   - poisson

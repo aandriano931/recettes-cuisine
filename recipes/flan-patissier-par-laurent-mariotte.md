@@ -3,7 +3,7 @@ title: Flan pâtissier par Laurent Mariotte
 role: dessert
 servings: 8
 duration_minutes: 60
-source: cookmate
+source: url
 source_url: https://www.marmiton.org/recettes/recette_flan-patissier-par-laurent-mariotte_530756.aspx
 tags: []
 ingredients:
