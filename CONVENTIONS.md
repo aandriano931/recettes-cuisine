@@ -103,6 +103,29 @@ Quand un produit est connu par sa marque ou un nom long :
 - Préférer le nom canonique de la course (`tomate concassée`, pas `boîte de tomates italiennes pelées`).
 - La précision (marque, AOP, etc.) part en `note`.
 
+## Tags
+
+Vocabulaire fermé défini dans `_taxonomy.yaml` (source de vérité, versionnée).
+Quatre axes :
+
+- `cuisine` — origine géographique / culturelle
+- `ingredient` — ingrédient principal / signature
+- `regime` — contrainte alimentaire
+- `occasion` — contexte d'usage
+
+Règle de forme **sans exception** : kebab-case minuscule, ASCII pur — pas
+d'accent, pas de cédille, pas de diacritique. Les formes accentuées
+(`français`, `coréen`, `méditerranéen`, …) sont en `aliases` et normalisées
+vers leur canonical ASCII au lint / import. Cette règle garantit des tags
+URL-safe, slug-safe, et tapables sans clavier français.
+
+Conseils d'usage :
+
+- Ne pas cumuler un parapluie (`asiatique`, `oriental`) avec une cuisine
+  spécifique du même axe (`japonais`, `marocain`) — voir les commentaires
+  dans `_taxonomy.yaml`.
+- Ajout d'un canonical ou d'un alias = PR sur `_taxonomy.yaml` (cf. ADR 0029).
+
 ## Validation
 
 Avant tout commit, depuis `~/workspace/projectx/agent` :

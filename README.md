@@ -72,7 +72,7 @@ servings: 4
 duration_minutes: 90
 source: manual
 source_url: null
-tags: [famille, hiver, maghreb]
+tags: [marocain, poulet, convivial]
 role: main
 ingredients:
   - name: poulet
@@ -95,7 +95,7 @@ ingredients:
 | `duration_minutes` | oui | int | Temps total (prépa + cuisson) en minutes. |
 | `source` | oui | enum | `manual` (recette écrite par toi), `url` (recette trouvée sur le web), `cookmate` (importée depuis un export Cookmate), `agent_draft` (brouillon généré par l'agent). |
 | `source_url` | non | string ou `null` | URL d'origine si `source: url`. Sinon `null`. |
-| `tags` | non | list[string] | Liste plate `[tag1, tag2]`. Libre, minuscules conseillées. |
+| `tags` | non | list[string] | Liste plate `[tag1, tag2]`. **Vocabulaire fermé** : voir `_taxonomy.yaml` (4 axes — cuisine / ingredient / regime / occasion). Forme canonique en kebab-case ASCII pur (pas d'accent ni cédille) ; les diacritiques sont des aliases normalisés au lint. |
 | `role` | non | enum | `main` (défaut), `dessert`, `preparation`. Catégorisation de la recette. |
 | `ingredients` | oui | list | Liste structurée d'ingrédients. Voir **Schéma ingredients** ci-dessous et `CONVENTIONS.md` pour les règles d'arbitrage détaillées. |
 
@@ -203,7 +203,7 @@ Le script d'import regroupe tous les ingrédients sous la recette parente.
 ## Pièges courants
 
 - **Oublier les `---`** en début/fin de frontmatter → parseur échoue. Un fichier non parseable est skippé avec un warning, jamais silencieux.
-- **Indentation dans `tags`** : rester en syntaxe inline `tags: [famille, hiver]`. Éviter la forme imbriquée (piège YAML).
+- **Indentation dans `tags`** : rester en syntaxe inline `tags: [marocain, poulet]` ou en bloc `tags:\n  - marocain\n  - poulet`. Éviter la forme imbriquée (piège YAML).
 - **Guillemets dans le titre** : si le titre contient `:` (ex. `Pâtes : sauce tomate`), mettre entre guillemets : `title: "Pâtes : sauce tomate"`.
 - **Renommer un fichier** = créer une nouvelle recette côté base (le slug change). Si tu dois renommer, prévois un `import --apply` pour nettoyer l'ancienne entrée.
 
