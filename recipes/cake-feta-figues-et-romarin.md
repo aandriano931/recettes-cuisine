@@ -3,7 +3,7 @@ title: Cake feta-figues et romarin
 role: preparation
 servings: 6
 duration_minutes: 45
-source: cookmate
+source: url
 source_url: https://notabanane.com/cake-feta-figues-et-romarin/
 tags:
   - vegetarien

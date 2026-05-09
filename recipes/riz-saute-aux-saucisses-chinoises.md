@@ -2,7 +2,7 @@
 title: Riz sauté aux saucisses chinoises
 servings: 6
 duration_minutes: 25
-source: cookmate
+source: url
 source_url: https://lesfillesatable.com/2015/06/19/riz-saute-aux-saucisses-chinoises/
 tags:
 - asiatique

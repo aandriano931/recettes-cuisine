@@ -3,7 +3,7 @@ title: Cake croustillant ananas-banane
 role: dessert
 servings: 6
 duration_minutes: 60
-source: cookmate
+source: url
 source_url: https://www.marmiton.org/recettes/recette_cake-croustillant-ananas-banane_314631.aspx
 tags: []
 ingredients:
