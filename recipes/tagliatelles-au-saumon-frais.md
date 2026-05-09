@@ -1,9 +1,8 @@
 ---
 title: Tagliatelles au saumon frais
-servings: null
-duration_minutes: null
-source: url
-source_url: null
+servings: 4
+duration_minutes: 25
+source: manual
 tags:
   - poisson
   - pates
