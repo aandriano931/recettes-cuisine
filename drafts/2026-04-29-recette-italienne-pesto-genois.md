@@ -5,19 +5,10 @@ duration_minutes: 30
 source: agent_draft
 source_url: https://www.lacuisineitalienne.fr/recette-italienne-pesto-genois/
 tags: []
+ingredients: []
 ---
 
 # Recette italienne pesto genois
-
-## Ingrédients
-
-- Ail – 2 gousses
-- Basilic – 50 g de feuilles
-- Pecorino Romain – 30 g rapés
-- Parmesan – 70 g rapés
-- Huile d’olive vierge extra – 100 ml
-- Pignons de pin – 15 g
-- Gros sel – 1 pincée
 
 ## Préparation
 
