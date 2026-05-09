@@ -2,7 +2,7 @@
 title: Dhal de lentilles au lait de coco et aubergines
 servings: 4
 duration_minutes: 45
-source: url
+source: manual
 source_url: https://dashofhoney.ca/fr/dhal-de-lentilles-au-lait-de-coco-et-aubergines/
 tags:
   - vegetarien

@@ -3,7 +3,7 @@ title: Pate sucree pierre herme
 role: preparation
 servings: 2
 duration_minutes: 20
-source: url
+source: manual
 source_url: https://lacuisinedethomas.fr/recettes/pate-sucree-pierre-herme/
 tags: []
 ingredients:

@@ -3,7 +3,7 @@ title: Gâteau de patates douces et ananas
 role: dessert
 servings: 8
 duration_minutes: 70
-source: url
+source: manual
 source_url: https://www.750g.com/gateau-de-patates-douces-et-ananas-r65821.htm
 tags:
   - antillais

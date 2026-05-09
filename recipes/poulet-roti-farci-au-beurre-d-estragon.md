@@ -2,7 +2,7 @@
 title: Poulet rôti farci au beurre d'estragon et pommes de terre accordéon
 servings: 4
 duration_minutes: 50
-source: url
+source: manual
 source_url: https://lornithorynquechafouin.blogspot.com/2013/10/poulet-roti-farci-au-beurre-destragon.html
 tags:
   - français

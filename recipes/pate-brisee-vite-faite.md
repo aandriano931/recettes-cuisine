@@ -3,7 +3,7 @@ title: Pâte brisée vite faite
 role: preparation
 servings: 1
 duration_minutes: 30
-source: url
+source: manual
 source_url: https://www.marmiton.org/recettes/recette_pate-brisee-vite-faite_31639.aspx
 tags: []
 ingredients:

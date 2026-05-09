@@ -3,7 +3,7 @@ title: Caviar d'aubergines simple
 role: preparation
 servings: 4
 duration_minutes: 20
-source: url
+source: manual
 source_url: https://www.cuisineaz.com/recettes/caviar-d-aubergines-simple-65420.aspx
 tags:
   - vegetarien
