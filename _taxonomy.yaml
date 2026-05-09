@@ -18,8 +18,12 @@
 cuisine:
   - canonical: italien
     aliases: [italienne, italie]
-  - canonical: francais
-    aliases: [française, france]
+  - canonical: français
+    # `francais` (sans cédille) est conservé en alias pour récupérer
+    # l'orthographe sans diacritique des vieilles recettes / des
+    # claviers sans touche cédille — mais le canonical (et donc
+    # l'écriture attendue dans les nouveaux fichiers) est `français`.
+    aliases: [francais, française, france]
   - canonical: asiatique
     # Parapluie : pour les recettes asiatiques sans cuisine spécifique
     # (stir-fry générique, fusion). thai/indien/chinois/vietnamien/japonais

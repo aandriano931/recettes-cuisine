@@ -5,7 +5,7 @@ duration_minutes: 50
 source: cookmate
 source_url: https://lornithorynquechafouin.blogspot.com/2013/10/poulet-roti-farci-au-beurre-destragon.html
 tags:
-  - francais
+  - français
   - poulet
 ingredients:
 - name: poulet
