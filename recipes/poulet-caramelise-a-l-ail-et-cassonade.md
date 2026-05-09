@@ -5,7 +5,7 @@ duration_minutes: 50
 source: cookmate
 source_url: https://www.750g.com/poulet-caramelise-a-l-ail-et-cassonade-r200870.htm
 tags:
-  - francais
+  - français
   - poulet
 ingredients:
 - name: hauts de cuisses de poulet ou 8 cuisses de poulet
