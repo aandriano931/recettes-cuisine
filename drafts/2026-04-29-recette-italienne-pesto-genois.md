@@ -5,7 +5,10 @@ duration_minutes: 30
 source: agent_draft
 source_url: https://www.lacuisineitalienne.fr/recette-italienne-pesto-genois/
 tags: []
-ingredients: []
+ingredients:
+- name: basilic
+  qty: 50.0
+  unit: g
 ---
 
 # Recette italienne pesto genois
