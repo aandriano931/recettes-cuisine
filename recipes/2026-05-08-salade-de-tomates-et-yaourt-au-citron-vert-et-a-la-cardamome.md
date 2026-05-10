@@ -1,55 +1,56 @@
 ---
-title: Salade de tomates et yaourt au citron vert et à la cardamome
-servings: 4
 duration_minutes: 30
-source: agent_draft
-source_url: null
-role: main
-tags:
-  - oriental
-  - vegetarien
+image: 2026-05-08-salade-de-tomates-et-yaourt-au-citron-vert-et-a-la-cardamome.jpg
 ingredients:
 - name: yaourt à la grecque
   qty: 70.0
   unit: g
 - name: fromage de chèvre frais
+  note: sans croûte
   qty: 50.0
   unit: g
-  note: sans croûte
 - name: ail
+  note: petite, écrasée
   qty: 0.5
   unit: gousse
-  note: petite, écrasée
 - name: zeste de citron vert
+  note: finement râpé
   qty: 1.0
   unit: cc
-  note: finement râpé
 - name: jus de citron vert
   qty: 1.5
   unit: cs
 - name: cardamome
+  note: graines finement broyées
   qty: 0.75
   unit: cc
-  note: graines finement broyées
 - name: piment vert
-  qty: 1.0
   note: gros, finement haché, épépiné si vous n'aimez pas le feu
+  qty: 1.0
 - name: tomates cerise
+  note: sucrées bien mûres, coupées en deux
   qty: 500.0
   unit: g
-  note: sucrées bien mûres, coupées en deux
 - name: échalote banane
+  note: grosse, en fines tranches
   qty: 60.0
   unit: g
-  note: grosse, en fines tranches
 - name: huile d'olive
   qty: 6.0
   unit: cl
 - name: feuilles de menthe
+  note: grossièrement déchirées
   qty: 10.0
   unit: g
-  note: grossièrement déchirées
 - name: sel
+role: main
+servings: 4
+source: agent_draft
+source_url: null
+tags:
+- oriental
+- vegetarien
+title: Salade de tomates et yaourt au citron vert et à la cardamome
 ---
 
 # Salade de tomates et yaourt au citron vert et à la cardamome
