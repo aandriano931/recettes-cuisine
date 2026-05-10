@@ -81,4 +81,4 @@ ingredients:
 
 ## Notes
 
-(brouillon généré par Alfred — à relire et corriger)
+Ottolenghi page 131
