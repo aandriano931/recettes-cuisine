@@ -1,11 +1,17 @@
 ---
+title: Tarte aux groseilles
+servings: 4
 duration_minutes: 30
+source: agent_draft
+source_url: https://www.marmiton.org/recettes/recette_tarte-aux-groseilles_17551.aspx
 image: 2026-05-09-recette-tarte-aux-groseilles-17551-aspx.jpg
+tags:
+- francais
 ingredients:
 - name: groseilles
-  note: fraîches
   qty: 500.0
   unit: g
+  note: fraîches
 - name: sucre
   qty: 9.0
   unit: cs
@@ -13,8 +19,8 @@ ingredients:
   qty: 1.0
   unit: cs
 - name: pâte brisée
-  note: ou sablée
   qty: 1.0
+  note: ou sablée
 - name: crème fraîche
   qty: 3.0
   unit: cs
@@ -29,15 +35,9 @@ ingredients:
 - name: farine
   qty: 1.0
   unit: cs
-servings: 4
-source: agent_draft
-source_url: https://www.marmiton.org/recettes/recette_tarte-aux-groseilles_17551.aspx
-tags:
-- francais
-title: Recette tarte aux groseilles 17551.aspx
 ---
 
-# Recette tarte aux groseilles 17551.aspx
+# Tarte aux groseilles
 
 ## Préparation
 
