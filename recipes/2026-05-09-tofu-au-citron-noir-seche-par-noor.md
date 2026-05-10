@@ -1,11 +1,6 @@
 ---
-title: Tofu au citron noir séché, par noor
-servings: 4
 duration_minutes: 30
-source: agent_draft
-tags:
-- oriental
-- vegetarien
+image: 2026-05-09-tofu-au-citron-noir-seche-par-noor.jpg
 ingredients:
 - name: vinaigre de cidre
   qty: 1.0
@@ -14,39 +9,39 @@ ingredients:
   qty: 2.0
   unit: cc
 - name: oignon rouge
-  qty: 1.0
   note: petit, coupé en fines rondelles (60 g)
+  qty: 1.0
 - name: huile de tournesol
+  note: pour la friture
   qty: 60.0
   unit: cl
-  note: pour la friture
 - name: fécule de maïs
   qty: 2.0
   unit: cs
 - name: oignon
-  qty: 2.0
   note: 300 g, hachés grossièrement
+  qty: 2.0
 - name: ail
+  note: hachées grossièrement
   qty: 6.0
   unit: gousse
-  note: hachées grossièrement
 - name: huile d'olive
   qty: 6.0
   unit: cl
 - name: graines de cumin
+  note: grossièrement pilées dans un mortier
   qty: 2.0
   unit: cc
-  note: grossièrement pilées dans un mortier
 - name: citron noir séché
-  qty: 2.5
   note: passés au moulin à épices (ou robot) pour obtenir 2 cs de poudre (10 g)
+  qty: 2.5
 - name: concentré de tomates
   qty: 2.0
   unit: cs
 - name: persil
+  note: haché grossièrement
   qty: 20.0
   unit: g
-  note: haché grossièrement
 - name: jeunes pousses d'épinards
   qty: 250.0
   unit: g
@@ -55,6 +50,12 @@ ingredients:
 - name: tofu extra ferme
   qty: 560.0
   unit: g
+servings: 4
+source: agent_draft
+tags:
+- oriental
+- vegetarien
+title: Tofu au citron noir séché, par noor
 ---
 
 # Tofu au citron noir séché, par noor
