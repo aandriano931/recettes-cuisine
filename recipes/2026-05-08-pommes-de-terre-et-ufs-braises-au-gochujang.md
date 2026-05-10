@@ -1,64 +1,65 @@
 ---
-title: Pommes de terre et œufs braisés au gochujang
-servings: 4
 duration_minutes: 40
-source: agent_draft
-tags:
-  - coreen
-  - oeufs
-  - vegetarien
+image: 2026-05-08-pommes-de-terre-et-ufs-braises-au-gochujang.jpg
 ingredients:
 - name: pomme de terre
+  note: à chair ferme, pelées et coupées en bâtonnets de 0,5 x 4 cm
   qty: 380.0
   unit: g
-  note: à chair ferme, pelées et coupées en bâtonnets de 0,5 x 4 cm
 - name: chou-rave
+  note: petit, pelé et coupé en bâtonnets de 0,5 x 4 cm
   qty: 160.0
   unit: g
-  note: petit, pelé et coupé en bâtonnets de 0,5 x 4 cm
 - name: pâte de piment gochujang
+  note: quantité à ajuster selon la marque, voir p. 18
   qty: 1.0
   unit: cs
-  note: quantité à ajuster selon la marque, voir p. 18
 - name: pâte de miso
+  note: blanche
   qty: 2.0
   unit: cc
-  note: blanche
 - name: ail
+  note: petites, écrasées
   qty: 2.0
   unit: gousse
-  note: petites, écrasées
 - name: huile d'olive
+  note: plus un peu pour graisser le moule
   qty: 3.0
   unit: cs
-  note: plus un peu pour graisser le moule
 - name: œuf
   qty: 8.0
 - name: citron vert
-  qty: 1.0
   note: coupé en quartiers, pour servir
+  qty: 1.0
 - name: sel
   note: ¼ cuil. à café pour le mélange de légumes, et pour saler les œufs
 - name: jus de citron vert
+  note: pour la salsa
   qty: 1.0
   unit: cs
-  note: pour la salsa
 - name: pâte de piment gochujang
+  note: pour la salsa, à ajuster en fonction de la marque utilisée, voir p. 18
   qty: 1.0
   unit: cc
-  note: pour la salsa, à ajuster en fonction de la marque utilisée, voir p. 18
 - name: huile d'olive
+  note: pour la salsa
   qty: 2.0
   unit: cs
-  note: pour la salsa
 - name: ciboulette
-  qty: 2.0
-  unit: cc
   note: finement hachée, pour la salsa
-- name: graines de sésame
   qty: 2.0
   unit: cc
+- name: graines de sésame
   note: blanches ou noires, de préférence un mélange des deux, grillées, pour la salsa
+  qty: 2.0
+  unit: cc
+servings: 4
+source: agent_draft
+tags:
+- coreen
+- oeufs
+- vegetarien
+title: Pommes de terre et œufs braisés au gochujang
 ---
 
 # Pommes de terre et œufs braisés au gochujang
