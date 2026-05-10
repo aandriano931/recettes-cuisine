@@ -11,6 +11,10 @@ source_url: null
 # Optional metadata
 tags: []
 
+# Optional illustration image (basename only, in images/<basename>.jpg).
+# Géré par la SPA Maison IA — laisser vide à la création manuelle.
+image:
+
 # Optional role: main (default) | dessert | preparation
 # role: dessert
 
