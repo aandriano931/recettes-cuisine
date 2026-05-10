@@ -1,16 +1,11 @@
 ---
-title: Patates douces à la sauce tomate, citron vert et cardamome
-servings: 4
 duration_minutes: 30
-source: agent_draft
-tags:
-  - oriental
-  - vegetarien
+image: 2026-05-08-patates-douces-a-la-sauce-tomate-citron-vert-et-cardamome.jpg
 ingredients:
 - name: patate douce
+  note: grosses, avec la peau, coupées en tranches de 2,5 cm d'épaisseur
   qty: 1.0
   unit: kg
-  note: grosses, avec la peau, coupées en tranches de 2,5 cm d'épaisseur
 - name: huile d'olive
   qty: 2.0
   unit: cs
@@ -18,33 +13,33 @@ ingredients:
   qty: 1.5
   unit: cs
 - name: cardamome
-  qty: 0.5
-  unit: cc
   note: moulue
-- name: cumin
   qty: 0.5
   unit: cc
+- name: cumin
   note: moulu
+  qty: 0.5
+  unit: cc
 - name: sel
 - name: poivre noir
 - name: huile d'olive
   qty: 7.5
   unit: cl
 - name: ail
+  note: finement hachées (pas écrasées)
   qty: 6.0
   unit: gousse
-  note: finement hachées (pas écrasées)
 - name: piment vert
-  qty: 2.0
   note: finement hachés (épépinés si vous n'aimez pas le feu des piments)
+  qty: 2.0
 - name: échalote banane
+  note: petites, finement hachées
   qty: 100.0
   unit: g
-  note: petites, finement hachées
 - name: tomate
+  note: en conserve, mixées en coulis lisse
   qty: 400.0
   unit: g
-  note: en conserve, mixées en coulis lisse
 - name: concentré de tomate
   qty: 1.0
   unit: cs
@@ -52,20 +47,26 @@ ingredients:
   qty: 1.5
   unit: cc
 - name: cardamome
+  note: moulue
   qty: 1.0
   unit: cc
-  note: moulue
 - name: cumin
+  note: moulu
   qty: 1.5
   unit: cc
-  note: moulu
 - name: citron vert bio
-  qty: 2.0
   note: 1 cc de zeste finement râpé, 1 cs de jus, le reste en quartiers pour servir
+  qty: 2.0
 - name: aneth
+  note: finement haché, pour servir
   qty: 2.0
   unit: cc
-  note: finement haché, pour servir
+servings: 4
+source: agent_draft
+tags:
+- oriental
+- vegetarien
+title: Patates douces à la sauce tomate, citron vert et cardamome
 ---
 
 # Patates douces à la sauce tomate, citron vert et cardamome
