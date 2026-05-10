@@ -13,6 +13,27 @@ Chaque recette est un `.md` avec :
 - **`## Préparation`** — étapes numérotées, en français
 - **`## Notes`** (optionnel) — texte libre
 
+## Images
+
+Une recette peut avoir **une seule image d'illustration**.
+
+- **Chemin** : `images/<recipe-basename>.jpg`
+- **Frontmatter** : `image: <recipe-basename>.jpg` (basename uniquement, le path `images/` est implicite)
+- **Format canonique** : JPEG q=85, max 1200px côté large, EXIF strippé
+- **Géré automatiquement par la SPA Maison IA** : ajout / remplacement / suppression depuis l'éditeur de recette. Édition manuelle déconseillée (la SPA s'occupe du redimensionnement et du strip EXIF).
+
+Exemple de frontmatter :
+
+```yaml
+---
+title: Tajine maison
+image: 2026-05-08-tajine-maison.jpg
+servings: 4
+---
+```
+
+Si plus tard on veut une galerie multi-images étape-par-étape, ce sera un champ `images:` (liste) séparé — pas une cassure du `image:` actuel.
+
 ## Schéma `ingredients`
 
 Chaque entrée a les champs :
