@@ -1,11 +1,6 @@
 ---
-title: Tarte tatin de poireaux
-servings: 2
 duration_minutes: 55
-source: manual
-source_url: https://macuisineenthousiaste.com/tarte-tatin-de-poireaux/
-tags:
-  - vegetarien
+image: tarte-tatin-de-poireaux.jpg
 ingredients:
 - name: poireau
   qty: 3
@@ -17,7 +12,14 @@ ingredients:
 - name: beurre
   qty: 20
   unit: g
+servings: 2
+source: manual
+source_url: https://macuisineenthousiaste.com/tarte-tatin-de-poireaux/
+tags:
+- vegetarien
+title: Tarte tatin de poireaux
 ---
+
 # Tarte tatin de poireaux
 
 ## Ingrédients
