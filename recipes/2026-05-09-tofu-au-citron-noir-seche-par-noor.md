@@ -52,7 +52,9 @@ ingredients:
   unit: g
 - name: sel
 - name: poivre noir
-- name: 2 blocs de tofu extra ferme
+- name: tofu extra ferme
+  qty: 560.0
+  unit: g
 ---
 
 # Tofu au citron noir séché, par noor
@@ -66,4 +68,4 @@ ingredients:
 
 ## Notes
 
-Ottolenghi page a76
+Ottolenghi page 176
