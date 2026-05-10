@@ -1,6 +1,5 @@
 ---
 duration_minutes: 55
-image: tarte-tatin-de-poireaux.jpg
 ingredients:
 - name: poireau
   qty: 3
