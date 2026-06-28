@@ -1,45 +1,35 @@
 ---
-duration_minutes: 60
-image: flan-patissier-cremeux.jpg
-ingredients:
-- name: oeuf
-  qty: 3
-- name: lait
-  qty: 1
-  unit: l
-- name: maïzena
-  qty: 75
-  unit: g
-- name: sucre
-  qty: 110
-  unit: g
-- name: vanille
-  qty: 1
-  unit: gousse
-- name: crème légère
-  qty: 90
-  unit: g
-- name: pâte feuilletée
-  qty: 1
-role: dessert
+title: Flan patissier cremeux
 servings: 8
+duration_minutes: 60
 source: manual
 source_url: https://aufilduthym.fr/flan-patissier-cremeux/?amp=1
+image: flan-patissier-cremeux.jpg
+role: dessert
 tags: []
-title: Flan patissier cremeux
+ingredients:
+- name: oeuf
+  qty: 3.0
+- name: lait
+  qty: 1.0
+  unit: l
+- name: maïzena
+  qty: 75.0
+  unit: g
+- name: sucre
+  qty: 110.0
+  unit: g
+- name: vanille
+  qty: 1.0
+  unit: gousse
+- name: crème légère
+  qty: 90.0
+  unit: g
+- name: pâte feuilletée
+  qty: 1.0
 ---
 
 # Flan patissier cremeux
-
-## Ingrédients
-
-- 3 oeufs
-- 1 l de lait
-- 75 g de maïzena
-- 110 g de sucre
-- 1 gousse de vanille
-- 90 g de crème légère
-- 1 pâte feuilletée ou brisée ou sucrée
 
 ## Préparation
 
