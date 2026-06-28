@@ -1,11 +1,6 @@
 ---
-title: Flan patissier cremeux
-role: dessert
-servings: 8
 duration_minutes: 60
-source: manual
-source_url: https://aufilduthym.fr/flan-patissier-cremeux/?amp=1
-tags: []
+image: flan-patissier-cremeux.jpg
 ingredients:
 - name: oeuf
   qty: 3
@@ -26,7 +21,14 @@ ingredients:
   unit: g
 - name: pâte feuilletée
   qty: 1
+role: dessert
+servings: 8
+source: manual
+source_url: https://aufilduthym.fr/flan-patissier-cremeux/?amp=1
+tags: []
+title: Flan patissier cremeux
 ---
+
 # Flan patissier cremeux
 
 ## Ingrédients
