@@ -1,12 +1,6 @@
 ---
-title: Curry vert de lotte
-servings: 4
 duration_minutes: 55
-source: manual
-source_url: https://chefsimon.com/gourmets/chef-simon/recettes/curry-vert-de-lotte
-tags:
-  - asiatique
-  - poisson
+image: curry-vert-de-lotte.jpg
 ingredients:
 - name: queue de lotte
   qty: 1
@@ -41,7 +35,15 @@ ingredients:
 - name: basilic ou coriandre
 - name: nuoc-mâm
 - name: huile de sésame
+servings: 4
+source: manual
+source_url: https://chefsimon.com/gourmets/chef-simon/recettes/curry-vert-de-lotte
+tags:
+- asiatique
+- poisson
+title: Curry vert de lotte
 ---
+
 # Curry vert de lotte
 
 ## Ingrédients
@@ -77,4 +79,3 @@ ingredients:
 10. Lorsque l'ébullition est atteinte, ajouter les médaillons de lotte et laisser cuire 7 à 10 minutes à toute petite ébullition. A ce stade vous pouvez ajouter le nuoc mam ou pas et la sauce soja (un trait). Gouter et rectifier l'assaisonnement à votre goût.
 11. En fin de cuisson, ôter les aromates.
 12. Server en assiettes creuses en ajoutant les haricots coco plats et un peu de basilic ciselé (ou quelques feuilles de coriandre). Verser quelques gouttes d'huile de sésame, juste avant de servir... mais ça c'est ma petite touche personnelle !
-
