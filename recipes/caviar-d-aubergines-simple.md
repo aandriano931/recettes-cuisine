@@ -1,13 +1,6 @@
 ---
-title: Caviar d'aubergines simple
-role: preparation
-servings: 4
 duration_minutes: 20
-source: manual
-source_url: https://www.cuisineaz.com/recettes/caviar-d-aubergines-simple-65420.aspx
-tags:
-  - vegetarien
-  - aperitif
+image: caviar-d-aubergines-simple.jpg
 ingredients:
 - name: aubergine
   qty: 3
@@ -24,7 +17,16 @@ ingredients:
 - name: pain de mie
   qty: 4
   unit: tranche
+role: preparation
+servings: 4
+source: manual
+source_url: https://www.cuisineaz.com/recettes/caviar-d-aubergines-simple-65420.aspx
+tags:
+- vegetarien
+- aperitif
+title: Caviar d'aubergines simple
 ---
+
 # Caviar d'aubergines simple
 
 ## Ingrédients
