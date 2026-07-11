@@ -1,25 +1,31 @@
 ---
+title: Le Gâteau aux Pommes et Mascarpone
+servings: 11
 duration_minutes: 70
+source: manual
+source_url: https://www.casseroleetchocolat.fr/gateau-pommes-mascarpone/
 image: le-gateau-aux-pommes-et-mascarpone.jpg
+role: dessert
+tags: []
 ingredients:
 - name: pomme
-  qty: 4
+  qty: 4.0
 - name: beurre
-  qty: 20
+  qty: 20.0
   unit: g
 - name: sucre
-  qty: 30
+  qty: 30.0
   unit: g
 - name: oeuf
-  qty: 4
+  qty: 4.0
 - name: sucre
-  qty: 150
+  qty: 150.0
   unit: g
 - name: mascarpone
-  qty: 250
+  qty: 250.0
   unit: g
 - name: farine
-  qty: 200
+  qty: 200.0
   unit: g
 - name: levure
   qty: 1.5
@@ -28,39 +34,17 @@ ingredients:
   qty: 0.5
   unit: cc
 - name: fleur de sel
-  qty: 1
+  qty: 1.0
   unit: pincee
 - name: cassonade
-  qty: 2
+  qty: 2.0
   unit: cs
 - name: sucre glace
-  qty: 2
+  qty: 2.0
   unit: cc
-role: dessert
-servings: 11
-source: manual
-source_url: https://www.casseroleetchocolat.fr/gateau-pommes-mascarpone/
-tags: []
-title: Le Gâteau aux Pommes et Mascarpone
 ---
 
 # Le Gâteau aux Pommes et Mascarpone
-
-## Ingrédients
-
-- 4 pommes
-- 20 g de beurre
-- 30 g de sucre
-- 4 oeufs
-- 150 g de sucre
-- 250 g de mascarpone
-- 200 g de farine
-- 1.5 sachets de levure
-- 0.5 cc de cannelle
-- 1 pincee de fleur de sel
-- 2 cs de cassonade
-- 2 cc de sucre glace
-- beurre pour le moule
 
 ## Préparation
 
