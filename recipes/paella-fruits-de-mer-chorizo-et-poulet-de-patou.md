@@ -1,13 +1,6 @@
 ---
-title: Paëlla fruits de mer, chorizo et poulet de Patou
-servings: 8
 duration_minutes: 70
-source: manual
-source_url: https://www.marmiton.org/recettes/recette_paella-fruits-de-mer-chorizo-et-poulet-de-patou_50730.aspx
-tags:
-- convivial
-- mediterraneen
-- riz
+image: paella-fruits-de-mer-chorizo-et-poulet-de-patou.jpg
 ingredients:
 - name: riz
   qty: 500
@@ -46,7 +39,16 @@ ingredients:
   unit: l
 - name: crevette
   qty: 15
+servings: 8
+source: manual
+source_url: https://www.marmiton.org/recettes/recette_paella-fruits-de-mer-chorizo-et-poulet-de-patou_50730.aspx
+tags:
+- convivial
+- mediterraneen
+- riz
+title: Paëlla fruits de mer, chorizo et poulet de Patou
 ---
+
 # Paëlla fruits de mer, chorizo et poulet de Patou
 
 ## Ingrédients
@@ -72,5 +74,3 @@ ingredients:
 1. Découper le poulet en morceaux, nettoyer les moules, émincer le chorizo et les poivrons, peler et concasser les tomates, hacher les oignons et l'ail.
 2. Mettre l'huile dans le plat et faire dorer les morceaux de poulet. Ajouter les calamars, les oignons tout en remuant puis mettre les tomates, les poivrons, l'ail, le safran, le sel et le poivre. Laisser cuire 5 minutes en remuant avant d'incorporer le riz, le chorizo et le bouillon.
 3. Y plonger les crevettes et les moules, porter à ébullition puis laisser cuire environ 30-35 minutes.
-
-
