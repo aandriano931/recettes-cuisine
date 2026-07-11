@@ -1,62 +1,47 @@
 ---
+title: Cake feta-figues et romarin
+servings: 6
 duration_minutes: 45
+source: manual
+source_url: https://notabanane.com/cake-feta-figues-et-romarin/
 image: cake-feta-figues-et-romarin.jpg
+role: preparation
+tags:
+- vegetarien
+- aperitif
 ingredients:
 - name: oeuf
-  qty: 3
+  qty: 3.0
 - name: farine
-  qty: 150
+  qty: 150.0
   unit: g
 - name: levure
-  qty: 7
+  qty: 7.0
   unit: g
 - name: feta
-  qty: 150
+  qty: 150.0
   unit: g
 - name: figues séchées
-  qty: 200
+  qty: 200.0
   unit: g
 - name: fromage râpé
-  qty: 50
+  qty: 50.0
   unit: g
 - name: huile d'olive
-  qty: 100
+  qty: 100.0
   unit: ml
 - name: lait
-  qty: 125
+  qty: 125.0
   unit: ml
 - name: sirop d'érable
-  qty: 3
+  qty: 3.0
   unit: cs
 - name: romarin
 - name: sel
 - name: poivre
-role: preparation
-servings: 6
-source: manual
-source_url: https://notabanane.com/cake-feta-figues-et-romarin/
-tags:
-- vegetarien
-- aperitif
-title: Cake feta-figues et romarin
 ---
 
 # Cake feta-figues et romarin
-
-## Ingrédients
-
-- 3 oeufs
-- 150 g de farine
-- 7 g de levure
-- 150 g de feta
-- 200 g de figues séchées
-- 50 g de fromage râpé
-- 100 ml d'huile d'olive
-- 125 ml de lait ou lait végétal
-- 3 cs de sirop d'érable
-- romarin
-- sel
-- poivre
 
 ## Préparation
 
