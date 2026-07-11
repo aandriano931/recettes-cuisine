@@ -1,12 +1,6 @@
 ---
-title: Carbonara traditionnelle
-servings: 4
 duration_minutes: 40
-source: manual
-source_url: https://www.marmiton.org/recettes/recette_carbonara-traditionnelle_340808.aspx
-tags:
-  - italien
-  - pates
+image: carbonara-traditionnelle.jpg
 ingredients:
 - name: pâtes longues
   qty: 300
@@ -23,7 +17,15 @@ ingredients:
   qty: 50
   unit: g
 - name: poivre
+servings: 4
+source: manual
+source_url: https://www.marmiton.org/recettes/recette_carbonara-traditionnelle_340808.aspx
+tags:
+- italien
+- pates
+title: Carbonara traditionnelle
 ---
+
 # Carbonara traditionnelle
 
 ## Ingrédients
@@ -50,4 +52,3 @@ ingredients:
 ## Notes
 
 **La règle d'or** : pas de crème, pas d'oignon, pas d'ail. La recette traditionnelle romaine utilise exclusivement les ingrédients ci-dessus. Le crémeux vient de l'émulsion œufs + eau de cuisson + fromage, jamais de la crème fraîche.
-
