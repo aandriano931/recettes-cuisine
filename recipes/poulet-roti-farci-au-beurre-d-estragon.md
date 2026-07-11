@@ -1,12 +1,6 @@
 ---
-title: Poulet rôti farci au beurre d'estragon et pommes de terre accordéon
-servings: 4
 duration_minutes: 50
-source: manual
-source_url: https://lornithorynquechafouin.blogspot.com/2013/10/poulet-roti-farci-au-beurre-destragon.html
-tags:
-  - francais
-  - poulet
+image: poulet-roti-farci-au-beurre-d-estragon.jpg
 ingredients:
 - name: poulet
   qty: 1
@@ -21,7 +15,15 @@ ingredients:
 - name: eau
 - name: pomme de terre
   qty: 6
+servings: 4
+source: manual
+source_url: https://lornithorynquechafouin.blogspot.com/2013/10/poulet-roti-farci-au-beurre-destragon.html
+tags:
+- francais
+- poulet
+title: Poulet rôti farci au beurre d'estragon et pommes de terre accordéon
 ---
+
 # Poulet rôti farci au beurre d'estragon et pommes de terre accordéon
 
 ## Ingrédients
@@ -46,4 +48,3 @@ ingredients:
 8. On les nettoie bien, puis on découpe en tranches d'environ 2 à 5mm de large sans aller "jusqu'au bout" de la pomme de terre, juste pour l'ouvrir un peu. Le mieux c'est de couper au 9/10e de la pomme de terre. Moment concentration quoi. 
 9. Une fois que c'est fait, on mélange l'huile d'olive et les feuilles de thym et on badigeonne les pommes de terre au pinceau histoire que l'huile rentre bien dans les découpes.
 10. Là moi je m'embête pas et je mets dans le four en même temps que le poulet, en arrosant également régulièrement avec l'huile.
-
