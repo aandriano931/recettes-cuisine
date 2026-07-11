@@ -1,12 +1,6 @@
 ---
-title: Pesto génois
-role: preparation
-servings: 4
 duration_minutes: 20
-source: manual
-source_url: https://www.lacuisineitalienne.fr/recette-italienne-pesto-genois/
-tags:
-- italien
+image: pesto-genois.jpg
 ingredients:
 - name: ail
   qty: 2
@@ -29,7 +23,15 @@ ingredients:
 - name: gros sel
   qty: 1
   unit: pincee
+role: preparation
+servings: 4
+source: manual
+source_url: https://www.lacuisineitalienne.fr/recette-italienne-pesto-genois/
+tags:
+- italien
+title: Pesto génois
 ---
+
 # Pesto génois
 
 ## Ingrédients
@@ -54,4 +56,3 @@ ingredients:
 Pour préparer un bon pesto génois, utilisez un mortier en marbre et un pilon en bois. Si vous n’en possédez pas, vous pouvez utiliser un mixer avec des lames en plastique, pour éviter que les lames en métal n’altèrent le goût du basilic. Mixez à vitesse modérée en vous arrêtant pour éviter de créer de la chaleur.
 
 Utilisez du basilic frais et ne lavez pas ses feuilles à l’eau, mais nettoyez-les à l’aide d’un chiffon. Vous pouvez déguster le pesto génois avec des pâtes, mais aussi avec de la viande et dés légumes grillés.
-
