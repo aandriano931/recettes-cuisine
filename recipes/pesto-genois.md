@@ -1,48 +1,38 @@
 ---
-duration_minutes: 20
-image: pesto-genois.jpg
-ingredients:
-- name: ail
-  qty: 2
-  unit: gousse
-- name: basilic frais
-  qty: 50
-  unit: g
-- name: pecorino
-  qty: 30
-  unit: g
-- name: parmesan
-  qty: 70
-  unit: g
-- name: huile d'olive
-  qty: 100
-  unit: ml
-- name: pignons de pin
-  qty: 15
-  unit: g
-- name: gros sel
-  qty: 1
-  unit: pincee
-role: preparation
+title: Pesto génois
 servings: 4
+duration_minutes: 20
 source: manual
 source_url: https://www.lacuisineitalienne.fr/recette-italienne-pesto-genois/
+image: pesto-genois.jpg
+role: preparation
 tags:
 - italien
-title: Pesto génois
+ingredients:
+- name: ail
+  qty: 2.0
+  unit: gousse
+- name: basilic frais
+  qty: 50.0
+  unit: g
+- name: pecorino
+  qty: 30.0
+  unit: g
+- name: parmesan
+  qty: 70.0
+  unit: g
+- name: huile d'olive
+  qty: 100.0
+  unit: ml
+- name: pignons de pin
+  qty: 15.0
+  unit: g
+- name: gros sel
+  qty: 1.0
+  unit: pincee
 ---
 
 # Pesto génois
-
-## Ingrédients
-
-- 2 gousses d'ail
-- 50 g de basilic frais
-- 30 g de pecorino rapé
-- 70 g de parmesan rapé
-- 100 ml d'huile d'olive vierge extra
-- 15 g de pignons de pin
-- 1 pincee de gros sel
 
 ## Préparation
 
