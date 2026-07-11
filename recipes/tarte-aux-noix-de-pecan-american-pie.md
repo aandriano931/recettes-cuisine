@@ -1,12 +1,6 @@
 ---
-title: Tarte aux noix de pécan (american pie)
-role: dessert
-servings: 8
 duration_minutes: 25
-source: manual
-source_url: https://www.marmiton.org/recettes/recette_tarte-aux-noix-de-pecan-americaine_232228.aspx
-tags:
-  - americain
+image: tarte-aux-noix-de-pecan-american-pie.jpg
 ingredients:
 - name: beurre doux
   qty: 110
@@ -27,7 +21,15 @@ ingredients:
 - name: noix de pécan
   qty: 300
   unit: g
+role: dessert
+servings: 8
+source: manual
+source_url: https://www.marmiton.org/recettes/recette_tarte-aux-noix-de-pecan-americaine_232228.aspx
+tags:
+- americain
+title: Tarte aux noix de pécan (american pie)
 ---
+
 # Tarte aux noix de pécan (american pie)
 
 ## Ingrédients
