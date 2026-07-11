@@ -1,42 +1,33 @@
 ---
+title: Caviar d'aubergines simple
+servings: 4
 duration_minutes: 20
+source: manual
+source_url: https://www.cuisineaz.com/recettes/caviar-d-aubergines-simple-65420.aspx
 image: caviar-d-aubergines-simple.jpg
+role: preparation
+tags:
+- vegetarien
+- aperitif
 ingredients:
 - name: aubergine
-  qty: 3
+  qty: 3.0
 - name: ail
-  qty: 2
+  qty: 2.0
   unit: gousse
 - name: citron
-  qty: 1
+  qty: 1.0
 - name: huile d'olive
-  qty: 20
+  qty: 20.0
   unit: g
 - name: sel
 - name: poivre du moulin
 - name: pain de mie
-  qty: 4
+  qty: 4.0
   unit: tranche
-role: preparation
-servings: 4
-source: manual
-source_url: https://www.cuisineaz.com/recettes/caviar-d-aubergines-simple-65420.aspx
-tags:
-- vegetarien
-- aperitif
-title: Caviar d'aubergines simple
 ---
 
 # Caviar d'aubergines simple
-
-## Ingrédients
-
-- 3 aubergines
-- 2 gousses d'ail
-- 1 demi jus de citron
-- 20 g d'huile d'olive
-- sel, poivre du moulin
-- 4 tranches de pain de mie
 
 ## Préparation
 
