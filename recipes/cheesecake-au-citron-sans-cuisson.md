@@ -1,12 +1,6 @@
 ---
-title: Cheesecake au citron sans cuisson
-role: dessert
-servings: 6
 duration_minutes: 40
-source: manual
-source_url: https://www.maspatule.com/blog/2020/06/10/recette-cheesecake-au-citron-sans-cuisson/
-tags:
-  - citron
+image: cheesecake-au-citron-sans-cuisson.jpg
 ingredients:
 - name: biscuits
   qty: 160
@@ -36,7 +30,15 @@ ingredients:
 - name: maïzena
   qty: 1
   unit: cc
+role: dessert
+servings: 6
+source: manual
+source_url: https://www.maspatule.com/blog/2020/06/10/recette-cheesecake-au-citron-sans-cuisson/
+tags:
+- citron
+title: Cheesecake au citron sans cuisson
 ---
+
 # Cheesecake au citron sans cuisson
 
 ## Ingrédients
@@ -72,4 +74,3 @@ ingredients:
 16. Faites chauffer à feu moyen le temps que la préparation épaississe grâce à la maïzena. Cela prend entre 5 et 10 minutes en fonction de la puissance de votre feu.
 17. Une fois votre lemon curd épaissi, ajoutez le beurre hors du feu et mélangez avec un fouet.
 18. Attendez que le mélange refroidisse puis étalez le sur votre cheesecake.
-
