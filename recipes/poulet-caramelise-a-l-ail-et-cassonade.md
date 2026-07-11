@@ -1,23 +1,30 @@
 ---
+title: Poulet caramélisé à l'ail et cassonade
+servings: 4
 duration_minutes: 50
+source: manual
+source_url: https://www.750g.com/poulet-caramelise-a-l-ail-et-cassonade-r200870.htm
 image: poulet-caramelise-a-l-ail-et-cassonade.jpg
+tags:
+- francais
+- poulet
 ingredients:
 - name: hauts de cuisses de poulet ou 8 cuisses de poulet
-  qty: 8
+  qty: 8.0
 - name: sucre de canne
-  qty: 50
+  qty: 50.0
   unit: g
 - name: ail
-  qty: 4
+  qty: 4.0
   unit: gousse
 - name: beurre doux
-  qty: 3
+  qty: 3.0
   unit: cs
 - name: persil
-  qty: 2
+  qty: 2.0
   unit: cs
 - name: miel
-  qty: 1
+  qty: 1.0
   unit: cs
 - name: origan
   qty: 0.5
@@ -30,30 +37,9 @@ ingredients:
   unit: cc
 - name: sel ou sel fin
 - name: poivre
-servings: 4
-source: manual
-source_url: https://www.750g.com/poulet-caramelise-a-l-ail-et-cassonade-r200870.htm
-tags:
-- francais
-- poulet
-title: Poulet caramélisé à l'ail et cassonade
 ---
 
 # Poulet caramélisé à l'ail et cassonade
-
-## Ingrédients
-
-- 8 hauts de cuisses de poulet ou 8 cuisses de poulets
-- 50 g de sucre de canne roux ou cassonade
-- 4 gousses d'ail hachées
-- 3 cs de beurre doux
-- 2 cs de persil haché
-- 1 cs de miel
-- 0.5 cc d'origan séché
-- 0.25 cc de thym séché
-- 0.25 cc de basilic séché
-- sel ou sel fin
-- poivre
 
 ## Préparation
 
