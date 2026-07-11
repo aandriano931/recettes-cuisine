@@ -1,11 +1,6 @@
 ---
-title: Lasagnes d'aubergines
-servings: 6
 duration_minutes: 100
-source: manual
-source_url: https://www.marmiton.org/recettes/recette_lasagnes-d-aubergines_21651.aspx
-tags:
-  - vegetarien
+image: lasagnes-d-aubergines.jpg
 ingredients:
 - name: aubergine
   qty: 4
@@ -36,7 +31,14 @@ ingredients:
   unit: g
 - name: herbes de provence
 - name: huile d'olive
+servings: 6
+source: manual
+source_url: https://www.marmiton.org/recettes/recette_lasagnes-d-aubergines_21651.aspx
+tags:
+- vegetarien
+title: Lasagnes d'aubergines
 ---
+
 # Lasagnes d'aubergines
 
 ## Ingrédients
@@ -61,4 +63,3 @@ ingredients:
 3. Peler la carotte et la détailler en petits dés: les jeter dans la sauce tomate ainsi que l'oignon coupé finement. Ajouter poivre et herbes de Provence. Laisser cuire 30 mn sur feu très doux en remuant souvent.
 4. Dans un plat à gratin, couvrir le fond de quelques cuillerées de sauce. Recouvrir de feuilles de lasagnes (sans les faire se chevaucher) puis placer les tranches d'aubergines parallèles. Saler, poivrer, parsemer de parmesan et d'une petite poignée de Comté. Placer à nouveau feuilles de lasagne, sauce, aubergines, Comté, Parmesan. Faire 3 couches. Recouvrir le dessus du gratin de Comté.
 5. Cuire 50 min au four préchauffé à thermostat 7 (210°C) et déguster.
-
