@@ -1,11 +1,6 @@
 ---
-title: Amandine à l'ananas
-role: dessert
-servings: 6
 duration_minutes: 60
-source: manual
-source_url: https://www.lesrecettesdezazaetdesescops.com/2015/10/amandine-a-l-ananas.html
-tags: []
+image: amandine-a-l-ananas.jpg
 ingredients:
 - name: ananas au sirop
   qty: 1
@@ -29,7 +24,14 @@ ingredients:
 - name: sirop d'ananas
   qty: 50
   unit: ml
+role: dessert
+servings: 6
+source: manual
+source_url: https://www.lesrecettesdezazaetdesescops.com/2015/10/amandine-a-l-ananas.html
+tags: []
+title: Amandine à l'ananas
 ---
+
 # Amandine à l'ananas
 
 ## Ingrédients
