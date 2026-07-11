@@ -1,59 +1,42 @@
 ---
+title: Pad Thaï ou nouilles sautées à la thaïlandaise
+servings: 2
 duration_minutes: 25
+source: manual
+source_url: https://www.hervecuisine.com/recette/pad-thai-facile/
 image: pad-thai-ou-nouilles-sautees-a-la-thailandaise.jpg
+tags:
+- asiatique
+- thai
+- pates
 ingredients:
 - name: ciboule
 - name: cacahuètes grillées mixées
-  qty: 2
+  qty: 2.0
   unit: cs
 - name: cassonade
-  qty: 2
+  qty: 2.0
   unit: cs
 - name: crevettes séchées
-  qty: 1
+  qty: 1.0
   unit: cs
 - name: huile de tournesol
-  qty: 2
+  qty: 2.0
   unit: cs
 - name: pâte de tamarin
 - name: tofu ferme
 - name: pousses de soja
 - name: échalote
-  qty: 2
+  qty: 2.0
 - name: oeuf
-  qty: 2
+  qty: 2.0
 - name: citron
-  qty: 1
+  qty: 1.0
 - name: nouilles de riz
 - name: sauce poisson
-servings: 2
-source: manual
-source_url: https://www.hervecuisine.com/recette/pad-thai-facile/
-tags:
-- asiatique
-- thai
-- pates
-title: Pad Thaï ou nouilles sautées à la thaïlandaise
 ---
 
 # Pad Thaï ou nouilles sautées à la thaïlandaise
-
-## Ingrédients
-
-- ciboules ou oignons nouveaux
-- 2 cs de cacahuètes grillées mixées
-- 2 cs de cassonade
-- 1 cs de crevettes séchées
-- 2 cs d'huile de tournesol
-- pâte de tamarin acide
-- tofu ferme
-- pousses de soja
-- 2 échalotes
-- 2 oeufs
-- 1 citron
-- nouilles de riz
-- sauce poisson
-- optionnel (crevettes ou poulet émincé)
 
 ## Préparation
 
