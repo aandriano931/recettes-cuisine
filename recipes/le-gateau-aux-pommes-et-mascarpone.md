@@ -1,11 +1,6 @@
 ---
-title: Le Gâteau aux Pommes et Mascarpone
-role: dessert
-servings: 11
 duration_minutes: 70
-source: manual
-source_url: https://www.casseroleetchocolat.fr/gateau-pommes-mascarpone/
-tags: []
+image: le-gateau-aux-pommes-et-mascarpone.jpg
 ingredients:
 - name: pomme
   qty: 4
@@ -41,7 +36,14 @@ ingredients:
 - name: sucre glace
   qty: 2
   unit: cc
+role: dessert
+servings: 11
+source: manual
+source_url: https://www.casseroleetchocolat.fr/gateau-pommes-mascarpone/
+tags: []
+title: Le Gâteau aux Pommes et Mascarpone
 ---
+
 # Le Gâteau aux Pommes et Mascarpone
 
 ## Ingrédients
