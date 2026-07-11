@@ -1,55 +1,43 @@
 ---
-duration_minutes: 25
-image: riz-saute-aux-saucisses-chinoises.jpg
-ingredients:
-- name: riz
-  qty: 250
-  unit: g
-- name: saucisses chinoises à la citronnelle
-  qty: 500
-  unit: g
-- name: oignon doux
-  qty: 1
-- name: petits pois surgelés
-  qty: 175
-  unit: g
-- name: poivron jaune
-  qty: 200
-  unit: g
-- name: coriandre
-  qty: 1
-  unit: bouquet
-- name: sauce soja
-  qty: 2
-  unit: cs
-- name: huile de tournesol
-  qty: 2
-  unit: cs
-- name: sel
-- name: poivre
+title: Riz sauté aux saucisses chinoises
 servings: 6
+duration_minutes: 25
 source: manual
 source_url: https://lesfillesatable.com/2015/06/19/riz-saute-aux-saucisses-chinoises/
+image: riz-saute-aux-saucisses-chinoises.jpg
 tags:
 - asiatique
 - riz
 - saucisses
-title: Riz sauté aux saucisses chinoises
+ingredients:
+- name: riz
+  qty: 250.0
+  unit: g
+- name: saucisses chinoises à la citronnelle
+  qty: 500.0
+  unit: g
+- name: oignon doux
+  qty: 1.0
+- name: petits pois surgelés
+  qty: 175.0
+  unit: g
+- name: poivron jaune
+  qty: 200.0
+  unit: g
+- name: coriandre
+  qty: 1.0
+  unit: bouquet
+- name: sauce soja
+  qty: 2.0
+  unit: cs
+- name: huile de tournesol
+  qty: 2.0
+  unit: cs
+- name: sel
+- name: poivre
 ---
 
 # Riz sauté aux saucisses chinoises
-
-## Ingrédients
-  
-- 250 g de riz long grain
-- 500 g de saucisses chinoises à la citronnelle
-- 1 oignon doux émincé en demi-rondelles
-- 175 g de petits pois surgelés
-- 200 g de lamelles de poivron jaune
-- 1 bouquet de coriandre
-- 2 cuil. à soupe de sauce soja douces
-- 2 cuil. à soupe d'huile de tournesols
-- sel, poivre
 
 ## Préparation
 
