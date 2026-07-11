@@ -1,66 +1,49 @@
 ---
+title: La Vraie Moussaka Grecque
+servings: 8
 duration_minutes: 175
+source: manual
+source_url: https://www.marmiton.org/recettes/recette_la-vraie-moussaka-grecque_72593.aspx
 image: la-vraie-moussaka-grecque.jpg
+tags:
+- convivial
+- grec
 ingredients:
 - name: beurre
-  qty: 20
+  qty: 20.0
   unit: g
 - name: farine
-  qty: 3
+  qty: 3.0
   unit: cs
 - name: lait
-  qty: 35
+  qty: 35.0
   unit: cl
 - name: aubergine
-  qty: 2
+  qty: 2.0
 - name: tomate
-  qty: 5
+  qty: 5.0
 - name: oignon
-  qty: 1
+  qty: 1.0
 - name: huile d'olive
 - name: beurre
-  qty: 30
+  qty: 30.0
   unit: g
 - name: miel
-  qty: 1
+  qty: 1.0
   unit: cc
 - name: poivre
 - name: sel
 - name: pomme de terre
-  qty: 6
+  qty: 6.0
 - name: boeuf haché
-  qty: 500
+  qty: 500.0
   unit: g
 - name: cannelle
-  qty: 1
+  qty: 1.0
   unit: cc
-servings: 8
-source: manual
-source_url: https://www.marmiton.org/recettes/recette_la-vraie-moussaka-grecque_72593.aspx
-tags:
-- convivial
-- grec
-title: La Vraie Moussaka Grecque
 ---
 
 # La Vraie Moussaka Grecque
-
-## Ingrédients
-
-- 20 g de beurre
-- 3 cs de farine
-- 35 cl de lait
-- 2 aubergines
-- 5 tomates
-- 1 oignon
-- huile d'olive
-- 30 g de beurre
-- 1 cc de miel
-- poivre
-- sel
-- 6 pommes de terres
-- 500 g de boeuf haché
-- 1 cc de cannelle
 
 ## Préparation
 
