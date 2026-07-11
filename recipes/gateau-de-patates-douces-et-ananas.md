@@ -1,59 +1,46 @@
 ---
+title: Gâteau de patates douces et ananas
+servings: 8
 duration_minutes: 70
+source: manual
+source_url: https://www.750g.com/gateau-de-patates-douces-et-ananas-r65821.htm
 image: gateau-de-patates-douces-et-ananas.jpg
+role: dessert
+tags:
+- antillais
 ingredients:
 - name: sucre vanillé
-  qty: 1
+  qty: 1.0
   unit: sachet
 - name: oeuf
-  qty: 3
+  qty: 3.0
 - name: huile
-  qty: 30
+  qty: 30.0
   unit: cl
 - name: rhum
-  qty: 20
+  qty: 20.0
   unit: cl
 - name: sucre en poudre
-  qty: 110
+  qty: 110.0
   unit: g
 - name: levure chimique
   qty: 0.5
   unit: sachet
 - name: ananas en tranches
-  qty: 300
+  qty: 300.0
   unit: g
 - name: mascarpone
-  qty: 125
+  qty: 125.0
   unit: g
 - name: farine
-  qty: 100
+  qty: 100.0
   unit: g
 - name: patates douces
-  qty: 1
+  qty: 1.0
   unit: kg
-role: dessert
-servings: 8
-source: manual
-source_url: https://www.750g.com/gateau-de-patates-douces-et-ananas-r65821.htm
-tags:
-- antillais
-title: Gâteau de patates douces et ananas
 ---
 
 # Gâteau de patates douces et ananas
-
-## Ingrédients
-
-- 1 sachet de sucre vanillé
-- 3 jaunes d'oeufs
-- 30 cl d'huile
-- 20 cl de rhum
-- 110 g de sucre en poudre ou sucre semoule
-- 0.5 sachet de levure chimique
-- 300 g d'ananas en tranches
-- 125 g de mascarpone
-- 100 g de farine
-- 1 kg de patates douces
 
 ## Préparation
 
