@@ -1,12 +1,6 @@
 ---
-title: Gâteau de patates douces et ananas
-role: dessert
-servings: 8
 duration_minutes: 70
-source: manual
-source_url: https://www.750g.com/gateau-de-patates-douces-et-ananas-r65821.htm
-tags:
-  - antillais
+image: gateau-de-patates-douces-et-ananas.jpg
 ingredients:
 - name: sucre vanillé
   qty: 1
@@ -37,7 +31,15 @@ ingredients:
 - name: patates douces
   qty: 1
   unit: kg
+role: dessert
+servings: 8
+source: manual
+source_url: https://www.750g.com/gateau-de-patates-douces-et-ananas-r65821.htm
+tags:
+- antillais
+title: Gâteau de patates douces et ananas
 ---
+
 # Gâteau de patates douces et ananas
 
 ## Ingrédients
