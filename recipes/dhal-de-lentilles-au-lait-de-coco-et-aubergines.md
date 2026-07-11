@@ -1,66 +1,50 @@
 ---
+title: Dhal de lentilles au lait de coco et aubergines
+servings: 4
 duration_minutes: 45
+source: manual
+source_url: https://dashofhoney.ca/fr/dhal-de-lentilles-au-lait-de-coco-et-aubergines/
 image: dhal-de-lentilles-au-lait-de-coco-et-aubergines.jpg
+tags:
+- vegetarien
+- indien
 ingredients:
 - name: oignon
-  qty: 1
+  qty: 1.0
 - name: poudre de curcuma
-  qty: 2
+  qty: 2.0
   unit: cc
 - name: poudre de curry
-  qty: 2
+  qty: 2.0
   unit: cc
 - name: poudre de cumin
-  qty: 1
+  qty: 1.0
   unit: cc
 - name: ail
-  qty: 3
+  qty: 3.0
   unit: gousse
 - name: gingembre
-  qty: 1
+  qty: 1.0
   unit: cs
 - name: lentilles corail
   qty: 1.5
   unit: tasse
 - name: lait de coco
-  qty: 1
+  qty: 1.0
 - name: bouillon de légumes
   qty: 2.5
   unit: tasse
 - name: sirop d'érable
-  qty: 1
+  qty: 1.0
   unit: cc
 - name: aubergine
-  qty: 1
+  qty: 1.0
 - name: huile d'olive
-  qty: 4
+  qty: 4.0
   unit: cs
-servings: 4
-source: manual
-source_url: https://dashofhoney.ca/fr/dhal-de-lentilles-au-lait-de-coco-et-aubergines/
-tags:
-- vegetarien
-- indien
-title: Dhal de lentilles au lait de coco et aubergines
 ---
 
 # Dhal de lentilles au lait de coco et aubergines
-
-## Ingrédients
-
-- 1 cs d'huile de coconut ou huile d'olive
-- 1 oignon (jaune coupé en dés)
-- 2 cc de poudre de curcuma
-- 2 cc de poudre de curry
-- 1 cc de poudre de cumin
-- 3 gousses d'ail (s d'ail, émincées)
-- 1 cs de gingembre (c. à s. de gingembre frais râpé)
-- 1.5 tasses de lentilles corail (sèches)
-- 1 lait de coconut (canne de 400ml (full fat))
-- 2.5 tasses de bouillon de légumes
-- 1 cc de sirop d'érable
-- 1 petite aubergine
-- 3 cs d'huile d'olive
 
 ## Préparation
 
