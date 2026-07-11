@@ -1,13 +1,6 @@
 ---
-title: Riz sauté aux saucisses chinoises
-servings: 6
 duration_minutes: 25
-source: manual
-source_url: https://lesfillesatable.com/2015/06/19/riz-saute-aux-saucisses-chinoises/
-tags:
-- asiatique
-- riz
-- saucisses
+image: riz-saute-aux-saucisses-chinoises.jpg
 ingredients:
 - name: riz
   qty: 250
@@ -34,7 +27,16 @@ ingredients:
   unit: cs
 - name: sel
 - name: poivre
+servings: 6
+source: manual
+source_url: https://lesfillesatable.com/2015/06/19/riz-saute-aux-saucisses-chinoises/
+tags:
+- asiatique
+- riz
+- saucisses
+title: Riz sauté aux saucisses chinoises
 ---
+
 # Riz sauté aux saucisses chinoises
 
 ## Ingrédients
