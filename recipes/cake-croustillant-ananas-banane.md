@@ -1,11 +1,6 @@
 ---
-title: Cake croustillant ananas-banane
-role: dessert
-servings: 6
 duration_minutes: 60
-source: manual
-source_url: https://www.marmiton.org/recettes/recette_cake-croustillant-ananas-banane_314631.aspx
-tags: []
+image: cake-croustillant-ananas-banane.jpg
 ingredients:
 - name: oeuf
   qty: 2
@@ -32,9 +27,16 @@ ingredients:
 - name: banane
   qty: 1
 - name: rhum
-  qty: 1
   optional: true
+  qty: 1
+role: dessert
+servings: 6
+source: manual
+source_url: https://www.marmiton.org/recettes/recette_cake-croustillant-ananas-banane_314631.aspx
+tags: []
+title: Cake croustillant ananas-banane
 ---
+
 # Cake croustillant ananas-banane
 
 ## Ingrédients
