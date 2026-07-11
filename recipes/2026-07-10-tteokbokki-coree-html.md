@@ -1,5 +1,5 @@
 ---
-title: Tteokbokki coree.html
+title: Tteokbokki
 servings: 4
 duration_minutes: 30
 source: agent_draft
@@ -14,12 +14,12 @@ ingredients:
   qty: 500.0
   unit: g
   note: gâteaux de riz
+- name: saucisses à la citronnelle
+  qty: 5.0
+  note: en petites rondelles
 - name: eau
   qty: 750.0
   unit: ml
-- name: anchois séchés
-  qty: 7.0
-  note: vidés (optionnel car difficilement trouvables.)
 - name: varech séché
   qty: 1.0
   unit: feuille
@@ -46,30 +46,36 @@ ingredients:
   qty: 3.0
   unit: branche
   note: émincée
-- name: œufs
-  qty: 2.0
-  note: durs (optionnels)
-- name: petit chou chinois
-  qty: 0.5
-  note: émincé grossièrement
+- name: nouilles de blé chinoises (type ramen)
+  note: pour plus de portions (optionnel)
 - name: graines de sésame
   qty: 1.0
   unit: cs
   note: grillées (optionnel)
+- name: œufs
+  qty: 2.0
+  note: durs (optionnels)
+- name: 'petit chou chinois '
+  qty: 0.5
+  note: émincé grossièrement (optionnel)
+- name: anchois séchés
+  qty: 7.0
+  note: vidés (optionnel car difficilement trouvables.)
 ---
 
-# Tteokbokki coree.html
+# Tteokbokki
 
 ## Préparation
 
 1. Faire bouillir l'eau avec les anchois et l'algue à découvert pendant 15 minutes.
-2. Retirer les algues et les anchois.
-3. Dans un petit bol, mélanger la pâte de piment, l'ail, éventuellement le piment en poudre, le miel et le sucre.
-4. Ajouter les tteok au bouillon, puis le mélange piments-sucre, le chou et la ciboule.
-5. Porter à ébullition et laisser cuire pendant une vingtaine de minutes.
-6. 5 minutes avant la fin de la cuisson, ajouter les œufs durs coupés en deux et baisser le feu.
-7. Servir bien chaud saupoudré de graines de sésame.
+2. En parallèle faire cuire dans une poêle sans matière grasse les tranches de saucisses à la citronnelles. Quand elles sont bien grillées les égoutter pour éliminer l'excès de gras et réserver
+3. Retirer les algues et les anchois.
+4. Dans un petit bol, mélanger la pâte de piment, l'ail, éventuellement le piment en poudre, le miel et le sucre.
+5. Ajouter les tteok au bouillon, puis le mélange piments-sucre, le chou, la ciboule et les nouilles de blé.
+6. Porter à ébullition et laisser cuire pendant une vingtaine de minutes.
+7. 5 minutes avant la fin de la cuisson, ajouter les œufs durs coupés en deux et baisser le feu.
+8. Servir bien chaud saupoudré de graines de sésame.
 
 ## Notes
 
-(brouillon généré par Alfred — à relire et corriger)
+(Version améliorée)
