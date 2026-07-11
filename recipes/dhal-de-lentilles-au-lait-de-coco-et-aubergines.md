@@ -1,12 +1,6 @@
 ---
-title: Dhal de lentilles au lait de coco et aubergines
-servings: 4
 duration_minutes: 45
-source: manual
-source_url: https://dashofhoney.ca/fr/dhal-de-lentilles-au-lait-de-coco-et-aubergines/
-tags:
-  - vegetarien
-  - indien
+image: dhal-de-lentilles-au-lait-de-coco-et-aubergines.jpg
 ingredients:
 - name: oignon
   qty: 1
@@ -41,7 +35,15 @@ ingredients:
 - name: huile d'olive
   qty: 4
   unit: cs
+servings: 4
+source: manual
+source_url: https://dashofhoney.ca/fr/dhal-de-lentilles-au-lait-de-coco-et-aubergines/
+tags:
+- vegetarien
+- indien
+title: Dhal de lentilles au lait de coco et aubergines
 ---
+
 # Dhal de lentilles au lait de coco et aubergines
 
 ## Ingrédients
