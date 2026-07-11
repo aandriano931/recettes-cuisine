@@ -1,12 +1,6 @@
 ---
-title: Shiitaké farcis
-servings: 4
 duration_minutes: 23
-source: agent_draft
-tags:
-  - japonais
-  - poulet
-  - aperitif
+image: 2026-05-05-shiitake-farcis.jpg
 ingredients:
 - name: champignon shiitake
   qty: 8.0
@@ -16,9 +10,9 @@ ingredients:
 - name: oignon nouveau
   qty: 1.0
 - name: gingembre frais
+  note: râpé
   qty: 1.0
   unit: cs
-  note: râpé
 - name: jus de citron
   qty: 0.5
 - name: sake
@@ -30,6 +24,13 @@ ingredients:
 - name: huile d'olive
   qty: 2.0
   unit: cs
+servings: 4
+source: agent_draft
+tags:
+- japonais
+- poulet
+- aperitif
+title: Shiitaké farcis
 ---
 
 # Shiitaké farcis
