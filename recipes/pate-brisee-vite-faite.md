@@ -1,11 +1,6 @@
 ---
-title: Pâte brisée vite faite
-role: preparation
-servings: 1
 duration_minutes: 30
-source: manual
-source_url: https://www.marmiton.org/recettes/recette_pate-brisee-vite-faite_31639.aspx
-tags: []
+image: pate-brisee-vite-faite.jpg
 ingredients:
 - name: farine
   qty: 300
@@ -22,7 +17,14 @@ ingredients:
 - name: eau
   qty: 8
   unit: cl
+role: preparation
+servings: 1
+source: manual
+source_url: https://www.marmiton.org/recettes/recette_pate-brisee-vite-faite_31639.aspx
+tags: []
+title: Pâte brisée vite faite
 ---
+
 # Pâte brisée vite faite
 
 ## Ingrédients
