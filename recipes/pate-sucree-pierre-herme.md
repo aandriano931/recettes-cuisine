@@ -1,11 +1,6 @@
 ---
-title: Pate sucree pierre herme
-role: preparation
-servings: 2
 duration_minutes: 20
-source: manual
-source_url: https://lacuisinedethomas.fr/recettes/pate-sucree-pierre-herme/
-tags: []
+image: pate-sucree-pierre-herme.jpg
 ingredients:
 - name: beurre
   qty: 140
@@ -24,7 +19,14 @@ ingredients:
 - name: sel
   qty: 1
   unit: pincee
+role: preparation
+servings: 2
+source: manual
+source_url: https://lacuisinedethomas.fr/recettes/pate-sucree-pierre-herme/
+tags: []
+title: Pate sucree pierre herme
 ---
+
 # Pate sucree pierre herme
 
 ## Ingrédients
