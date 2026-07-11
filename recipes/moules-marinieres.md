@@ -1,11 +1,6 @@
 ---
-title: Moules marinières
-servings: 2
 duration_minutes: 25
-source: manual
-source_url: https://www.maspatule.com/blog/2022/08/23/recette-moules-marinieres/
-tags:
-  - fruits-de-mer
+image: moules-marinieres.jpg
 ingredients:
 - name: moules
   qty: 1.5
@@ -25,7 +20,14 @@ ingredients:
   qty: 30
   unit: cl
 - name: thym
+servings: 2
+source: manual
+source_url: https://www.maspatule.com/blog/2022/08/23/recette-moules-marinieres/
+tags:
+- fruits-de-mer
+title: Moules marinières
 ---
+
 # Moules marinières
 
 ## Ingrédients
