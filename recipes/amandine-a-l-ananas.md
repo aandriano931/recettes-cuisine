@@ -1,49 +1,38 @@
 ---
-duration_minutes: 60
-image: amandine-a-l-ananas.jpg
-ingredients:
-- name: ananas au sirop
-  qty: 1
-  unit: boite
-- name: pâte feuilletée
-  qty: 1
-- name: amandes en poudre
-  qty: 100
-  unit: g
-- name: beurre
-  qty: 100
-  unit: g
-- name: sucre
-  qty: 100
-  unit: g
-- name: farine
-  qty: 25
-  unit: g
-- name: oeuf
-  qty: 2
-- name: sirop d'ananas
-  qty: 50
-  unit: ml
-role: dessert
+title: Amandine à l'ananas
 servings: 6
+duration_minutes: 60
 source: manual
 source_url: https://www.lesrecettesdezazaetdesescops.com/2015/10/amandine-a-l-ananas.html
+image: amandine-a-l-ananas.jpg
+role: dessert
 tags: []
-title: Amandine à l'ananas
+ingredients:
+- name: ananas au sirop
+  qty: 1.0
+  unit: boite
+- name: pâte feuilletée
+  qty: 1.0
+- name: amandes en poudre
+  qty: 100.0
+  unit: g
+- name: beurre
+  qty: 100.0
+  unit: g
+- name: sucre
+  qty: 100.0
+  unit: g
+- name: farine
+  qty: 25.0
+  unit: g
+- name: oeuf
+  qty: 2.0
+- name: sirop d'ananas
+  qty: 50.0
+  unit: ml
 ---
 
 # Amandine à l'ananas
-
-## Ingrédients
-
-- 1 boite d'ananas au sirop
-- 1 pâte feuilletée
-- 100 g d'amandes en poudre
-- 100 g de beurre
-- 100 g de sucre
-- 25 g de farine
-- 2 oeufs
-- 50 ml de sirop d'ananas
 
 ## Préparation
 
