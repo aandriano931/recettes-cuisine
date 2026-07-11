@@ -1,60 +1,45 @@
 ---
+title: Lasagnes d'aubergines
+servings: 6
 duration_minutes: 100
+source: manual
+source_url: https://www.marmiton.org/recettes/recette_lasagnes-d-aubergines_21651.aspx
 image: lasagnes-d-aubergines.jpg
+tags:
+- vegetarien
 ingredients:
 - name: aubergine
-  qty: 4
+  qty: 4.0
 - name: lasagnes
-  qty: 8
+  qty: 8.0
   unit: feuille
 - name: coulis de tomate
-  qty: 500
+  qty: 500.0
   unit: g
 - name: carotte
-  qty: 1
+  qty: 1.0
 - name: oignon
-  qty: 1
+  qty: 1.0
 - name: beurre
-  qty: 25
+  qty: 25.0
   unit: g
 - name: farine
-  qty: 25
+  qty: 25.0
   unit: g
 - name: bouillon
-  qty: 50
+  qty: 50.0
   unit: cl
 - name: parmesan
-  qty: 50
+  qty: 50.0
   unit: g
 - name: comté
-  qty: 150
+  qty: 150.0
   unit: g
 - name: herbes de provence
 - name: huile d'olive
-servings: 6
-source: manual
-source_url: https://www.marmiton.org/recettes/recette_lasagnes-d-aubergines_21651.aspx
-tags:
-- vegetarien
-title: Lasagnes d'aubergines
 ---
 
 # Lasagnes d'aubergines
-
-## Ingrédients
-
-- 4 aubergines fraîches ou surgelées
-- 8 feuilles de lasagnes
-- 500 g de coulis de tomate
-- 1 carotte
-- 1 oignon
-- 25 g de beurre
-- 25 g de farine
-- 50 cl de bouillon
-- 50 g de parmesan
-- 150 g de comté
-- herbes de provence
-- huile d'olive
 
 ## Préparation
 
