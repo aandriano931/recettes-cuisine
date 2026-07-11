@@ -1,58 +1,45 @@
 ---
+title: Cheesecake au citron sans cuisson
+servings: 6
 duration_minutes: 40
+source: manual
+source_url: https://www.maspatule.com/blog/2020/06/10/recette-cheesecake-au-citron-sans-cuisson/
 image: cheesecake-au-citron-sans-cuisson.jpg
+role: dessert
+tags:
+- citron
 ingredients:
 - name: biscuits
-  qty: 160
+  qty: 160.0
   unit: g
 - name: beurre
-  qty: 70
+  qty: 70.0
   unit: g
 - name: philadelphia
-  qty: 300
+  qty: 300.0
   unit: g
 - name: sucre
-  qty: 200
+  qty: 200.0
   unit: g
 - name: jus de citron
-  qty: 220
+  qty: 220.0
   unit: g
 - name: citron
   qty: 2.5
 - name: crème liquide 30%
-  qty: 280
+  qty: 280.0
   unit: g
 - name: gélatine
-  qty: 2
+  qty: 2.0
   unit: feuille
 - name: oeuf
-  qty: 3
+  qty: 3.0
 - name: maïzena
-  qty: 1
+  qty: 1.0
   unit: cc
-role: dessert
-servings: 6
-source: manual
-source_url: https://www.maspatule.com/blog/2020/06/10/recette-cheesecake-au-citron-sans-cuisson/
-tags:
-- citron
-title: Cheesecake au citron sans cuisson
 ---
 
 # Cheesecake au citron sans cuisson
-
-## Ingrédients
-
-- 160 g de biscuits
-- 70 g de beurre
-- 300 g de philadelphia ou autre fromage frais
-- 200 g de sucre
-- 220 g de jus de citron
-- zestes de 2,5 citrons
-- 280 g de crème liquide 30%
-- 2 feuilles de gélatine
-- 3 oeufs
-- 1 cc de maïzena
 
 ## Préparation
 
