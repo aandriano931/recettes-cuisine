@@ -1,12 +1,6 @@
 ---
-title: Poulet caramélisé à l'ail et cassonade
-servings: 4
 duration_minutes: 50
-source: manual
-source_url: https://www.750g.com/poulet-caramelise-a-l-ail-et-cassonade-r200870.htm
-tags:
-  - francais
-  - poulet
+image: poulet-caramelise-a-l-ail-et-cassonade.jpg
 ingredients:
 - name: hauts de cuisses de poulet ou 8 cuisses de poulet
   qty: 8
@@ -36,7 +30,15 @@ ingredients:
   unit: cc
 - name: sel ou sel fin
 - name: poivre
+servings: 4
+source: manual
+source_url: https://www.750g.com/poulet-caramelise-a-l-ail-et-cassonade-r200870.htm
+tags:
+- francais
+- poulet
+title: Poulet caramélisé à l'ail et cassonade
 ---
+
 # Poulet caramélisé à l'ail et cassonade
 
 ## Ingrédients
