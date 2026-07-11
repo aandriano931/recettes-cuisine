@@ -5,10 +5,12 @@ duration_minutes: 30
 source: agent_draft
 source_url: https://humour-gloire-et-beaute.blogspot.com/2016/04/tteokbokki-coree.html?m=1
 image: 2026-07-10-tteokbokki-coree-html.jpg
+role: main
 tags:
 - asiatique
 - coreen
 - riz
+- rapide
 ingredients:
 - name: tteok
   qty: 500.0
@@ -55,7 +57,7 @@ ingredients:
 - name: œufs
   qty: 2.0
   note: durs (optionnels)
-- name: 'petit chou chinois '
+- name: petit chou chinois
   qty: 0.5
   note: émincé grossièrement (optionnel)
 - name: anchois séchés
