@@ -1,14 +1,6 @@
 ---
-title: Guacamole très facile
-role: preparation
-servings: 4
 duration_minutes: 10
-source: manual
-source_url: https://www.marmiton.org/recettes/recette_guacamole-tres-facile_13111.aspx
-tags:
-- aperitif
-- mexicain
-- vegetarien
+image: guacamole-tres-facile.jpg
 ingredients:
 - name: tomate
   qty: 2
@@ -21,7 +13,17 @@ ingredients:
 - name: sauce piquante
 - name: avocat
   qty: 2
+role: preparation
+servings: 4
+source: manual
+source_url: https://www.marmiton.org/recettes/recette_guacamole-tres-facile_13111.aspx
+tags:
+- aperitif
+- mexicain
+- vegetarien
+title: Guacamole très facile
 ---
+
 # Guacamole très facile
 
 ## Ingrédients
