@@ -1,73 +1,55 @@
 ---
-duration_minutes: 70
-image: paella-fruits-de-mer-chorizo-et-poulet-de-patou.jpg
-ingredients:
-- name: riz
-  qty: 500
-  unit: g
-- name: chorizo
-  qty: 1
-- name: poivron
-  qty: 2
-- name: tomate
-  qty: 1
-  unit: kg
-- name: oignon
-  qty: 2
-- name: ail
-  qty: 3
-  unit: gousse
-- name: safran
-  qty: 3
-  unit: brin
-- name: bouillon de volaille
-  qty: 1
-  unit: l
-- name: huile d'olive
-  qty: 5
-  unit: cs
-- name: poivre
-- name: sel
-- name: filet de poulet
-  qty: 1
-  unit: kg
-- name: calamar
-  qty: 500
-  unit: g
-- name: moules
-  qty: 1
-  unit: l
-- name: crevette
-  qty: 15
+title: Paëlla fruits de mer, chorizo et poulet de Patou
 servings: 8
+duration_minutes: 70
 source: manual
 source_url: https://www.marmiton.org/recettes/recette_paella-fruits-de-mer-chorizo-et-poulet-de-patou_50730.aspx
+image: paella-fruits-de-mer-chorizo-et-poulet-de-patou.jpg
 tags:
 - convivial
 - mediterraneen
 - riz
-title: Paëlla fruits de mer, chorizo et poulet de Patou
+ingredients:
+- name: riz
+  qty: 500.0
+  unit: g
+- name: chorizo
+  qty: 1.0
+- name: poivron
+  qty: 2.0
+- name: tomate
+  qty: 1.0
+  unit: kg
+- name: oignon
+  qty: 2.0
+- name: ail
+  qty: 3.0
+  unit: gousse
+- name: safran
+  qty: 3.0
+  unit: brin
+- name: bouillon de volaille
+  qty: 1.0
+  unit: l
+- name: huile d'olive
+  qty: 5.0
+  unit: cs
+- name: poivre
+- name: sel
+- name: filet de poulet
+  qty: 1.0
+  unit: kg
+- name: calamar
+  qty: 500.0
+  unit: g
+- name: moules
+  qty: 1.0
+  unit: l
+- name: crevette
+  qty: 15.0
 ---
 
 # Paëlla fruits de mer, chorizo et poulet de Patou
-
-## Ingrédients
-
-- 500 g de riz
-- 1 chorizo
-- 2 poivrons
-- 1 kg de tomate
-- 2 oignons
-- 3 gousses d'ail
-- 3 doses de safrans
-- 1 l de bouillon de volaille
-- 5 cs d'huile d'olive
-- poivre
-- sel
-- 1 kg de filet de poulet
-- 500 g de calamar
-- 1 l de moules
-- 15 crevettes
 
 ## Préparation
 
