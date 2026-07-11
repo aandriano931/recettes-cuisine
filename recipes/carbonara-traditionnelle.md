@@ -1,41 +1,32 @@
 ---
-duration_minutes: 40
-image: carbonara-traditionnelle.jpg
-ingredients:
-- name: pâtes longues
-  qty: 300
-  unit: g
-- name: gros sel
-  qty: 1
-  unit: cc
-- name: guanciale
-  qty: 400
-  unit: g
-- name: oeuf
-  qty: 6
-- name: pecorino romano
-  qty: 50
-  unit: g
-- name: poivre
+title: Carbonara traditionnelle
 servings: 4
+duration_minutes: 40
 source: manual
 source_url: https://www.marmiton.org/recettes/recette_carbonara-traditionnelle_340808.aspx
+image: carbonara-traditionnelle.jpg
 tags:
 - italien
 - pates
-title: Carbonara traditionnelle
+ingredients:
+- name: pâtes longues
+  qty: 300.0
+  unit: g
+- name: gros sel
+  qty: 1.0
+  unit: cc
+- name: guanciale
+  qty: 400.0
+  unit: g
+- name: oeuf
+  qty: 6.0
+- name: pecorino romano
+  qty: 50.0
+  unit: g
+- name: poivre
 ---
 
 # Carbonara traditionnelle
-
-## Ingrédients
-
-- 300 g de pâtes longues
-- 1 cc de gros sel
-- 400 g de guanciale
-- 6 jaunes d'oeufs
-- 50 g de pecorino romano râpé
-- poivre noir du moulin
 
 ## Préparation
 
