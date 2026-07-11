@@ -1,12 +1,6 @@
 ---
-title: La Vraie Moussaka Grecque
-servings: 8
 duration_minutes: 175
-source: manual
-source_url: https://www.marmiton.org/recettes/recette_la-vraie-moussaka-grecque_72593.aspx
-tags:
-  - convivial
-  - grec
+image: la-vraie-moussaka-grecque.jpg
 ingredients:
 - name: beurre
   qty: 20
@@ -40,7 +34,15 @@ ingredients:
 - name: cannelle
   qty: 1
   unit: cc
+servings: 8
+source: manual
+source_url: https://www.marmiton.org/recettes/recette_la-vraie-moussaka-grecque_72593.aspx
+tags:
+- convivial
+- grec
+title: La Vraie Moussaka Grecque
 ---
+
 # La Vraie Moussaka Grecque
 
 ## Ingrédients
@@ -84,5 +86,3 @@ ingredients:
 20. Montage de la moussaka.
 21. Par dessus la couche de pommes de terre, étaler la moitié de la viande hachée avec la tomate, puis la moitié des aubergines, puis l'autre moitié de viande, puis l'autre moitié des aubergines, un filet d'huile d'olive et terminer par la béchamel.
 22. Enfourner le tout dans le four à 200°C (thermostat 6-7) et laisser cuire 1h (la béchamel doit croustiller et être dorée).
-
-
