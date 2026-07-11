@@ -1,69 +1,50 @@
 ---
+title: Curry vert de lotte
+servings: 4
 duration_minutes: 55
+source: manual
+source_url: https://chefsimon.com/gourmets/chef-simon/recettes/curry-vert-de-lotte
 image: curry-vert-de-lotte.jpg
+tags:
+- asiatique
+- poisson
 ingredients:
 - name: queue de lotte
-  qty: 1
+  qty: 1.0
 - name: huile d'olive
-  qty: 3
+  qty: 3.0
   unit: cl
 - name: ail
-  qty: 2
+  qty: 2.0
   unit: gousse
 - name: citronelle
-  qty: 2
+  qty: 2.0
   unit: tige
 - name: échalote
-  qty: 2
+  qty: 2.0
 - name: curry vert en pâte
-  qty: 1
+  qty: 1.0
   unit: cc
 - name: lait de coco
-  qty: 20
+  qty: 20.0
   unit: cl
 - name: citron vert
   qty: 0.5
 - name: oignon nouveau
-  qty: 8
+  qty: 8.0
 - name: fumet de poisson
   qty: 0.5
   unit: l
 - name: gingembre
-  qty: 2
+  qty: 2.0
   unit: tranche
 - name: sauce soja
 - name: basilic ou coriandre
 - name: nuoc-mâm
 - name: huile de sésame
-servings: 4
-source: manual
-source_url: https://chefsimon.com/gourmets/chef-simon/recettes/curry-vert-de-lotte
-tags:
-- asiatique
-- poisson
-title: Curry vert de lotte
 ---
 
 # Curry vert de lotte
-
-## Ingrédients
-
-- une très belle queue de lotte parée et nettoyée
-- 2 à 3 cl huile d'olive ou d'arachides
-- 2 gousses d'ail
-- 2 tiges de citronelle écrasées
-- 2 grosses échalotes ciselées
-- 1 cc de curry vert en pâte
-- 20 cl de lait ou de crème de coco
-- le zeste d'un demi citron vert
-- 12 oignons grelots ou 8 oignons nouveaux
-- 0.5 l de fumet de poisson
-- 2 tranches de gingembre
-- sauce soja non sucrée
-- feuilles de basilic ou de coriandre
-- nuoc-mâm
-- huile de sésame
-- 200 g de garniture .
 
 ## Préparation
 
